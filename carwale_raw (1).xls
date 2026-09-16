@@ -1,0 +1,515 @@
+Car Name,Brand,Price,Fuel Type,Transmission,Engine (cc),Mileage,Seating Capacity,User Rating,URL
+Aston Martin DB11,Aston Martin,31121622.0,,Automatic,5198,8.9,4,4.5,https://www.carwale.com/aston-martin-cars/db11/
+Aston Martin DB12,Aston Martin,43418919.0,,Automatic,5198,12.75,4,4.1,https://www.carwale.com/aston-martin-cars/db12/
+Aston Martin DBX,Aston Martin,38200000.0,,Automatic,3982,10.1,5,4.7,https://www.carwale.com/aston-martin-cars/dbx/
+Aston Martin Vanquish,Aston Martin,83716216.0,,Automatic,5203,,2,4.9,https://www.carwale.com/aston-martin-cars/vanquish/
+Aston Martin Vantage,Aston Martin,37743243.0,,Automatic,3982,,2,5.0,https://www.carwale.com/aston-martin-cars/vantage/
+Audi A4,Audi,4687969.0,,Automatic,1984,17.4,5,4.7,https://www.carwale.com/audi-cars/a4/
+Audi A5 Cabriolet,Audi,6949098.0,,Automatic,1968,,4,4.5,https://www.carwale.com/audi-cars/a5-cabriolet/
+Audi A5,Audi,5544413.0,,Automatic,1968,,5,4.4,https://www.carwale.com/audi-cars/a5/
+Audi A6,Audi,6480958.0,,Automatic,1984,14,5,4.7,https://www.carwale.com/audi-cars/a6/
+Audi A8 L,Audi,12687973.0,,Automatic,2995,,4,4.8,https://www.carwale.com/audi-cars/a8-l/
+Audi e-tron GT,Audi,17157000.0,,Automatic,,,5,4.8,https://www.carwale.com/audi-cars/e-tron-gt/
+Audi e-tron Sportback,Audi,12024000.0,,Automatic,,,5,4.7,https://www.carwale.com/audi-cars/e-tron-sportback/
+Audi e-tron,Audi,10216000.0,,Automatic,,,5,4.7,https://www.carwale.com/audi-cars/e-tron/
+Audi New Q3,Audi,4300000.0,,,,,,,https://www.carwale.com/audi-cars/new-q3/
+Audi New Q5 third-gen,Audi,6500000.0,,,,,,,https://www.carwale.com/audi-cars/new-q5-third-gen/
+Audi Q2,Audi,3499550.0,,Automatic,1984,,5,4.4,https://www.carwale.com/audi-cars/q2/
+Audi Q3 Sportback,Audi,5355000.0,,Automatic,1984,,5,4.8,https://www.carwale.com/audi-cars/q3-sportback/
+Audi Q3,Audi,4366971.0,,Automatic,1984,14.93,5,4.7,https://www.carwale.com/audi-cars/q3/
+Audi Q5,Audi,6554958.0,,Automatic,1984,13.4,5,4.8,https://www.carwale.com/audi-cars/q5/
+Audi Q6 e-tron,Audi,10000000.0,,,,,,,https://www.carwale.com/audi-cars/q6-e-tron/
+Audi Q7,Audi,8761914.0,,Automatic,2995,,7,4.8,https://www.carwale.com/audi-cars/q7/
+Audi Q8 e-tron,Audi,11473000.0,,Automatic,,,5,5.0,https://www.carwale.com/audi-cars/q8-e-tron/
+Audi Q8 Sportback e-tron,Audi,11923000.0,,Automatic,,,5,5.0,https://www.carwale.com/audi-cars/q8-sportback-e-tron/
+Audi Q8,Audi,11481888.0,,Automatic,2995,,5,4.7,https://www.carwale.com/audi-cars/q8/
+Audi Q9,Audi,12500000.0,,,,,,,https://www.carwale.com/audi-cars/q9/
+Audi RS Q8 Performance,Audi,23816000.0,,Automatic,3996,9,5,4.3,https://www.carwale.com/audi-cars/rs-q8-performance/
+Audi RS5,Audi,10668378.0,,Automatic,2894,10.8,5,4.9,https://www.carwale.com/audi-cars/rs5/
+Audi RS7 Sportback,Audi,22321606.0,,Automatic,3996,,4,4.4,https://www.carwale.com/audi-cars/rs7-sportback/
+Audi S5 Sportback,Audi,7357000.0,,Automatic,2994,10.6,5,4.7,https://www.carwale.com/audi-cars/s5-sportback/
+Audi SQ8,Audi,17772000.0,,Automatic,3996,,5,5.0,https://www.carwale.com/audi-cars/sq8/
+Bentley Bentayga,Bentley,38266667.0,,Automatic,3996,7.6,5,4.9,https://www.carwale.com/bentley-cars/bentayga/
+BMW 1 Series,BMW,2279520.0,,Automatic,1598,,5,4.3,https://www.carwale.com/bmw-cars/1-series/
+BMW 2 Series Gran Coupe,BMW,4579968.0,,Automatic,1499,16.35,5,4.8,https://www.carwale.com/bmw-cars/2-series-gran-coupe/
+BMW 3 Series Gran Limousine,BMW,5889743.0,,Automatic,1995,,5,4.8,https://www.carwale.com/bmw-cars/3-series-gran-limousine/
+BMW 3 Series LWB,BMW,6269854.0,,Automatic,1998,11.5,5,4.7,https://www.carwale.com/bmw-cars/3-series/
+BMW 5 Series,BMW,7659724.0,,Automatic,1998,15.7,5,4.9,https://www.carwale.com/bmw-cars/5-series/
+BMW 6 Series GT,BMW,7148954.0,,Automatic,1995,,5,4.8,https://www.carwale.com/bmw-cars/6-series-gt/
+BMW 7 Series,BMW,18479601.0,,Automatic,2993,12.61,5,4.8,https://www.carwale.com/bmw-cars/7-series/
+BMW i4,BMW,7250000.0,,Automatic,,,5,4.6,https://www.carwale.com/bmw-cars/i4/
+BMW i5,BMW,11950000.0,,Automatic,,,4,4.3,https://www.carwale.com/bmw-cars/i5/
+BMW i7,BMW,20500000.0,,Automatic,,,5,4.9,https://www.carwale.com/bmw-cars/i7/
+BMW iX,BMW,13950000.0,,Automatic,,,5,4.7,https://www.carwale.com/bmw-cars/ix/
+BMW iX1 LWB,BMW,5139903.0,,Automatic,,,5,4.7,https://www.carwale.com/bmw-cars/ix1-lwb/
+BMW iX1,BMW,6690000.0,,Automatic,,,5,4.4,https://www.carwale.com/bmw-cars/ix1/
+BMW iX3,BMW,6500000.0,,,,,,,https://www.carwale.com/bmw-cars/ix3/
+BMW M2,BMW,10449724.0,,Automatic,2993,,4,4.7,https://www.carwale.com/bmw-cars/m2/
+BMW M3,BMW,13019548.0,,Automatic,2979,,5,4.7,https://www.carwale.com/bmw-cars/m3/
+BMW M340i,BMW,7709796.0,,Automatic,2998,13.02,5,4.8,https://www.carwale.com/bmw-cars/m340i/
+BMW M4,BMW,15549792.0,,Automatic,2993,10,4,4.9,https://www.carwale.com/bmw-cars/m4/
+BMW M440i,BMW,10900000.0,,Automatic,2998,10.24,4,4.8,https://www.carwale.com/bmw-cars/m440i/
+BMW M5,BMW,20849494.0,,Automatic,4395,14,5,4.9,https://www.carwale.com/bmw-cars/m5/
+BMW M6,BMW,17634762.0,,Automatic,4395,,4,4.8,https://www.carwale.com/bmw-cars/m6/
+BMW M8,BMW,23840365.0,,Automatic,4395,,4,4.8,https://www.carwale.com/bmw-cars/m8/
+BMW New X5,BMW,10000000.0,,,,,,,https://www.carwale.com/bmw-cars/new-x5/
+BMW X1,BMW,5089851.0,,Automatic,1499,16.35,5,4.5,https://www.carwale.com/bmw-cars/x1/
+BMW X3 M,BMW,9990092.0,,Automatic,2993,,5,,https://www.carwale.com/bmw-cars/x3-m/
+BMW X3 M40i,BMW,8770000.0,,Automatic,2998,,5,4.3,https://www.carwale.com/bmw-cars/x3-m40i/
+BMW X3,BMW,6990084.0,,Automatic,1995,14,5,4.8,https://www.carwale.com/bmw-cars/x3/
+BMW X4 M40i,BMW,9100000.0,,Automatic,2998,10.4,5,4.6,https://www.carwale.com/bmw-cars/x4/
+BMW X5,BMW,9539870.0,,Automatic,2993,12,5,4.9,https://www.carwale.com/bmw-cars/x5/
+BMW X6,BMW,17790000.0,,Automatic,4395,7.89,5,5.0,https://www.carwale.com/bmw-cars/x6/
+BMW X7,BMW,12919756.0,,Automatic,2993,11.29,6,4.7,https://www.carwale.com/bmw-cars/x7/
+BMW XM,BMW,25455355.0,,Automatic,4395,61.9,5,4.7,https://www.carwale.com/bmw-cars/xm/
+BYD Atto 2,BYD,1800000.0,,,,,,,https://www.carwale.com/byd-cars/atto-2/
+BYD Atto 3,BYD,2499000.0,,,,,,3.9,https://www.carwale.com/byd-cars/atto-3/
+BYD e6,BYD,2915000.0,,,,,,4.0,https://www.carwale.com/byd-cars/e6/
+BYD eMax 7,BYD,2690000.0,,,,,,4.1,https://www.carwale.com/byd-cars/emax-7/
+BYD Seal U DM-i,BYD,6000000.0,,Automatic,,,,,https://www.carwale.com/byd-cars/seal-u-dm-i/
+BYD Seal,BYD,4149968.0,,Automatic,,,5,4.7,https://www.carwale.com/byd-cars/seal/
+BYD Sealion 7,BYD,4940000.0,,Automatic,,,5,4.5,https://www.carwale.com/byd-cars/sealion-7/
+Citroen Aircross X Facelift,Citroen,1025000.0,,,,,,,https://www.carwale.com/citroen-cars/aircross-x-facelift/
+Citroen Aircross X,Citroen,888961.0,,Manual,1199,17.6,5,4.7,https://www.carwale.com/citroen-cars/aircross-x/
+Citroen Basalt EV,Citroen,1400000.0,,,,,,,https://www.carwale.com/citroen-cars/basalt-ev/
+Citroen Basalt X,Citroen,854961.0,,Manual,1199,18.64,5,4.7,https://www.carwale.com/citroen-cars/basalt-x/
+Citroen Basalt X,Citroen,854961.0,,Manual,1199,18.64,5,4.7,https://www.carwale.com/citroen-cars/basalt/
+Citroen C3 Facelift,Citroen,900000.0,,,,,,,https://www.carwale.com/citroen-cars/c3-facelift/
+Citroen C3 X,Citroen,498988.0,,Manual,1198,18.3,5,4.5,https://www.carwale.com/citroen-cars/c3-x/
+Citroen C5 Aircross,Citroen,3732400.0,,Automatic,1997,17.5,5,4.3,https://www.carwale.com/citroen-cars/c5-aircross/
+Citroen eC3 X,Citroen,945332.0,,,,,,3.2,https://www.carwale.com/citroen-cars/ec3-x/
+Citroen New C5 Aircross,Citroen,4000000.0,,,,,,,https://www.carwale.com/citroen-cars/new-c5-aircross/
+Ferrari 296 GTB,Ferrari,51081081.0,,Automatic,2992,8,2,4.9,https://www.carwale.com/ferrari-cars/296-gtb/
+Ferrari 296 GTS,Ferrari,59027027.0,,Automatic,2992,10,2,4.7,https://www.carwale.com/ferrari-cars/296-gts/
+Ferrari 849 Testarossa,Ferrari,103700000.0,,Automatic,3990,,2,4.2,https://www.carwale.com/ferrari-cars/849-testarossa/
+Ferrari Amalfi Spider,Ferrari,46000000.0,,Automatic,3855,,4,,https://www.carwale.com/ferrari-cars/amalfi-spider/
+Ferrari F12berlinetta,Ferrari,44800000.0,,Automatic,6262,,2,5.0,https://www.carwale.com/ferrari-cars/f12berlinetta/
+Ferrari F8 Tributo,Ferrari,38027027.0,,Automatic,3902,7.7,2,4.8,https://www.carwale.com/ferrari-cars/f8-tributo/
+Ferrari Portofino,Ferrari,33108108.0,,Automatic,3855,8.8,4,4.8,https://www.carwale.com/ferrari-cars/portofino/
+Ferrari Purosangue SUV,Ferrari,99324324.0,,Automatic,6496,9,4,4.8,https://www.carwale.com/ferrari-cars/purosangue-suv/
+Ferrari Roma,Ferrari,35567568.0,,Automatic,3855,8.9,4,4.6,https://www.carwale.com/ferrari-cars/roma/
+Force Motors Force One,Force Motors,871993.0,,Manual,2149,,6,3.4,https://www.carwale.com/force-motors-cars/forceone/
+Force Motors Gurkha,Force Motors,1630887.0,,Manual,2596,14.4,4,4.7,https://www.carwale.com/force-motors-cars/gurkha/
+Force Motors Trax Cruiser,Force Motors,1232193.0,,Manual,2596,14.5,0,4.7,https://www.carwale.com/force-motors-cars/trax-cruiser/
+Honda 0 Alpha,Honda,1700000.0,,,,,,,https://www.carwale.com/honda-cars/0-alpha/
+Honda Accord,Honda,4428478.0,,Automatic,1993,,5,4.5,https://www.carwale.com/honda-cars/accord/
+Honda Amaze 2nd Gen,Honda,700421.0,,Manual,1199,18.3,5,4.3,https://www.carwale.com/honda-cars/amaze-2nd-gen/
+Honda Amaze,Honda,755119.0,,Manual,1199,18.65,5,4.6,https://www.carwale.com/honda-cars/amaze/
+Honda BR-V,Honda,961069.0,,Manual,1497,,7,4.3,https://www.carwale.com/honda-cars/br-v/
+Honda Brio,Honda,481670.0,,Manual,1198,,5,4.5,https://www.carwale.com/honda-cars/brio/
+Honda City,Honda,1203951.0,,Manual,1498,17.77,5,4.2,https://www.carwale.com/honda-cars/city/
+Honda Civic,Honda,1794663.0,,Automatic,1597,,5,4.5,https://www.carwale.com/honda-cars/civic/
+Honda Compact SUV,Honda,700000.0,,,,,,,https://www.carwale.com/honda-cars/compact-suv/
+Honda CR-V Hybrid,Honda,4000000.0,Hybrid,,,,,,https://www.carwale.com/honda-cars/cr-v-hybrid/
+Honda CR-V,Honda,2833510.0,,Automatic,1597,,5,4.4,https://www.carwale.com/honda-cars/cr-v/
+Honda Elevate based three-row SUV,Honda,1700000.0,,Manual,,,,,https://www.carwale.com/honda-cars/elevate-based-three-row-suv/
+Honda Elevate Facelift,Honda,1530000.0,,Manual,,,,,https://www.carwale.com/honda-cars/elevate-facelift/
+Honda Elevate,Honda,1163811.0,,Manual,1498,15.31,5,4.6,https://www.carwale.com/honda-cars/elevate/
+Honda Jazz,Honda,810782.0,,Manual,1199,,5,4.4,https://www.carwale.com/honda-cars/jazz/
+Honda Mobilio,Honda,729142.0,,Manual,1497,,7,4.1,https://www.carwale.com/honda-cars/mobilio/
+Honda Prelude,Honda,5000000.0,,,,,,,https://www.carwale.com/honda-cars/prelude/
+Honda Step WGN,Honda,749000.0,,Automatic,,,,5.0,https://www.carwale.com/honda-cars/stepwgn/
+Honda Super One,Honda,2000000.0,,,,,,,https://www.carwale.com/honda-cars/super-one/
+Honda ZR-V,Honda,4000000.0,,Automatic,,,,,https://www.carwale.com/honda-cars/zr-v/
+Hyundai Accent,Hyundai,523848.0,,Manual,1495,,5,3.8,https://www.carwale.com/hyundai-cars/accent/
+Hyundai Alcazar,Hyundai,1450699.0,,Manual,1482,,6,4.6,https://www.carwale.com/hyundai-cars/alcazar/
+Hyundai Aura,Hyundai,599977.0,,Manual,1197,19.7,5,4.6,https://www.carwale.com/hyundai-cars/aura/
+Hyundai Bayon,Hyundai,800000.0,,,,,,,https://www.carwale.com/hyundai-cars/bayon/
+Hyundai Boulder,Hyundai,6000000.0,,,,,,,https://www.carwale.com/hyundai-cars/boulder/
+Hyundai Creta Electric,Hyundai,1452852.0,Electric,,,,,4.7,https://www.carwale.com/hyundai-cars/creta-electric/
+Hyundai Creta Facelift,Hyundai,1100000.0,,,,,,,https://www.carwale.com/hyundai-cars/creta-facelift/
+Hyundai Creta N Line,Hyundai,1903299.0,,Manual,1482,,5,4.6,https://www.carwale.com/hyundai-cars/creta-n-line/
+Hyundai Creta,Hyundai,1090692.0,,Manual,1482,15.4,5,4.6,https://www.carwale.com/hyundai-cars/creta/
+Hyundai Elantra,Hyundai,1589860.0,,Manual,1493,,5,4.6,https://www.carwale.com/hyundai-cars/elantra/
+Hyundai Eon,Hyundai,295649.0,,Manual,814,,5,3.9,https://www.carwale.com/hyundai-cars/eon/
+Hyundai Exter,Hyundai,580600.0,,Manual,1197,,5,4.6,https://www.carwale.com/hyundai-cars/exter/
+Hyundai Genesis,Hyundai,3500000.0,,Automatic,,,,4.0,https://www.carwale.com/hyundai-cars/genesis/
+Hyundai Grand i10 Nios,Hyundai,559697.0,,Manual,1197,18.92,5,4.5,https://www.carwale.com/hyundai-cars/grand-i10-nios/
+Hyundai Grand i10,Hyundai,499800.0,,Manual,1186,,5,4.3,https://www.carwale.com/hyundai-cars/grand-i10/
+Hyundai i20 Active,Hyundai,713494.0,,Manual,1197,,5,4.4,https://www.carwale.com/hyundai-cars/i20-active/
+Hyundai i20 N Line,Hyundai,927196.0,,Manual,998,0,5,4.7,https://www.carwale.com/hyundai-cars/i20-n-line/
+Hyundai i20,Hyundai,599700.0,,Manual,1197,15.5,5,4.6,https://www.carwale.com/hyundai-cars/i20/
+Hyundai Ioniq 5,Hyundai,5570004.0,,Automatic,,,5,4.0,https://www.carwale.com/hyundai-cars/ioniq-5/
+Hyundai Ioniq 6,Hyundai,5000000.0,,,,,,,https://www.carwale.com/hyundai-cars/ioniq-6/
+Hyundai Ioniq 9,Hyundai,12000000.0,,Automatic,,,,,https://www.carwale.com/hyundai-cars/ioniq-9/
+Hyundai mid-size SUV,Hyundai,1200000.0,,,,,,,https://www.carwale.com/hyundai-cars/mid-size-suv/
+Hyundai New i20,Hyundai,599000.0,,Manual,,,,,https://www.carwale.com/hyundai-cars/new-i20/
+Hyundai New Santa Fe,Hyundai,4500000.0,,,,,,,https://www.carwale.com/hyundai-cars/new-santa-fe/
+Hyundai Palisade,Hyundai,4000000.0,,,,,,,https://www.carwale.com/hyundai-cars/palisade/
+Hyundai Santro,Hyundai,390738.0,,Manual,1086,,5,4.3,https://www.carwale.com/hyundai-cars/santro/
+Hyundai Sonata,Hyundai,1945953.0,,Manual,2359,,5,3.9,https://www.carwale.com/hyundai-cars/sonata/
+Hyundai Stargazer,Hyundai,960000.0,,Manual,,,,,https://www.carwale.com/hyundai-cars/stargazer/
+Hyundai Staria,Hyundai,5500000.0,,,,,,,https://www.carwale.com/hyundai-cars/staria/
+Hyundai sub-compact EV SUV,Hyundai,1200000.0,,,,,,,https://www.carwale.com/hyundai-cars/sub-compact-ev-suv/
+Hyundai Terracan [2003-2006],Hyundai,1849000.0,,Manual,,,,,https://www.carwale.com/hyundai-cars/terracan20032006/
+Hyundai Tucson Facelift,Hyundai,2900000.0,,Automatic,,,,,https://www.carwale.com/hyundai-cars/tucson-facelift/
+Hyundai Venue N Line,Hyundai,1066100.0,,Manual,998,18.74,5,4.8,https://www.carwale.com/hyundai-cars/venue-n-line/
+Hyundai Venue,Hyundai,799900.0,,Manual,998,17.9,5,4.7,https://www.carwale.com/hyundai-cars/venue/
+Hyundai Verna,Hyundai,1099200.0,,Manual,1482,,5,4.8,https://www.carwale.com/hyundai-cars/verna/
+Hyundai Xcent,Hyundai,581067.0,,Manual,1186,,5,4.2,https://www.carwale.com/hyundai-cars/xcent/
+Isuzu Hi-Lander,Isuzu,2104580.0,,Manual,1898,,5,3.0,https://www.carwale.com/isuzu-cars/hi-lander/
+Isuzu MU-X,Isuzu,3453240.0,,Automatic,1898,,7,4.6,https://www.carwale.com/isuzu-cars/mu-x/
+Isuzu V-Cross,Isuzu,2550260.0,,Manual,1898,,5,4.8,https://www.carwale.com/isuzu-cars/v-cross/
+Jaguar F-Pace,Jaguar,6895946.0,,Automatic,1997,12.9,5,4.7,https://www.carwale.com/jaguar-cars/f-pace/
+Jaguar Type 00,Jaguar,15000000.0,,,,,,,https://www.carwale.com/jaguar-cars/type-00/
+Jaguar XE,Jaguar,4497989.0,,Automatic,1997,,5,4.9,https://www.carwale.com/jaguar-cars/xe/
+Jaguar XF,Jaguar,4978098.0,,Automatic,1997,,5,4.7,https://www.carwale.com/jaguar-cars/xf/
+Jaguar XJ L,Jaguar,9955855.0,,Automatic,1999,,4,4.9,https://www.carwale.com/jaguar-cars/xj-l/
+Jeep Compass,Jeep,1798996.0,,Manual,1956,12,5,4.1,https://www.carwale.com/jeep-cars/compass/
+Jeep Grand Cherokee,Jeep,6300000.0,,Automatic,1995,10,5,4.4,https://www.carwale.com/jeep-cars/grand-cherokee/
+Jeep Meridian,Jeep,2333000.0,,Manual,1956,14,5,4.5,https://www.carwale.com/jeep-cars/meridian/
+Jeep Wrangler,Jeep,6619895.0,,Automatic,1995,10.87,5,4.7,https://www.carwale.com/jeep-cars/wrangler/
+Kia Carens Clavis EV,Kia,1800499.0,,,,,,4.7,https://www.carwale.com/kia-cars/carens-clavis-ev/
+Kia Carens Clavis,Kia,1126888.0,,Manual,1482,15.95,6,4.7,https://www.carwale.com/kia-cars/carens-clavis/
+Kia Carens,Kia,1101898.0,,Manual,1493,15,7,4.5,https://www.carwale.com/kia-cars/carens/
+Kia Carnival,Kia,5600000.0,,Automatic,2151,14.85,7,3.1,https://www.carwale.com/kia-cars/carnival/
+Kia EV3,Kia,2000000.0,,,,,,,https://www.carwale.com/kia-cars/ev3/
+Kia EV5,Kia,3000000.0,,,,,,,https://www.carwale.com/kia-cars/ev5/
+Kia EV6,Kia,6597936.0,,Automatic,,,5,4.9,https://www.carwale.com/kia-cars/ev6/
+Kia EV9,Kia,12991311.0,,Automatic,,,6,4.4,https://www.carwale.com/kia-cars/ev9/
+Kia New Sonet,Kia,800000.0,,,,,,,https://www.carwale.com/kia-cars/new-sonet/
+Kia Seltos,Kia,1099899.0,,Manual,1482,,5,4.5,https://www.carwale.com/kia-cars/seltos/
+Kia Sonet,Kia,740893.0,,Manual,998,0,5,4.3,https://www.carwale.com/kia-cars/sonet/
+Kia Sorento Hybrid,Kia,2800000.0,Hybrid,Automatic,,,,,https://www.carwale.com/kia-cars/sorento-hybrid/
+Kia Syros EV,Kia,1400000.0,,,,,,,https://www.carwale.com/kia-cars/syros-ev/
+Kia Syros,Kia,841900.0,,Manual,998,,5,4.7,https://www.carwale.com/kia-cars/syros/
+Kia Tasman,Kia,4000000.0,,,,,,,https://www.carwale.com/kia-cars/tasman/
+Lamborghini Revuelto,Lamborghini,87034965.0,,Automatic,6498,12,2,4.8,https://www.carwale.com/lamborghini-cars/revuelto/
+Lamborghini Temerario,Lamborghini,58741259.0,,Automatic,3995,,2,4.8,https://www.carwale.com/lamborghini-cars/temerario/
+Lamborghini Urus SE,Lamborghini,44741259.0,,Automatic,3996,7,5,4.9,https://www.carwale.com/lamborghini-cars/urus-se/
+Land Rover Defender Facelift,Land Rover,11200000.0,,,,,,,https://www.carwale.com/land-rover-cars/defender-facelift/
+Land Rover Defender,Land Rover,10699416.0,,Automatic,1997,,5,4.8,https://www.carwale.com/land-rover-cars/defender/
+Land Rover Discovery Sport,Land Rover,6337000.0,,Automatic,1997,,7,3.9,https://www.carwale.com/land-rover-cars/discovery-sport/
+Land Rover Discovery,Land Rover,12600000.0,,Automatic,2997,,7,4.8,https://www.carwale.com/land-rover-cars/discovery/
+Land Rover Freelander 2,Land Rover,4314037.0,,Automatic,2179,,5,3.2,https://www.carwale.com/land-rover-cars/freelander-2/
+Land Rover Range Rover Evoque,Land Rover,6486000.0,,Automatic,1997,,5,4.6,https://www.carwale.com/land-rover-cars/range-rover-evoque/
+Land Rover Range Rover Sport,Land Rover,14299654.0,,Automatic,2997,,5,4.8,https://www.carwale.com/land-rover-cars/range-rover-sport/
+Land Rover Range Rover Velar,Land Rover,8749767.0,,Automatic,1997,,5,4.8,https://www.carwale.com/land-rover-cars/range-rover-velar/
+Land Rover Range Rover,Land Rover,23999416.0,,Automatic,2996,,5,4.6,https://www.carwale.com/land-rover-cars/range-rover/
+Lexus ES 350h,Lexus,6610000.0,,Automatic,2494,,5,,https://www.carwale.com/lexus-cars/es-350h/
+Lexus ES,Lexus,8999000.0,,Automatic,,,5,4.0,https://www.carwale.com/lexus-cars/es/
+Lexus LM,Lexus,21968695.0,,Automatic,2487,,4,4.7,https://www.carwale.com/lexus-cars/lm/
+Lexus LX,Lexus,26357333.0,,Automatic,3346,6.9,5,4.8,https://www.carwale.com/lexus-cars/lx/
+Lexus NX,Lexus,6758935.0,,Automatic,2487,17.8,5,4.5,https://www.carwale.com/lexus-cars/nx/
+Lexus RX,Lexus,8999000.0,,Automatic,2393,,5,4.7,https://www.carwale.com/lexus-cars/rx/
+Lotus Eletre,Lotus,25500000.0,,Automatic,,,5,4.7,https://www.carwale.com/lotus-cars/eletre/
+Lotus Emeya,Lotus,23351065.0,,Automatic,,,,4.8,https://www.carwale.com/lotus-cars/emeya/
+Lotus Emira,Lotus,30489491.0,,Automatic,1998,,,5.0,https://www.carwale.com/lotus-cars/emira/
+Mahindra Alturas G4,Mahindra,2770180.0,,Automatic,2157,,7,4.7,https://www.carwale.com/mahindra-cars/alturas-g4/
+Mahindra Armada,Mahindra,468000.0,,Manual,2112,,0,4.5,https://www.carwale.com/mahindra-cars/armada/
+Mahindra BE 6 FE,Mahindra,2369000.0,,,,,,5.0,https://www.carwale.com/mahindra-cars/be-6-fe/
+Mahindra BE 6,Mahindra,1890000.0,,,,,,4.7,https://www.carwale.com/mahindra-cars/be-6/
+Mahindra BE.07,Mahindra,2500000.0,,,,,,,https://www.carwale.com/mahindra-cars/be07/
+Mahindra BE.09,Mahindra,2200000.0,,,,,,,https://www.carwale.com/mahindra-cars/be09/
+Mahindra Bolero 2026,Mahindra,1000000.0,,Manual,,,,,https://www.carwale.com/mahindra-cars/bolero-2026/
+Mahindra Bolero Neo Plus,Mahindra,1138961.0,,Manual,2184,17,9,4.7,https://www.carwale.com/mahindra-cars/bolero-neo-plus/
+Mahindra Bolero Neo,Mahindra,898968.0,,Manual,1493,16,7,4.2,https://www.carwale.com/mahindra-cars/bolero-neo/
+Mahindra Bolero,Mahindra,848968.0,,Manual,1493,15.25,7,4.6,https://www.carwale.com/mahindra-cars/bolero/
+Mahindra e2o PLUS,Mahindra,747744.0,,,,,,4.1,https://www.carwale.com/mahindra-cars/e2o-plus/
+Mahindra Global Pik Up,Mahindra,1600000.0,,,,,,,https://www.carwale.com/mahindra-cars/global-pik-up/
+Mahindra Jeep,Mahindra,140000.0,,Manual,,,5,3.9,https://www.carwale.com/mahindra-cars/jeep/
+Mahindra KUV100 NXT,Mahindra,496335.0,,Manual,1198,,5,4.0,https://www.carwale.com/mahindra-cars/kuv100-nxt/
+Mahindra Marazzo,Mahindra,1405935.0,,Manual,1497,16.5,7,4.3,https://www.carwale.com/mahindra-cars/marazzo/
+Mahindra Marshal,Mahindra,599000.0,,Manual,,,,3.7,https://www.carwale.com/mahindra-cars/marshal/
+Mahindra REVAi,Mahindra,378764.0,,,,,,2.5,https://www.carwale.com/mahindra-cars/revai/
+Mahindra Scorpio facelift,Mahindra,1300000.0,,,,,,,https://www.carwale.com/mahindra-cars/scorpio-facelift/
+Mahindra Scorpio N Facelift,Mahindra,1380000.0,,Manual,,,,,https://www.carwale.com/mahindra-cars/scorpio-n-facelift/
+Mahindra Scorpio N,Mahindra,1349014.0,,Manual,1997,14.5,6,4.7,https://www.carwale.com/mahindra-cars/scorpio-n/
+Mahindra Scorpio,Mahindra,1336701.0,,Manual,2184,15,7,4.8,https://www.carwale.com/mahindra-cars/scorpio/
+Mahindra Thar.e,Mahindra,2000000.0,,,,,,,https://www.carwale.com/mahindra-cars/thar-electric/
+Mahindra Thar Facelift,Mahindra,950000.0,,,,,,,https://www.carwale.com/mahindra-cars/thar-facelift/
+Mahindra Thar Roxx,Mahindra,1252013.0,,Manual,1997,12.4,5,4.7,https://www.carwale.com/mahindra-cars/thar-roxx/
+Mahindra Thar,Mahindra,1031979.0,,Manual,1497,14.25,4,4.6,https://www.carwale.com/mahindra-cars/thar/
+Mahindra TUV300,Mahindra,858779.0,,Manual,1493,,7,4.5,https://www.carwale.com/mahindra-cars/tuv300/
+Mahindra Verito Vibe CS,Mahindra,655221.0,,Manual,1461,,5,4.1,https://www.carwale.com/mahindra-cars/veritovibecs/
+Mahindra Vision S Compact SUV,Mahindra,1050000.0,,,,,,,https://www.carwale.com/mahindra-cars/vision-s-compact-suv/
+Mahindra Vision S Sub Compact SUV,Mahindra,930000.0,,,,,,,https://www.carwale.com/mahindra-cars/vision-s-sub-compact-suv/
+Mahindra Vision SXT,Mahindra,1350000.0,,,,,,,https://www.carwale.com/mahindra-cars/vision-sxt/
+Mahindra Vision T,Mahindra,1250000.0,,,,,,,https://www.carwale.com/mahindra-cars/vision-t/
+Mahindra Vision X Compact SUV,Mahindra,1100000.0,,,,,,,https://www.carwale.com/mahindra-cars/vision-x-compact-suv/
+Mahindra Vision X Sub Compact SUV,Mahindra,950000.0,,,,,,,https://www.carwale.com/mahindra-cars/vision-x-sub-compact-suv/
+Mahindra Voyager,Mahindra,581000.0,,Manual,,,,,https://www.carwale.com/mahindra-cars/voyager/
+Mahindra XEV 9e,Mahindra,2190000.0,,,,,,4.7,https://www.carwale.com/mahindra-cars/xev-9e/
+Mahindra XEV 9S,Mahindra,2064955.0,,,,,,4.6,https://www.carwale.com/mahindra-cars/xev-9s/
+Mahindra XUV 3XO EV,Mahindra,1389000.0,,,,,,4.7,https://www.carwale.com/mahindra-cars/xuv-3xo-ev/
+Mahindra XUV 3XO,Mahindra,778980.0,,Manual,1197,18.06,5,4.7,https://www.carwale.com/mahindra-cars/xuv-3xo/
+Mahindra XUV 7XO,Mahindra,1398979.0,,Manual,1997,,6,4.5,https://www.carwale.com/mahindra-cars/xuv-7xo/
+Mahindra XUV300 TurboSport,Mahindra,930501.0,,Manual,1197,,5,4.7,https://www.carwale.com/mahindra-cars/xuv300-turbosport/
+Mahindra XUV400,Mahindra,1549000.0,,,,,,4.0,https://www.carwale.com/mahindra-cars/xuv400/
+Mahindra XUV500,Mahindra,1236679.0,,Manual,2179,,7,4.4,https://www.carwale.com/mahindra-cars/xuv500/
+Mahindra Xylo,Mahindra,886026.0,,Manual,2179,,8,4.4,https://www.carwale.com/mahindra-cars/xylo/
+Maruti Suzuki 1000 [1990-2000],Maruti Suzuki,320000.0,,Manual,,,,4.2,https://www.carwale.com/maruti-suzuki-cars/1000-1990-2000/
+Maruti Suzuki A-Star,Maruti Suzuki,388434.0,,Manual,998,,5,3.9,https://www.carwale.com/maruti-suzuki-cars/a-star/
+Maruti Suzuki Alto 800,Maruti Suzuki,324747.0,,Manual,796,,4,4.6,https://www.carwale.com/maruti-suzuki-cars/alto-800/
+Maruti Suzuki Alto K10,Maruti Suzuki,369902.0,,Manual,998,24.39,4,4.6,https://www.carwale.com/maruti-suzuki-cars/alto-k10/
+Maruti Suzuki Baleno [1999-2007],Maruti Suzuki,601292.0,,Manual,1590,,5,4.4,https://www.carwale.com/maruti-suzuki-cars/baleno-1999-2007/
+Maruti Suzuki Baleno Facelift,Maruti Suzuki,600000.0,,,,,,,https://www.carwale.com/maruti-suzuki-cars/baleno-facelift/
+Maruti Suzuki Baleno,Maruti Suzuki,598900.0,,Manual,1197,22.35,5,4.5,https://www.carwale.com/maruti-suzuki-cars/baleno/
+Maruti Suzuki Brezza 2026,Maruti Suzuki,890000.0,,Manual,,,,,https://www.carwale.com/maruti-suzuki-cars/brezza-2026/
+Maruti Suzuki Brezza,Maruti Suzuki,825903.0,,Manual,1462,19.19,5,4.6,https://www.carwale.com/maruti-suzuki-cars/brezza/
+Maruti Suzuki Celerio X,Maruti Suzuki,485371.0,,Manual,998,,5,4.4,https://www.carwale.com/maruti-suzuki-cars/celerio-x/
+Maruti Suzuki Celerio,Maruti Suzuki,469900.0,,Manual,998,25.17,5,4.1,https://www.carwale.com/maruti-suzuki-cars/celerio/
+Maruti Suzuki Ciaz,Maruti Suzuki,819719.0,,Manual,1248,,5,4.4,https://www.carwale.com/maruti-suzuki-cars/ciaz/
+Maruti Suzuki Dzire,Maruti Suzuki,625598.0,,Manual,1197,24.77,5,4.8,https://www.carwale.com/maruti-suzuki-cars/dzire/
+Maruti Suzuki e Vitara,Maruti Suzuki,1349000.0,,,,,,4.4,https://www.carwale.com/maruti-suzuki-cars/e-vitara/
+Maruti Suzuki Eeco,Maruti Suzuki,523387.0,,Manual,1197,19.71,5,4.6,https://www.carwale.com/maruti-suzuki-cars/eeco/
+Maruti Suzuki Ertiga,Maruti Suzuki,885000.0,,Manual,1462,20.3,7,4.6,https://www.carwale.com/maruti-suzuki-cars/ertiga/
+Maruti Suzuki Esteem,Maruti Suzuki,443864.0,,Manual,1298,,5,4.1,https://www.carwale.com/maruti-suzuki-cars/esteem/
+Maruti Suzuki Estilo,Maruti Suzuki,354796.0,,Manual,998,,5,3.7,https://www.carwale.com/maruti-suzuki-cars/estilo/
+Maruti Suzuki Fronx Facelift,Maruti Suzuki,700000.0,,,,,,,https://www.carwale.com/maruti-suzuki-cars/fronx-facelift/
+Maruti Suzuki Fronx,Maruti Suzuki,684899.0,,Manual,998,20.01,5,4.6,https://www.carwale.com/maruti-suzuki-cars/fronx/
+Maruti Suzuki Grand Vitara,Maruti Suzuki,1076500.0,,Manual,1462,20.16,5,4.5,https://www.carwale.com/maruti-suzuki-cars/grand-vitara/
+Maruti Suzuki Gypsy,Maruti Suzuki,649679.0,,Manual,1298,,8,4.6,https://www.carwale.com/maruti-suzuki-cars/gypsy/
+Maruti Suzuki Ignis,Maruti Suzuki,535100.0,,Manual,1197,,5,4.6,https://www.carwale.com/maruti-suzuki-cars/ignis/
+Maruti Suzuki Invicto,Maruti Suzuki,2497400.0,,Automatic,1987,23.24,7,4.5,https://www.carwale.com/maruti-suzuki-cars/invicto/
+Maruti Suzuki Jimny,Maruti Suzuki,1239000.0,,Manual,1462,16.39,4,3.7,https://www.carwale.com/maruti-suzuki-cars/jimny/
+Maruti Suzuki Kizashi,Maruti Suzuki,1697676.0,,Manual,2393,,5,4.2,https://www.carwale.com/maruti-suzuki-cars/kizashi/
+Maruti Suzuki New Ertiga,Maruti Suzuki,1000000.0,,,,,,,https://www.carwale.com/maruti-suzuki-cars/new-ertiga/
+Maruti Suzuki Omni,Maruti Suzuki,207785.0,,Manual,796,,2,4.4,https://www.carwale.com/maruti-suzuki-cars/omni/
+Maruti Suzuki Ritz,Maruti Suzuki,451230.0,,Manual,1197,,5,4.0,https://www.carwale.com/maruti-suzuki-cars/ritz/
+Maruti Suzuki S-Presso,Maruti Suzuki,349902.0,,Manual,998,24.44,4,4.5,https://www.carwale.com/maruti-suzuki-cars/s-presso/
+Maruti Suzuki Seven seat EV MPV YMC,Maruti Suzuki,1400000.0,,,,,,,https://www.carwale.com/maruti-suzuki-cars/seven-seat-ev-mpv-ymc/
+Maruti Suzuki Sub-compact SUV,Maruti Suzuki,550000.0,,,,,,,https://www.carwale.com/maruti-suzuki-cars/sub-compact-suv/
+Maruti Suzuki Swift,Maruti Suzuki,578899.0,,Manual,1197,24.8,5,4.6,https://www.carwale.com/maruti-suzuki-cars/swift/
+Maruti Suzuki SX4,Maruti Suzuki,747173.0,,Manual,1248,,5,4.0,https://www.carwale.com/maruti-suzuki-cars/sx4/
+Maruti Suzuki Versa,Maruti Suzuki,363000.0,,Manual,1298,,5,4.2,https://www.carwale.com/maruti-suzuki-cars/versa/
+Maruti Suzuki Victoris,Maruti Suzuki,1049850.0,,Manual,1462,20.45,5,4.6,https://www.carwale.com/maruti-suzuki-cars/victoris/
+Maruti Suzuki Wagon R,Maruti Suzuki,498902.0,,Manual,998,23.56,5,4.5,https://www.carwale.com/maruti-suzuki-cars/wagon-r/
+Maruti Suzuki XL6 Facelift,Maruti Suzuki,1152000.0,,,,,,,https://www.carwale.com/maruti-suzuki-cars/xl6-facelift/
+Maruti Suzuki XL6,Maruti Suzuki,1157301.0,,Manual,1462,20.27,6,4.5,https://www.carwale.com/maruti-suzuki-cars/xl6/
+Maruti Suzuki Zen,Maruti Suzuki,332000.0,,Manual,993,,5,3.9,https://www.carwale.com/maruti-suzuki-cars/zen/
+Maserati Ghibli,Maserati,11748252.0,,Automatic,1998,8,5,4.7,https://www.carwale.com/maserati-cars/ghibli/
+Maserati GranTurismo,Maserati,25729730.0,,Automatic,2992,,5,3.4,https://www.carwale.com/maserati-cars/granturismo/
+Maserati Grecale,Maserati,12391892.0,,Automatic,1995,,5,,https://www.carwale.com/maserati-cars/grecale/
+Maserati Levante,Maserati,13716275.0,,Automatic,2979,9.43,5,4.5,https://www.carwale.com/maserati-cars/levante/
+Maserati MC20,Maserati,34527175.0,,Automatic,3000,8.6,2,4.9,https://www.carwale.com/maserati-cars/mc20/
+Maserati MCPura,Maserati,51200000.0,,Automatic,3000,,2,5.0,https://www.carwale.com/maserati-cars/mcpura/
+Maserati Quattroporte,Maserati,17027100.0,,Automatic,2979,8.2,5,4.6,https://www.carwale.com/maserati-cars/quattroporte/
+McLaren 720S,McLaren,43986486.0,,Automatic,3994,8.2,2,4.7,https://www.carwale.com/mclaren-cars/720s/
+McLaren 750S,McLaren,55905405.0,,Automatic,3994,10.5,2,4.8,https://www.carwale.com/mclaren-cars/750s/
+McLaren GT,McLaren,35189189.0,,Automatic,3994,7,2,4.6,https://www.carwale.com/mclaren-cars/gt/
+Mercedes-Benz A-Class Limousine,Mercedes-Benz,4445001.0,,Automatic,1332,,5,4.7,https://www.carwale.com/mercedes-benz-cars/a-class-limousine/
+Mercedes-Benz AMG A35,Mercedes-Benz,5799625.0,,Automatic,1991,,5,4.5,https://www.carwale.com/mercedes-benz-cars/amg-a35/
+Mercedes-Benz AMG A45 S,Mercedes-Benz,8700000.0,,Automatic,1991,,5,4.6,https://www.carwale.com/mercedes-benz-cars/amg-a45-s/
+Mercedes-Benz AMG C 43,Mercedes-Benz,9405348.0,,Automatic,1991,,5,4.8,https://www.carwale.com/mercedes-benz-cars/amg-c-43/
+Mercedes-Benz AMG C 63 S E Performance,Mercedes-Benz,19090909.0,,Automatic,1991,,5,5.0,https://www.carwale.com/mercedes-benz-cars/amg-c-63-s-e-performance/
+Mercedes-Benz AMG CLE,Mercedes-Benz,13250162.0,,Automatic,2999,,4,4.9,https://www.carwale.com/mercedes-benz-cars/amg-cle/
+Mercedes-Benz AMG E53 Cabriolet,Mercedes-Benz,12321389.0,,Automatic,2999,6.5,4,4.8,https://www.carwale.com/mercedes-benz-cars/amg-e53-cabriolet/
+Mercedes-Benz AMG E53 PHEV,Mercedes-Benz,14000000.0,,Automatic,,,,,https://www.carwale.com/mercedes-benz-cars/amg-e53-phev/
+Mercedes-Benz AMG E53,Mercedes-Benz,10599147.0,,Automatic,2999,,5,5.0,https://www.carwale.com/mercedes-benz-cars/amg-e53/
+Mercedes-Benz AMG EQS,Mercedes-Benz,24500000.0,,Automatic,,,5,5.0,https://www.carwale.com/mercedes-benz-cars/amg-eqs/
+Mercedes-Benz AMG G-Class,Mercedes-Benz,37400715.0,,Automatic,3982,,5,5.0,https://www.carwale.com/mercedes-benz-cars/amg-g-class/
+Mercedes-Benz AMG GLA35,Mercedes-Benz,6006981.0,,Automatic,1991,,5,4.8,https://www.carwale.com/mercedes-benz-cars/amg-gla35/
+Mercedes-Benz AMG GLC43 Coupe,Mercedes-Benz,9986017.0,,Automatic,1991,,5,4.3,https://www.carwale.com/mercedes-benz-cars/amg-glc43-coupe/
+Mercedes-Benz AMG GLE Coupe,Mercedes-Benz,15200000.0,,Automatic,2999,,5,4.8,https://www.carwale.com/mercedes-benz-cars/amg-gle-coupe/
+Mercedes-Benz AMG GT 63 S 4Matic Plus,Mercedes-Benz,25541492.0,,Automatic,3982,8.8,5,4.9,https://www.carwale.com/mercedes-benz-cars/amg-gt-63-s-4matic-plus/
+Mercedes-Benz AMG GT 63 S E Performance,Mercedes-Benz,32699950.0,,Automatic,3982,,4,4.4,https://www.carwale.com/mercedes-benz-cars/amg-gt-63-s-e-performance/
+Mercedes-Benz AMG GT 63,Mercedes-Benz,30000325.0,,Automatic,3982,,2,4.9,https://www.carwale.com/mercedes-benz-cars/amg-gt-63/
+Mercedes-Benz AMG S 63 E Performance,Mercedes-Benz,33359571.0,,Automatic,3982,,5,4.8,https://www.carwale.com/mercedes-benz-cars/amg-s-63-e-performance/
+Mercedes-Benz AMG SL55 Roadster,Mercedes-Benz,23384652.0,,Automatic,3982,12,4,4.9,https://www.carwale.com/mercedes-benz-cars/amg-sl55-roadster/
+Mercedes-Benz C-Class EV,Mercedes-Benz,8000000.0,,,,,,,https://www.carwale.com/mercedes-benz-cars/c-class-ev/
+Mercedes-Benz C-Class,Mercedes-Benz,6119834.0,,Automatic,1496,14.65,5,4.6,https://www.carwale.com/mercedes-benz-cars/c-class/
+Mercedes-Benz CLA EV,Mercedes-Benz,5500000.0,,Automatic,,,5,4.7,https://www.carwale.com/mercedes-benz-cars/cla-ev/
+Mercedes-Benz CLE Cabriolet,Mercedes-Benz,11499719.0,,Automatic,1999,10,4,4.8,https://www.carwale.com/mercedes-benz-cars/cle-cabriolet/
+Mercedes-Benz CLK,Mercedes-Benz,3143000.0,,Automatic,,,,,https://www.carwale.com/mercedes-benz-cars/clk/
+Mercedes-Benz E-Class Cabriolet,Mercedes-Benz,7725654.0,,Automatic,2996,,4,5.0,https://www.carwale.com/mercedes-benz-cars/e-class-cabriolet/
+Mercedes-Benz E-Class,Mercedes-Benz,8149806.0,,Automatic,1993,,5,4.8,https://www.carwale.com/mercedes-benz-cars/e-class/
+Mercedes-Benz EQA,Mercedes-Benz,6720000.0,,Automatic,,,5,5.0,https://www.carwale.com/mercedes-benz-cars/eqa/
+Mercedes-Benz EQE SUV,Mercedes-Benz,14140000.0,,Automatic,,,5,5.0,https://www.carwale.com/mercedes-benz-cars/eqe-suv/
+Mercedes-Benz EQS SUV,Mercedes-Benz,13350000.0,,Automatic,,,5,4.8,https://www.carwale.com/mercedes-benz-cars/eqs-suv/
+Mercedes-Benz EQS,Mercedes-Benz,13000000.0,,Automatic,,,5,4.7,https://www.carwale.com/mercedes-benz-cars/eqs/
+Mercedes-Benz G-Class,Mercedes-Benz,29000000.0,,Automatic,2989,,5,4.8,https://www.carwale.com/mercedes-benz-cars/g-class/
+Mercedes-Benz G580 with EQ Technology,Mercedes-Benz,31000000.0,,Automatic,,,5,4.9,https://www.carwale.com/mercedes-benz-cars/g580-with-eq-technology/
+Mercedes-Benz GL,Mercedes-Benz,7767850.0,,Automatic,2987,,7,4.0,https://www.carwale.com/mercedes-benz-cars/gl/
+Mercedes-Benz GLA,Mercedes-Benz,5179865.0,,Automatic,1332,14,5,4.7,https://www.carwale.com/mercedes-benz-cars/gla/
+Mercedes-Benz GLC Coupe,Mercedes-Benz,7245714.0,,Automatic,1950,,5,4.9,https://www.carwale.com/mercedes-benz-cars/glc-coupe/
+Mercedes-Benz GLC EV,Mercedes-Benz,6000000.0,,,,,,,https://www.carwale.com/mercedes-benz-cars/glc-ev/
+Mercedes-Benz GLC,Mercedes-Benz,7699803.0,,Automatic,1993,10.5,5,4.7,https://www.carwale.com/mercedes-benz-cars/glc/
+Mercedes-Benz GLE,Mercedes-Benz,9999750.0,,Automatic,1993,11,5,4.6,https://www.carwale.com/mercedes-benz-cars/gle/
+Mercedes-Benz GLS,Mercedes-Benz,12790271.0,,Automatic,2989,11,7,4.6,https://www.carwale.com/mercedes-benz-cars/gls/
+Mercedes-Benz Maybach EQS SUV,Mercedes-Benz,24000000.0,,Automatic,,,5,5.0,https://www.carwale.com/mercedes-benz-cars/maybach-eqs-suv/
+Mercedes-Benz Maybach GLS,Mercedes-Benz,27504901.0,,Automatic,3982,10,5,4.7,https://www.carwale.com/mercedes-benz-cars/maybach-gls/
+Mercedes-Benz Maybach S-Class,Mercedes-Benz,28750162.0,,Automatic,3982,,5,4.7,https://www.carwale.com/mercedes-benz-cars/maybach-s-class/
+Mercedes-Benz Maybach SL 680,Mercedes-Benz,43000325.0,,Automatic,3982,,2,4.6,https://www.carwale.com/mercedes-benz-cars/maybach-sl-680/
+Mercedes-Benz MB-Class,Mercedes-Benz,2500000.0,,Automatic,,,6,,https://www.carwale.com/mercedes-benz-cars/mbclass/
+Mercedes-Benz M-Class,Mercedes-Benz,5674480.0,,Automatic,2143,,5,4.6,https://www.carwale.com/mercedes-benz-cars/mclass/
+Mercedes-Benz New GLE,Mercedes-Benz,9700000.0,,,,,,,https://www.carwale.com/mercedes-benz-cars/new-gle/
+Mercedes-Benz New GLS,Mercedes-Benz,12800000.0,,,,,,,https://www.carwale.com/mercedes-benz-cars/new-gls/
+Mercedes-Benz R-Class,Mercedes-Benz,6022525.0,,Automatic,2987,,7,3.0,https://www.carwale.com/mercedes-benz-cars/rclass/
+Mercedes-Benz S-Class,Mercedes-Benz,22000000.0,,Automatic,2999,,5,,https://www.carwale.com/mercedes-benz-cars/s-class/
+Mercedes-Benz SL,Mercedes-Benz,9993687.0,,Automatic,3498,,5,,https://www.carwale.com/mercedes-benz-cars/sl/
+Mercedes-Benz V-Class,Mercedes-Benz,14000000.0,,Automatic,1951,,6,4.5,https://www.carwale.com/mercedes-benz-cars/v-class/
+MG Astor Facelift,MG,1100000.0,,,,,,,https://www.carwale.com/mg-cars/astor-facelift/
+MG Astor,MG,979091.0,,Manual,1498,16,5,4.3,https://www.carwale.com/mg-cars/astor/
+MG Comet EV,MG,640845.0,,,,,,4.4,https://www.carwale.com/mg-cars/comet-ev/
+MG Cyberster,MG,8249319.0,,Automatic,,,2,4.7,https://www.carwale.com/mg-cars/cyberster/
+MG Gloster,MG,3259800.0,,Automatic,1996,,6,4.2,https://www.carwale.com/mg-cars/gloster/
+MG Hector Plus,MG,1729000.0,,Manual,1451,,6,4.6,https://www.carwale.com/mg-cars/hector-plus/
+MG Hector,MG,1199000.0,,Manual,1451,,5,4.7,https://www.carwale.com/mg-cars/hector/
+MG IM6,MG,6000000.0,,Automatic,,,,,https://www.carwale.com/mg-cars/im6/
+MG M9,MG,7994156.0,,,,,,4.6,https://www.carwale.com/mg-cars/m9/
+MG Majestor,MG,4099000.0,,Automatic,1996,,6,4.8,https://www.carwale.com/mg-cars/majestor/
+MG Starlight 560,MG,2000000.0,,,,,,,https://www.carwale.com/mg-cars/starlight-560/
+MG Windsor EV,MG,1235973.0,,,,,,4.4,https://www.carwale.com/mg-cars/windsor-ev/
+MG ZS EV,MG,1549500.0,,,,,,4.2,https://www.carwale.com/mg-cars/zs-ev/
+Mini Clubman,Mini,4190000.0,,Automatic,1998,,4,4.7,https://www.carwale.com/mini-cars/clubman/
+Mini Cooper S Convertible,Mini,5899968.0,,Automatic,1998,16.82,4,4.8,https://www.carwale.com/mini-cars/cooper-s-convertible/
+Mini Cooper SE,Mini,5350000.0,,Automatic,,,4,4.4,https://www.carwale.com/mini-cars/cooper-se/
+Mini Cooper,Mini,4444951.0,,Automatic,1998,14.5,4,4.7,https://www.carwale.com/mini-cars/cooper/
+Mini Countryman C,Mini,4750000.0,,Automatic,1499,15.92,5,5.0,https://www.carwale.com/mini-cars/countryman-c/
+Mini Countryman Electric,Mini,5564951.0,Electric,Automatic,,,5,4.0,https://www.carwale.com/mini-cars/countryman-electric/
+Mini Countryman,Mini,6614919.0,,Automatic,1998,15.4,5,4.7,https://www.carwale.com/mini-cars/countryman/
+Nissan 350Z,Nissan,4094000.0,,Automatic,,,,5.0,https://www.carwale.com/nissan-cars/350z/
+Nissan Cima,Nissan,0.0,,Automatic,,,,,https://www.carwale.com/nissan-cars/cima/
+Nissan Gloria,Nissan,1003000.0,,Manual,,,,,https://www.carwale.com/nissan-cars/gloria/
+Nissan Gravite,Nissan,573400.0,,Manual,999,19.3,7,4.4,https://www.carwale.com/nissan-cars/gravite/
+Nissan Jonga,Nissan,600000.0,,,,,,,https://www.carwale.com/nissan-cars/jonga/
+Nissan Kicks,Nissan,949990.0,,Manual,1330,,5,4.4,https://www.carwale.com/nissan-cars/kicks/
+Nissan Magnite,Nissan,564998.0,,Manual,999,17.9,5,4.3,https://www.carwale.com/nissan-cars/magnite/
+Nissan Micra Active,Nissan,524763.0,,Manual,1198,,5,4.1,https://www.carwale.com/nissan-cars/micra-active/
+Nissan Sunny,Nissan,707096.0,,Manual,1461,,5,3.7,https://www.carwale.com/nissan-cars/sunny/
+Nissan Tekton,Nissan,1049000.0,,Manual,999,,5,4.4,https://www.carwale.com/nissan-cars/tekton/
+Nissan Terrano,Nissan,999841.0,,Manual,1461,,5,3.8,https://www.carwale.com/nissan-cars/terrano/
+Nissan X-Trail,Nissan,4819862.0,,Automatic,1498,13.7,7,2.8,https://www.carwale.com/nissan-cars/x-trail/
+Porsche 911,Porsche,21128257.0,,Automatic,2981,,2,4.7,https://www.carwale.com/porsche-cars/911/
+Porsche Cayenne Coupe,Porsche,15736132.0,,Automatic,2995,,4,4.5,https://www.carwale.com/porsche-cars/cayenne-coupe/
+Porsche Cayenne EV,Porsche,17726897.0,,Automatic,,,5,3.3,https://www.carwale.com/porsche-cars/cayenne-ev/
+Porsche Cayenne,Porsche,15116180.0,,Automatic,2995,,5,4.7,https://www.carwale.com/porsche-cars/cayenne/
+Porsche Macan Turbo EV,Porsche,12162000.0,,Automatic,,,5,4.7,https://www.carwale.com/porsche-cars/macan-turbo-ev/
+Porsche Macan,Porsche,8965178.0,,Automatic,1984,,5,4.8,https://www.carwale.com/porsche-cars/macan/
+Porsche Panamera,Porsche,17911445.0,,Automatic,2894,,4,4.9,https://www.carwale.com/porsche-cars/panamera/
+Porsche Taycan,Porsche,20069688.0,,Automatic,,,5,4.8,https://www.carwale.com/porsche-cars/taycan/
+Renault Boreal (Bigster),Renault,1300000.0,,,,,,,https://www.carwale.com/renault-cars/boreal-bigster/
+Renault Bridger,Renault,600000.0,,,,,,,https://www.carwale.com/renault-cars/bridger/
+Renault Captur,Renault,950498.0,,Manual,1461,,5,4.2,https://www.carwale.com/renault-cars/captur/
+Renault Duster,Renault,1049000.0,,Manual,999,17.75,5,4.7,https://www.carwale.com/renault-cars/duster/
+Renault Kiger,Renault,580997.0,,Manual,999,18,5,4.5,https://www.carwale.com/renault-cars/kiger/
+Renault Kwid EV,Renault,800000.0,,,,,,,https://www.carwale.com/renault-cars/kwid-ev/
+Renault Kwid,Renault,452900.0,,Manual,999,,5,4.3,https://www.carwale.com/renault-cars/kwid/
+Renault Lodgy,Renault,884339.0,,Manual,1461,,7,3.8,https://www.carwale.com/renault-cars/lodgy/
+Renault Triber,Renault,580875.0,,Manual,999,18,7,4.6,https://www.carwale.com/renault-cars/triber/
+Rolls-Royce Cullinan,Rolls-Royce,65743243.0,,Automatic,6749,6.6,5,4.8,https://www.carwale.com/rolls-royce-cars/cullinan/
+Rolls-Royce Drophead Coupe,Rolls-Royce,76040880.0,,Automatic,6749,,4,4.2,https://www.carwale.com/rolls-royce-cars/dropheadcoupe/
+Rolls-Royce Phantom,Rolls-Royce,89864865.0,,Automatic,6749,7.1,5,4.8,https://www.carwale.com/rolls-royce-cars/phantom/
+Rolls-Royce Phantom Coupe,Rolls-Royce,70587524.0,,Automatic,6749,,4,5.0,https://www.carwale.com/rolls-royce-cars/phantomcoupe/
+Rolls-Royce Spectre,Rolls-Royce,75000000.0,,Automatic,,,4,4.9,https://www.carwale.com/rolls-royce-cars/spectre/
+Skoda Elroq,Skoda,2500000.0,,,,,,,https://www.carwale.com/skoda-cars/elroq/
+Skoda Enyaq,Skoda,5000000.0,,Automatic,,,,,https://www.carwale.com/skoda-cars/enyaq/
+Skoda Epiq,Skoda,2100000.0,,Automatic,,,,,https://www.carwale.com/skoda-cars/epiq/
+Skoda Fabia Scout,Skoda,691059.0,,Manual,1198,,5,,https://www.carwale.com/skoda-cars/fabia-scout/
+Skoda Kodiaq RS,Skoda,6699000.0,,Automatic,1984,,7,4.3,https://www.carwale.com/skoda-cars/kodiaq-rs/
+Skoda Kodiaq,Skoda,3699000.0,,Automatic,1984,14.86,5,4.6,https://www.carwale.com/skoda-cars/kodiaq/
+Skoda Kushaq,Skoda,1069000.0,,Manual,999,18.72,5,4.8,https://www.carwale.com/skoda-cars/kushaq/
+Skoda Kylaq,Skoda,759000.0,,Manual,999,19.05,5,4.8,https://www.carwale.com/skoda-cars/kylaq/
+Skoda Laura,Skoda,1257747.0,,Manual,1798,,5,3.9,https://www.carwale.com/skoda-cars/laura/
+Skoda New Superb,Skoda,5500000.0,,,,,,,https://www.carwale.com/skoda-cars/new-superb/
+Skoda Octavia Facelift,Skoda,3500000.0,,Automatic,,,,,https://www.carwale.com/skoda-cars/octavia-facelift/
+Skoda Octavia RS,Skoda,4999000.0,,Automatic,1984,,5,4.8,https://www.carwale.com/skoda-cars/octaviars/
+Skoda Peaq,Skoda,4100000.0,,Automatic,,,,,https://www.carwale.com/skoda-cars/peaq/
+Skoda Rapid TSI,Skoda,779628.0,,Manual,999,,5,4.2,https://www.carwale.com/skoda-cars/rapid-tsi/
+Skoda Slavia Facelift,Skoda,1200000.0,,,,,,,https://www.carwale.com/skoda-cars/slavia-facelift/
+Skoda Slavia,Skoda,999900.0,,Manual,999,18.73,5,4.7,https://www.carwale.com/skoda-cars/slavia/
+Skoda Yeti,Skoda,2184838.0,,Manual,1968,,5,4.3,https://www.carwale.com/skoda-cars/yeti/
+Tata Altroz EV,Tata,1200000.0,,,,,,,https://www.carwale.com/tata-cars/altroz-ev/
+Tata Altroz,Tata,629990.0,,Manual,1199,18.75,5,4.7,https://www.carwale.com/tata-cars/altroz/
+Tata Avinya,Tata,4500000.0,,Automatic,,,,,https://www.carwale.com/tata-cars/avinya/
+Tata Bolt,Tata,525085.0,,Manual,1193,,5,4.0,https://www.carwale.com/tata-cars/bolt/
+Tata Curvv EV,Tata,1699000.0,,,,,,4.5,https://www.carwale.com/tata-cars/curvv-ev/
+Tata Curvv,Tata,975983.0,,Manual,1199,17.69,5,4.7,https://www.carwale.com/tata-cars/curvv/
+Tata Estate,Tata,708000.0,,Manual,,,,4.0,https://www.carwale.com/tata-cars/estate/
+Tata Harrier EV,Tata,2168987.0,,,,,,4.6,https://www.carwale.com/tata-cars/harrier-ev/
+Tata Harrier,Tata,1299983.0,,Manual,1498,16.8,5,4.7,https://www.carwale.com/tata-cars/harrier/
+Tata Hexa,Tata,1369398.0,,Manual,2179,,6,4.7,https://www.carwale.com/tata-cars/hexa/
+Tata Movus,Tata,787989.0,,Manual,2179,,7,2.5,https://www.carwale.com/tata-cars/movus/
+Tata New Tigor EV,Tata,1249000.0,,,,,,,https://www.carwale.com/tata-cars/new-tigor-ev/
+Tata New Tigor,Tata,549000.0,,Manual,,,,,https://www.carwale.com/tata-cars/new-tigor/
+Tata Nexon EV,Tata,1249147.0,,,,,,4.4,https://www.carwale.com/tata-cars/nexon-ev/
+Tata Nexon,Tata,740029.0,,Manual,1199,16,5,4.6,https://www.carwale.com/tata-cars/nexon/
+Tata Punch EV,Tata,809000.0,,,,,,4.6,https://www.carwale.com/tata-cars/punch-ev/
+Tata Punch,Tata,569990.0,,Manual,1199,19,5,4.7,https://www.carwale.com/tata-cars/punch/
+Tata Safari EV,Tata,2600000.0,,,,,,,https://www.carwale.com/tata-cars/safari-ev/
+Tata Safari,Tata,1339983.0,,Manual,1498,14.5,6,4.6,https://www.carwale.com/tata-cars/safari/
+Tata Sierra EV,Tata,1879000.0,,,,,,4.9,https://www.carwale.com/tata-cars/sierra-ev/
+Tata Sierra,Tata,1149000.0,,Manual,1497,15.3,5,4.7,https://www.carwale.com/tata-cars/sierra/
+Tata Sumo Gold,Tata,525687.0,,Manual,2956,,0,4.4,https://www.carwale.com/tata-cars/sumo-gold/
+Tata Tiago EV,Tata,584000.0,,,,,,4.6,https://www.carwale.com/tata-cars/tiago-ev/
+Tata Tiago NRG,Tata,649900.0,,Manual,1199,,5,4.7,https://www.carwale.com/tata-cars/tiago-nrg/
+Tata Tiago,Tata,469990.0,,Manual,1199,,5,4.5,https://www.carwale.com/tata-cars/tiago/
+Tata Tigor EV,Tata,1249000.0,,,,,,3.8,https://www.carwale.com/tata-cars/tigor-ev/
+Tata Tigor,Tata,554986.0,,Manual,1199,19.2,5,4.5,https://www.carwale.com/tata-cars/tigor/
+Tata TL,Tata,4000000.0,,Manual,,,,,https://www.carwale.com/tata-cars/tl/
+Tata Venture,Tata,437308.0,,Manual,1405,,7,4.1,https://www.carwale.com/tata-cars/venture/
+Tata Vista Tech,Tata,508012.0,,Manual,1248,,5,4.3,https://www.carwale.com/tata-cars/vistatech/
+Tata Xenon XT,Tata,937100.0,,Manual,2179,,5,4.1,https://www.carwale.com/tata-cars/xenonxt/
+Tata Zest,Tata,581792.0,,Manual,1193,,5,4.0,https://www.carwale.com/tata-cars/zest/
+Tesla Model 3,Tesla,7000000.0,,Automatic,,,,,https://www.carwale.com/tesla-cars/model-3/
+Tesla Model S,Tesla,7000000.0,,,,,,,https://www.carwale.com/tesla-cars/model-s/
+Tesla Model Y,Tesla,5089584.0,,Automatic,,,5,4.4,https://www.carwale.com/tesla-cars/model-y/
+Toyota BZ4X,Toyota,6000000.0,,,,,,,https://www.carwale.com/toyota-cars/bz4x/
+Toyota Camry,Toyota,4748200.0,,Automatic,2487,25.49,5,4.7,https://www.carwale.com/toyota-cars/camry/
+Toyota Corolla Altis,Toyota,1646214.0,,Manual,1364,,5,4.6,https://www.carwale.com/toyota-cars/corolla-altis/
+Toyota Corona,Toyota,525000.0,,Manual,,,5,4.0,https://www.carwale.com/toyota-cars/corona/
+Toyota Crown,Toyota,1014000.0,,,,,,,https://www.carwale.com/toyota-cars/crown/
+Toyota Cynos,Toyota,308000.0,,Manual,,,,4.0,https://www.carwale.com/toyota-cars/cynos/
+Toyota Etios Liva,Toyota,568088.0,,Manual,1197,,5,4.3,https://www.carwale.com/toyota-cars/etios-liva/
+Toyota Fortuner Facelift,Toyota,3415999.0,,Automatic,,,,,https://www.carwale.com/toyota-cars/fortuner-facelift/
+Toyota Fortuner Legender,Toyota,4291951.0,,Automatic,2755,14.2,7,4.8,https://www.carwale.com/toyota-cars/fortuner-legender/
+Toyota Fortuner,Toyota,3475777.0,,Automatic,2694,10.3,7,4.5,https://www.carwale.com/toyota-cars/fortuner/
+Toyota Glanza Facelift,Toyota,646000.0,,,,,,,https://www.carwale.com/toyota-cars/glanza-facelift/
+Toyota Glanza,Toyota,672978.0,,Manual,1197,22.3,5,4.6,https://www.carwale.com/toyota-cars/glanza/
+Toyota Hilux,Toyota,2851968.0,,Manual,2755,11.25,5,4.2,https://www.carwale.com/toyota-cars/hilux/
+Toyota Urban Cruiser Hyryder,Toyota,1130977.0,,Manual,1462,20.12,5,4.5,https://www.carwale.com/toyota-cars/hyryder/
+Toyota Innova Crysta,Toyota,1972000.0,,Manual,2393,,7,5.0,https://www.carwale.com/toyota-cars/innova-crysta/
+Toyota Innova Hycross Facelift,Toyota,2000000.0,,,,,,,https://www.carwale.com/toyota-cars/innova-hycross-facelift/
+Toyota Innova Hycross,Toyota,1952975.0,,Automatic,1987,16.13,7,4.6,https://www.carwale.com/toyota-cars/innova-hycross/
+Toyota Land Cruiser,Toyota,21774860.0,,Automatic,3346,,5,4.8,https://www.carwale.com/toyota-cars/land-cruiser/
+Toyota Lexus,Toyota,3500000.0,,Automatic,,,,,https://www.carwale.com/toyota-cars/lexus/
+Toyota MR2,Toyota,2500000.0,,Automatic,,,,5.0,https://www.carwale.com/toyota-cars/mr2/
+Toyota New Hilux,Toyota,3000000.0,,Manual,,,,,https://www.carwale.com/toyota-cars/new-hilux/
+Toyota New Land Cruiser FJ,Toyota,2000000.0,,,,,,,https://www.carwale.com/toyota-cars/new-land-cruiser-fj/
+Toyota New Rumion,Toyota,1100000.0,,,,,,,https://www.carwale.com/toyota-cars/new-rumion/
+Toyota Platinum Etios,Toyota,704326.0,,Manual,1364,,5,4.5,https://www.carwale.com/toyota-cars/platinum-etios/
+Toyota Prius,Toyota,4543026.0,,Automatic,1798,,5,3.8,https://www.carwale.com/toyota-cars/prius/
+Toyota Qualis [2002-2004],Toyota,380000.0,,Manual,,,7,4.1,https://www.carwale.com/toyota-cars/qualis-2002-2004/
+Toyota Rumion,Toyota,979000.0,,Manual,1462,20.3,7,4.7,https://www.carwale.com/toyota-cars/rumion/
+Toyota Sera,Toyota,1500000.0,,Manual,,,5,4.0,https://www.carwale.com/toyota-cars/sera/
+Toyota Urban Cruiser Taisor,Toyota,742986.0,,Manual,998,19.86,5,4.6,https://www.carwale.com/toyota-cars/taisor/
+Toyota Urban Cruiser Ebella,Toyota,2360000.0,,,,,,3.3,https://www.carwale.com/toyota-cars/urban-cruiser-ebella/
+Toyota Urban Cruiser Hyryder 7 seater,Toyota,2100000.0,,,,,7,,https://www.carwale.com/toyota-cars/urban-cruiser-hyryder-7-seater/
+Toyota Urban Cruiser Taisor Facelift,Toyota,725000.0,,,,,,,https://www.carwale.com/toyota-cars/urban-cruiser-taisor-facelift/
+Toyota Urban Cruiser,Toyota,902031.0,,Manual,1462,,5,4.2,https://www.carwale.com/toyota-cars/urban-cruiser/
+Toyota Vellfire,Toyota,11973400.0,,Automatic,2487,19.28,7,4.9,https://www.carwale.com/toyota-cars/vellfire/
+Toyota Yaris,Toyota,875935.0,,Manual,1496,,5,4.3,https://www.carwale.com/toyota-cars/yaris/
+VinFast VF 3,VinFast,750000.0,,,,,,,https://www.carwale.com/vinfast-cars/vf-3/
+VinFast VF 6,VinFast,1729000.0,,,,,,4.6,https://www.carwale.com/vinfast-cars/vf-6/
+VinFast VF 7,VinFast,2189000.0,,,,,,4.0,https://www.carwale.com/vinfast-cars/vf-7/
+VinFast VF 8,VinFast,5000000.0,,,,,,,https://www.carwale.com/vinfast-cars/vf-8/
+VinFast VF 9,VinFast,7000000.0,,,,,,,https://www.carwale.com/vinfast-cars/vf-9/
+VinFast VF e34,VinFast,1200000.0,,,,,,,https://www.carwale.com/vinfast-cars/vf-e34/
+VinFast VF MPV 7,VinFast,2449000.0,,,,,,3.5,https://www.carwale.com/vinfast-cars/vf-mpv-7/
+Volkswagen Ameo,Volkswagen,566764.0,,Manual,999,,5,4.3,https://www.carwale.com/volkswagen-cars/ameo/
+Volkswagen Beetle,Volkswagen,2695403.0,,Automatic,1395,,4,4.6,https://www.carwale.com/volkswagen-cars/beetle/
+Volkswagen Golf GTI,Volkswagen,5090900.0,,Automatic,1984,,5,4.9,https://www.carwale.com/volkswagen-cars/golf-gti/
+Volkswagen GTI,Volkswagen,2000461.0,,Automatic,1798,,5,4.6,https://www.carwale.com/volkswagen-cars/gti/
+Volkswagen ID.4,Volkswagen,5000000.0,,,,,,,https://www.carwale.com/volkswagen-cars/id4/
+Volkswagen Jetta,Volkswagen,1477853.0,,Manual,1390,,5,4.3,https://www.carwale.com/volkswagen-cars/jetta/
+Volkswagen Passat,Volkswagen,2599005.0,,Automatic,1968,,5,4.5,https://www.carwale.com/volkswagen-cars/passat/
+Volkswagen Polo,Volkswagen,586976.0,,Manual,999,,5,4.6,https://www.carwale.com/volkswagen-cars/polo/
+Volkswagen T-Roc,Volkswagen,2135000.0,,Automatic,1498,,5,4.6,https://www.carwale.com/volkswagen-cars/t-roc/
+Volkswagen Taigun,Volkswagen,1099900.0,,Manual,999,18.85,5,4.6,https://www.carwale.com/volkswagen-cars/taigun/
+Volkswagen Tayron,Volkswagen,4199000.0,,Automatic,1984,,5,5.0,https://www.carwale.com/volkswagen-cars/tayron/
+Volkswagen Tera SUV,Volkswagen,900000.0,,,,,,,https://www.carwale.com/volkswagen-cars/tera-suv/
+Volkswagen Tiguan R-Line,Volkswagen,4710923.0,,Automatic,1984,12.58,5,4.3,https://www.carwale.com/volkswagen-cars/tiguan-r-line/
+Volkswagen Tiguan,Volkswagen,3418392.0,,Automatic,1984,,5,4.7,https://www.carwale.com/volkswagen-cars/tiguan/
+Volkswagen Vento,Volkswagen,869000.0,,Manual,999,,5,4.7,https://www.carwale.com/volkswagen-cars/vento/
+Volkswagen Virtus Facelift,Volkswagen,1050000.0,,,,,,,https://www.carwale.com/volkswagen-cars/virtus-facelift/
+Volkswagen Virtus,Volkswagen,1070886.0,,Manual,999,18.45,5,4.7,https://www.carwale.com/volkswagen-cars/virtus/
+Volvo EC40,Volvo,5900000.0,,Automatic,,,5,5.0,https://www.carwale.com/volvo-cars/ec40/
+Volvo EX30,Volvo,4100000.0,,Automatic,,,5,4.8,https://www.carwale.com/volvo-cars/ex30/
+Volvo EX40,Volvo,5010000.0,,Automatic,,,5,4.4,https://www.carwale.com/volvo-cars/ex40/
+Volvo EX90,Volvo,10000000.0,,,,,,,https://www.carwale.com/volvo-cars/ex90/
+Volvo S60,Volvo,4590000.0,,Automatic,1969,,5,4.8,https://www.carwale.com/volvo-cars/s60/
+Volvo S90,Volvo,6825000.0,,Automatic,1969,,5,4.8,https://www.carwale.com/volvo-cars/s90/
+Volvo XC40,Volvo,4640000.0,,Automatic,1969,,5,4.8,https://www.carwale.com/volvo-cars/xc40/
+Volvo XC60,Volvo,6959903.0,,Automatic,1969,,5,4.5,https://www.carwale.com/volvo-cars/xc60/
+Volvo XC90,Volvo,9879881.0,,Automatic,1969,12.38,7,4.6,https://www.carwale.com/volvo-cars/xc90/

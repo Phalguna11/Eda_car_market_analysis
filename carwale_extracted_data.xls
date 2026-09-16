@@ -1,0 +1,2405 @@
+Car Name,Brand,Price,Fuel Type,Transmission,Engine,Mileage,User Rating
+Aston Martin DB11,Aston-martin,Rs. 3.11 Crore,Petrol,Automatic,5198 cc,8.9 kmpl,Not Rated
+Aston Martin DB11,Aston-martin,Rs. 3.11 Crore,Petrol,Automatic,5198  cc,9  kmpl,Not Rated
+Aston Martin Vanquish,Aston-martin,Rs. 8.37 Crore,Petrol,Automatic,5203 cc,530  km/charge,Not Rated
+Aston Martin Vanquish,Aston-martin,Rs. 8.37 Crore,Petrol,Automatic,5203 cc,N/A,Not Rated
+Aston Martin Vanquish,Aston-martin,Rs. 8.37 Crore,Petrol,Automatic,5203  cc,530  km/charge,Not Rated
+Aston Martin Vantage,Aston-martin,Rs. 3.77 Crore,Petrol,Automatic,3982 cc,N/A,Not Rated
+Aston Martin Vantage,Aston-martin,Rs. 3.77 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Aston Martin DBX,Aston-martin,Rs. 3.82 Crore,Petrol,Automatic,3982 cc,10.1 kmpl,Not Rated
+Aston Martin DBX,Aston-martin,Rs. 3.82 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Aston Martin DB12,Aston-martin,Rs. 4.34 Crore,Petrol,Automatic,5198 cc,12.75 kmpl,Not Rated
+Aston Martin DB12,Aston-martin,Rs. 4.34 Crore,Petrol,Automatic,5198 cc,N/A,Not Rated
+Aston Martin DB12,Aston-martin,Rs. 4.34 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Aston Martin DB9,Aston-martin,Rs. 22.00 Lakh,Petrol,Automatic,5935 cc,N/A,Not Rated
+Aston Martin DB9,Aston-martin,Rs. 3.45 Crore,Petrol,Automatic,5935 cc,N/A,Not Rated
+Aston Martin DB9,Aston-martin,Rs. 3.45 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Aston Martin DB9,Aston-martin,Rs. 3.45 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Aston Martin DBS [2007-2012],Aston-martin,Rs. 2.49 Crore,Petrol,Automatic,5935 cc,N/A,Not Rated
+Aston Martin DBS [2007-2012],Aston-martin,Rs. 2.55 Crore,Petrol,Automatic,5935 cc,N/A,Not Rated
+Aston Martin DBS [2007-2012],Aston-martin,Rs. 2.55 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Aston Martin DBS [2007-2012],Aston-martin,Rs. 2.55 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Aston Martin Rapide,Aston-martin,Rs. 77.78 Lakh,Petrol,Automatic,5935 cc,N/A,Not Rated
+Aston Martin Rapide,Aston-martin,Rs. 3.29 Crore,Petrol,Automatic,5935 cc,N/A,Not Rated
+Aston Martin Rapide,Aston-martin,Rs. 3.29 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Aston Martin Rapide,Aston-martin,Rs. 3.29 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Aston Martin Virage,Aston-martin,Rs. 1.45 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Aston Martin Virage,Aston-martin,Rs. 8.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Aston Martin Virage,Aston-martin,Rs. 1.45 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+A6,Audi,Rs. 64.81 Lakh,Petrol,Automatic,1984 cc,14 kmpl,Not Rated
+A6,Audi,Rs. 64.81 Lakh,Petrol,Automatic,1984  cc,14  kmpl,Not Rated
+Q3,Audi,Rs. 43.67 Lakh,Petrol,Automatic,1984 cc,9.7kmpl,Not Rated
+Q3,Audi,Rs. 43.67 Lakh,Petrol,Automatic,1984 cc,14.93 kmpl,Not Rated
+Q3,Audi,Rs. 43.67 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+A4,Audi,Rs. 46.88 Lakh,Petrol,Automatic,1984 cc,17.4 kmpl,Not Rated
+A4,Audi,Rs. 46.88 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Q5,Audi,Rs. 65.55 Lakh,Petrol,Automatic,1984 cc,13.4 kmpl,Not Rated
+Q5,Audi,Rs. 65.55 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Q7,Audi,Rs. 87.62 Lakh,Petrol,Automatic,2995 cc,N/A,Not Rated
+Q7,Audi,Rs. 87.62 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+S5 Sportback,Audi,Rs. 73.57 Lakh,Petrol,Automatic,2994 cc,10.6 kmpl,Not Rated
+S5 Sportback,Audi,Rs. 73.57 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Q3 Sportback,Audi,Rs. 53.55 Lakh,Petrol,Automatic,1984 cc,15  kmpl,Not Rated
+Q3 Sportback,Audi,Rs. 53.55 Lakh,Petrol,Automatic,1984 cc,N/A,Not Rated
+Q3 Sportback,Audi,Rs. 53.55 Lakh,Petrol,Automatic,1984  cc,15  kmpl,Not Rated
+Q8,Audi,Rs. 1.15 Crore,Petrol,Automatic,2995 cc,12  kmpl,Not Rated
+Q8,Audi,Rs. 1.15 Crore,Petrol,Automatic,2995 cc,N/A,Not Rated
+Q8,Audi,Rs. 1.15 Crore,Petrol,Automatic,2995  cc,12  kmpl,Not Rated
+RS5,Audi,Rs. 1.07 Crore,Petrol,Manual,2894 cc,10.8 kmpl,Not Rated
+RS5,Audi,Rs. 1.07 Crore,Petrol,Automatic,2894 cc,10.8 kmpl,Not Rated
+RS5,Audi,Rs. 1.07 Crore,Petrol,Manual,Unknown,N/A,Not Rated
+A8 L,Audi,Rs. 1.27 Crore,Petrol,Automatic,2995 cc,17  kmpl,Not Rated
+A8 L,Audi,Rs. 1.27 Crore,Petrol,Automatic,2995 cc,N/A,Not Rated
+A8 L,Audi,Rs. 1.27 Crore,Petrol,Automatic,2995  cc,17  kmpl,Not Rated
+e-tron GT,Audi,Rs. 1.72 Crore,Petrol,Automatic,4 kWh,401  km/charge,Not Rated
+e-tron GT,Audi,Rs. 1.72 Crore,Electric,Automatic,4 kWh,N/A,Not Rated
+e-tron GT,Audi,Rs. 1.72 Crore,Petrol,Automatic,4  kWh,401  km/charge,Not Rated
+e-tron GT,Audi,On Request,Electric,Unknown,Electric Motor,N/A,Not Rated
+RS Q8 Performance,Audi,Rs. 2.38 Crore,Petrol,Automatic,4.0L,9 kmpl,Not Rated
+RS Q8 Performance,Audi,Rs. 2.38 Crore,Petrol,Automatic,4.0L,N/A,Not Rated
+RS Q8 Performance,Audi,Rs. 2.38 Crore,Petrol,Automatic,3996  cc,62  kmpl,Not Rated
+SQ8,Audi,Rs. 1.78 Crore,Petrol,Automatic,3996 cc,8  kmpl,Not Rated
+SQ8,Audi,Rs. 1.78 Crore,Petrol,Automatic,3996 cc,N/A,Not Rated
+SQ8,Audi,Rs. 1.78 Crore,Petrol,Automatic,3996  cc,8  kmpl,Not Rated
+e-tron Sportback,Audi,Rs. 1.20 Crore,Petrol,Automatic,95 kWh,484  km/charge,Not Rated
+e-tron Sportback,Audi,Rs. 1.20 Crore,Electric,Automatic,95 kWh,N/A,Not Rated
+e-tron Sportback,Audi,Rs. 1.20 Crore,Petrol,Automatic,95  kWh,484  km/charge,Not Rated
+e-tron,Audi,Rs. 1.02 Crore,Petrol,Automatic,71 kWh,484  km/charge,Not Rated
+e-tron,Audi,Rs. 1.02 Crore,Electric,Automatic,71 kWh,N/A,Not Rated
+e-tron,Audi,Rs. 1.02 Crore,Petrol,Automatic,95  kWh,484  km/charge,Not Rated
+Q8 e-tron,Audi,Rs. 1.15 Crore,Petrol,Automatic,95 kWh,582  km/charge,Not Rated
+Q8 e-tron,Audi,Rs. 1.15 Crore,Electric,Automatic,95 kWh,N/A,Not Rated
+Q8 e-tron,Audi,Rs. 1.15 Crore,Petrol,Automatic,114  kWh,582  km/charge,Not Rated
+Q8 Sportback e-tron,Audi,Rs. 1.19 Crore,Petrol,Automatic,95 kWh,484  km/charge,Not Rated
+Q8 Sportback e-tron,Audi,Rs. 1.19 Crore,Electric,Automatic,95 kWh,N/A,Not Rated
+Q8 Sportback e-tron,Audi,Rs. 1.19 Crore,Petrol,Automatic,114  kWh,484  km/charge,Not Rated
+RS7 Sportback,Audi,Rs. 2.23 Crore,Petrol,Automatic,3996 cc,8.7 kmpl,Not Rated
+RS7 Sportback,Audi,Rs. 28.00 Lakh,Petrol,Automatic,4.0L,8.7 kmpl,Not Rated
+RS7 Sportback,Audi,Rs. 2.23 Crore,Petrol,Automatic,4.0L,8.7 kmpl,Not Rated
+RS7 Sportback,Audi,Rs. 2.23 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+RS7 Sportback,Audi,Rs. 2.23 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+RS7 Sportback,Audi,On Request,Petrol,Unknown,Unknown,N/A,Not Rated
+A5 Cabriolet,Audi,Rs. 69.49 Lakh,Diesel,Automatic,1968 cc,17.2 kmpl,Not Rated
+A5 Cabriolet,Audi,Rs. 58.50 Lakh,Diesel,Automatic,1968 cc,17.2 kmpl,Not Rated
+A5 Cabriolet,Audi,Rs. 69.49 Lakh,Diesel,Automatic,Unknown,N/A,Not Rated
+A5 Cabriolet,Audi,Rs. 69.49 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+A5,Audi,Rs. 27.00 Lakh,Petrol,Automatic,2995 cc,13.57 kmpl,Not Rated
+A5,Audi,Rs. 27.00 Lakh,Petrol,Automatic,1968 cc,19.2 kmpl,Not Rated
+A5,Audi,Rs. 64.81 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+A5,Audi,Rs. 55.65 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+A5,Audi,Rs. 55.44 Lakh,Petrol,Automatic,1968 cc,19.2 kmpl,Not Rated
+A5,Audi,Rs. 55.44 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+A5,Audi,Rs. 55.44 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+A5,Audi,On Request,Petrol,Unknown,Unknown,N/A,Not Rated
+New A3,Audi,Rs. 31.21 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+New A3,Audi,Rs. 5.50 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+New A3,Audi,Rs. 31.21 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+S5 Sportback [2018],Audi,Rs. 25.75 Lakh,Petrol,Automatic,2994 cc,N/A,Not Rated
+S5 Sportback [2018],Audi,On Request,Petrol,Automatic,2994 cc,N/A,Not Rated
+S6,Audi,Rs. 95.25 Lakh,Petrol,Automatic,3993 cc,10.2 kmpl,Not Rated
+S6,Audi,Rs. 32.00 Lakh,Petrol,Automatic,3993 cc,10.2 kmpl,Not Rated
+S6,Audi,Rs. 95.25 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+S6,Audi,Rs. 95.25 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+R8,Audi,Rs. 30.00 Lakh,Petrol,Manual,5204 cc,6.71 kmpl,Not Rated
+R8,Audi,Rs. 2.30 Crore,Petrol,Manual,5204 cc,6.71 kmpl,Not Rated
+R8,Audi,Rs. 2.30 Crore,Petrol,Manual,Unknown,N/A,Not Rated
+R8,Audi,Rs. 2.30 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+TT,Audi,Rs. 65.43 Lakh,Petrol,Automatic,1984 cc,14.33 kmpl,Not Rated
+TT,Audi,Rs. 12.00 Lakh,Petrol,Automatic,1984 cc,14.33 kmpl,Not Rated
+TT,Audi,Rs. 65.43 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+TT,Audi,Rs. 65.43 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Q2,Audi,Rs. 17.00 Lakh,Petrol,Automatic,1984 cc,15.3 kmpl,Not Rated
+Q2,Audi,Rs. 35.00 Lakh,Petrol,Automatic,1984 cc,15.3 kmpl,Not Rated
+Q2,Audi,Rs. 35.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Q2,Audi,Rs. 35.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Bentayga,Bentley,Rs. 3.83 Crore,Petrol,Automatic,3996 cc,7.6 kmpl,Not Rated
+Bentayga,Bentley,Rs. 3.83 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Arnage,Bentley,Rs. 40.00 Lakh,Petrol,Automatic,6761 cc,4.2 kmpl,Not Rated
+Arnage,Bentley,Rs. 2.25 Crore,Petrol,Automatic,6761 cc,4.2 kmpl,Not Rated
+Arnage,Bentley,Rs. 2.25 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Arnage,Bentley,Rs. 2.25 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Continental GTC,Bentley,Rs. 2.00 Crore,Petrol,Automatic,5998 cc,6.38 kmpl,Not Rated
+Continental GTC,Bentley,Rs. 2.00 Crore,Petrol,Automatic,3993 cc,8.5 kmpl,Not Rated
+Continental GTC,Bentley,Rs. 3.45 Crore,Petrol,Automatic,3993 cc,8.5 kmpl,Not Rated
+Continental GTC,Bentley,Rs. 3.45 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Continental GTC,Bentley,Rs. 3.45 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Azure,Bentley,Rs. 3.90 Crore,Petrol,Automatic,6761 cc,5.4 kmpl,Not Rated
+Azure,Bentley,Rs. 2.41 Crore,Petrol,Automatic,6761 cc,5.4 kmpl,Not Rated
+Azure,Bentley,Rs. 3.90 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Azure,Bentley,Rs. 3.90 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Mulsanne,Bentley,Rs. 5.56 Crore,Petrol,Automatic,6752 cc,5.91 kmpl,Not Rated
+Mulsanne,Bentley,Rs. 2.19 Crore,Petrol,Automatic,6752 cc,5.91 kmpl,Not Rated
+Mulsanne,Bentley,Rs. 5.56 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Mulsanne,Bentley,Rs. 5.56 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Continental Super Sports,Bentley,Rs. 5.23 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Continental Super Sports,Bentley,Rs. 68.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Continental Super Sports,Bentley,Rs. 5.23 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+BMW 3 Series LWB,Bmw,Rs. 62.70 Lakh,Petrol,Automatic,1998 cc,11.5 kmpl,Not Rated
+BMW 3 Series LWB,Bmw,Rs. 62.70 Lakh,Petrol,Automatic,1998 cc,N/A,Not Rated
+BMW 3 Series LWB,Bmw,Rs. 62.70 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+BMW M4,Bmw,Rs. 1.56 Crore,Petrol,Manual,2993 cc,10 kmpl,Not Rated
+BMW M4,Bmw,Rs. 1.55 Crore,Petrol,Manual,2993 cc,10 kmpl,Not Rated
+BMW M4,Bmw,Rs. 1.55 Crore,Petrol,Automatic,2993 cc,10 kmpl,Not Rated
+BMW M4,Bmw,Rs. 1.55 Crore,Petrol,Manual,Unknown,N/A,Not Rated
+BMW 5 Series,Bmw,Rs. 76.60 Lakh,Petrol,Automatic,1998 cc,15.7 kmpl,Not Rated
+BMW 5 Series,Bmw,Rs. 76.60 Lakh,Petrol,Automatic,2.0L,15.7 kmpl,Not Rated
+BMW 5 Series,Bmw,Rs. 76.60 Lakh,Petrol,Automatic,1998  cc,16  kmpl,Not Rated
+BMW M340i,Bmw,Rs. 77.10 Lakh,Petrol,Manual,2998 cc,13.02 kmpl,Not Rated
+BMW M340i,Bmw,Rs. 77.10 Lakh,Petrol,Automatic,2998 cc,13.02 kmpl,Not Rated
+BMW M340i,Bmw,Rs. 77.10 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+BMW M340i,Bmw,On Request,CNG,Unknown,Unknown,N/A,Not Rated
+BMW 2 Series Gran Coupe,Bmw,Rs. 45.80 Lakh,Petrol,Automatic,1499 cc,16.35 kmpl,Not Rated
+BMW 2 Series Gran Coupe,Bmw,Rs. 45.80 Lakh,Petrol,Automatic,1499  cc,16  kmpl,Not Rated
+BMW X1,Bmw,Rs. 50.90 Lakh,Petrol,Automatic,1499 cc,16.14kmpl,Not Rated
+BMW X1,Bmw,Rs. 50.90 Lakh,Petrol,Automatic,1499 cc,16.35 kmpl,Not Rated
+BMW X1,Bmw,Rs. 50.90 Lakh,Petrol,Automatic,1995  cc,20  kmpl,Not Rated
+BMW M5,Bmw,Rs. 2.09 Crore,Petrol,Manual,4395 cc,14 kmpl,Not Rated
+BMW M5,Bmw,Rs. 2.08 Crore,Petrol,Manual,4395 cc,14 kmpl,Not Rated
+BMW M5,Bmw,Rs. 2.08 Crore,Petrol,Automatic,4395 cc,N/A,Not Rated
+BMW M5,Bmw,Rs. 2.08 Crore,Petrol,Manual,4395  cc,10  kmpl,Not Rated
+BMW M5,Bmw,On Request,Electric,Unknown,4.4L,5kmpl,Not Rated
+BMW X7,Bmw,Rs. 1.29 Crore,Petrol,Automatic,2993 cc,14.31 kmpl,Not Rated
+BMW X7,Bmw,Rs. 1.29 Crore,Petrol,Automatic,2998  cc,14  kmpl,Not Rated
+BMW X3,Bmw,Rs. 69.9 Lakh,Petrol,Automatic,1998cc,13.38 kmpl,Not Rated
+BMW X3,Bmw,Rs. 69.9 Lakh,Petrol,Automatic,1998cc,N/A,Not Rated
+BMW X3,Bmw,Rs. 69.90 Lakh,Petrol,Automatic,2.0L,13.38 kmpl,Not Rated
+BMW X3,Bmw,Rs. 69.90 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+BMW M2,Bmw,Rs. 1.04 Crore,Petrol,Manual,2993 cc,N/A,Not Rated
+BMW M2,Bmw,Rs. 1.04 Crore,Petrol,Manual,Unknown,N/A,Not Rated
+BMW M2,Bmw,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+BMW X5,Bmw,Rs. 95.40 Lakh,Petrol,Automatic,2998 cc,12 kmpl,Not Rated
+BMW X5,Bmw,Rs. 95.40 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+BMW i7,Bmw,Rs. 2.05 Crore,Petrol,Automatic,7 kWh,603  km/charge,Not Rated
+BMW i7,Bmw,Rs. 2.05 Crore,Electric,Automatic,7 kWh,N/A,Not Rated
+BMW i7,Bmw,Rs. 2.05 Crore,Petrol,Automatic,7  kWh,603  km/charge,Not Rated
+BMW i7,Bmw,On Request,Electric,Unknown,Electric Motor,N/A,Not Rated
+BMW iX1 LWB,Bmw,Rs. 51.40 Lakh,Petrol,Automatic,4 kWh,531  km/charge,Not Rated
+BMW iX1 LWB,Bmw,Rs. 51.40 Lakh,Electric,Automatic,4 kWh,N/A,Not Rated
+BMW iX1 LWB,Bmw,Rs. 51.40 Lakh,Petrol,Automatic,4  kWh,531  km/charge,Not Rated
+BMW 7 Series,Bmw,Rs. 1.85 Crore,Petrol,Automatic,2993 cc,16.55 kmpl,Not Rated
+BMW 7 Series,Bmw,Rs. 1.85 Crore,Petrol,Automatic,2998  cc,17  kmpl,Not Rated
+BMW M440i,Bmw,Rs. 1.09 Crore,Petrol,Manual,2998 cc,10.24 kmpl,Not Rated
+BMW M440i,Bmw,Rs. 1.09 Crore,Petrol,Automatic,2998 cc,10.24 kmpl,Not Rated
+BMW M440i,Bmw,Rs. 1.09 Crore,Petrol,Manual,Unknown,N/A,Not Rated
+BMW XM,Bmw,Rs. 2.55 Crore,Petrol,Automatic,4395 cc,61.9 kmpl,Not Rated
+BMW XM,Bmw,Rs. 2.55 Crore,Petrol,Automatic,4395  cc,62  kmpl,Not Rated
+BMW XM,Bmw,On Request,CNG,Unknown,Unknown,N/A,Not Rated
+BMW X6,Bmw,Rs. 1.78 Crore,Petrol,Automatic,4395 cc,7.89 kmpl,Not Rated
+BMW X6,Bmw,Rs. 1.78 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+BMW X4 M40i,Bmw,Rs. 91.00 Lakh,Petrol,Automatic,2998 cc,10.4 kmpl,Not Rated
+BMW X4 M40i,Bmw,Rs. 91.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+BMW iX,Bmw,Rs. 1.40 Crore,Petrol,Automatic,5 kWh,635  km/charge,Not Rated
+BMW iX,Bmw,Rs. 1.40 Crore,Electric,Automatic,5 kWh,N/A,Not Rated
+BMW iX,Bmw,Rs. 1.40 Crore,Petrol,Automatic,5  kWh,635  km/charge,Not Rated
+BMW i5,Bmw,Rs. 1.20 Crore,Petrol,Automatic,9 kWh,516  km/charge,Not Rated
+BMW i5,Bmw,Rs. 1.20 Crore,Electric,Automatic,9 kWh,N/A,Not Rated
+BMW i5,Bmw,Rs. 1.20 Crore,Petrol,Automatic,9  kWh,516  km/charge,Not Rated
+BMW 3 Series Gran Limousine,Bmw,Rs. 28.75 Lakh,Petrol,Automatic,1998 cc,15.39 kmpl,Not Rated
+BMW 3 Series Gran Limousine,Bmw,Rs. 62.70 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+BMW 3 Series Gran Limousine,Bmw,Rs. 55.65 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+BMW 3 Series Gran Limousine,Bmw,Rs. 58.90 Lakh,Petrol,Automatic,1998 cc,15.39 kmpl,Not Rated
+BMW 3 Series Gran Limousine,Bmw,Rs. 58.90 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+BMW 3 Series Gran Limousine,Bmw,Rs. 58.90 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+BMW 3 Series Gran Limousine,Bmw,On Request,Diesel,Unknown,Unknown,N/A,Not Rated
+BMW Z4,Bmw,Rs. 30.75 Lakh,Petrol,Manual,2998 cc,12.09 kmpl,Not Rated
+BMW Z4,Bmw,Rs. 90.50 Lakh,Petrol,Manual,2998 cc,12.09 kmpl,Not Rated
+BMW Z4,Bmw,Rs. 90.50 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+BMW Z4,Bmw,Rs. 90.50 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+BMW iX1,Bmw,Rs. 66.90 Lakh,Electric,Automatic,4 kWh,N/A,Not Rated
+BMW iX1,Bmw,Rs. 45.00 Lakh,Electric,Automatic,4 kWh,N/A,Not Rated
+BMW iX1,Bmw,Rs. 66.90 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+BMW iX1,Bmw,Rs. 66.90 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+BMW M8,Bmw,Rs. 1.00 Crore,Petrol,Automatic,4395 cc,8.01 kmpl,Not Rated
+BMW M8,Bmw,Rs. 1.00 Crore,Petrol,Automatic,4395 cc,8.77 kmpl,Not Rated
+BMW M8,Bmw,Rs. 2.38 Crore,Petrol,Automatic,4395 cc,8.77 kmpl,Not Rated
+BMW M8,Bmw,Rs. 2.38 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+BMW M8,Bmw,Rs. 2.38 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+BMW i4,Bmw,Rs. 47.50 Lakh,Electric,Automatic,2 kWh,N/A,Not Rated
+BMW i4,Bmw,Rs. 72.50 Lakh,Electric,Automatic,2 kWh,N/A,Not Rated
+BMW i4,Bmw,Rs. 72.50 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+BMW i4,Bmw,Rs. 72.50 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+BMW i4,Bmw,On Request,Electric,Unknown,Electric Motor,N/A,Not Rated
+BMW 1 Series,Bmw,Rs. 22.80 Lakh,Petrol,Automatic,1995 cc,16.29 kmpl,Not Rated
+BMW 1 Series,Bmw,Rs. 3.50 Lakh,Petrol,Automatic,1598 cc,16.29 kmpl,Not Rated
+BMW 1 Series,Bmw,Rs. 22.80 Lakh,Petrol,Automatic,1598 cc,16.29 kmpl,Not Rated
+BMW 1 Series,Bmw,Rs. 22.80 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+BMW 1 Series,Bmw,Rs. 22.80 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+BMW 1 Series,Bmw,On Request,Petrol,Unknown,Unknown,15  kmpl,Not Rated
+BMW 6 Series Gran Coupe,Bmw,Rs. 14.00 Lakh,Diesel,Automatic,2993 cc,17.54 kmpl,Not Rated
+BMW 6 Series Gran Coupe,Bmw,Rs. 1.16 Crore,Diesel,Automatic,2993 cc,17.54 kmpl,Not Rated
+BMW 6 Series Gran Coupe,Bmw,Rs. 1.16 Crore,Diesel,Automatic,Unknown,N/A,Not Rated
+BMW 6 Series Gran Coupe,Bmw,Rs. 1.16 Crore,Diesel,Unknown,Unknown,N/A,Not Rated
+BMW M3,Bmw,Rs. 1.30 Crore,Petrol,Automatic,2979 cc,N/A,Not Rated
+BMW M3,Bmw,Rs. 21.00 Lakh,Petrol,Automatic,2979 cc,N/A,Not Rated
+BMW M3,Bmw,Rs. 1.30 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+BMW M3,Bmw,Rs. 1.30 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+BMW Z3,Bmw,Rs. 70.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+BMW Z3,Bmw,Rs. 70.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+BMW M6,Bmw,Rs. 25.00 Lakh,Petrol,Automatic,4395 cc,14  kmpl,Not Rated
+BMW M6,Bmw,Rs. 25.00 Lakh,Petrol,Automatic,4395 cc,N/A,Not Rated
+BMW M6,Bmw,Rs. 1.76 Crore,Petrol,Automatic,4395 cc,N/A,Not Rated
+BMW M6,Bmw,Rs. 1.76 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+BMW M6,Bmw,Rs. 1.76 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+BMW 6 Series GT,Bmw,Rs. 20.00 Lakh,Petrol,Automatic,2993 cc,13.31 kmpl,Not Rated
+BMW 6 Series GT,Bmw,Rs. 20.00 Lakh,Petrol,Automatic,1995 cc,18.6 kmpl,Not Rated
+BMW 6 Series GT,Bmw,Rs. 71.49 Lakh,Petrol,Automatic,1995 cc,18.6 kmpl,Not Rated
+BMW 6 Series GT,Bmw,Rs. 71.49 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+BMW 6 Series GT,Bmw,Rs. 71.49 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+BMW 6 Series GT,Bmw,On Request,Diesel,Unknown,2.0L,9kmpl,Not Rated
+BMW 8 Series,Bmw,Rs. 61.00 Lakh,Petrol,Automatic,2998 cc,11.3 kmpl,Not Rated
+BMW 8 Series,Bmw,Rs. 1.31 Crore,Petrol,Automatic,2998 cc,11.3 kmpl,Not Rated
+BMW 8 Series,Bmw,Rs. 1.31 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+BMW 8 Series,Bmw,Rs. 1.31 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+BMW X3 M,Bmw,Rs. 99.90 Lakh,Petrol,Automatic,2993 cc,13.17 kmpl,Not Rated
+BMW X3 M,Bmw,Rs. 35.00 Lakh,Petrol,Automatic,2993 cc,13.17 kmpl,Not Rated
+BMW X3 M,Bmw,Rs. 99.90 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+BMW X3 M,Bmw,Rs. 99.90 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+BMW X3 M,Bmw,Rs. 99.90 Lakh,Petrol,Unknown,2993cc,N/A,Not Rated
+BMW X5 M,Bmw,Rs. 2.08 Crore,Petrol,Automatic,4395 cc,8.2 kmpl,Not Rated
+BMW X5 M,Bmw,Rs. 50.00 Lakh,Petrol,Automatic,4395 cc,8.2 kmpl,Not Rated
+BMW X5 M,Bmw,Rs. 2.08 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+BMW X5 M,Bmw,Rs. 2.08 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+BMW X3 M40i,Bmw,Rs. 87.70 Lakh,Petrol,Automatic,2998 cc,10.49 kmpl,Not Rated
+BMW X3 M40i,Bmw,Rs. 53.50 Lakh,Petrol,Automatic,2998 cc,10.49 kmpl,Not Rated
+BMW X3 M40i,Bmw,Rs. 87.70 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+BMW X3 M40i,Bmw,Rs. 87.70 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+BMW X3 M40i,Bmw,On Request,CNG,Unknown,Unknown,N/A,Not Rated
+BYD Seal U DM-i,Byd,Rs. 60.00 Lakh,Petrol,Automatic,3kWh,N/A,Not Rated
+BYD Seal U DM-i,Byd,Rs. 60.00 Lakh,Petrol,Automatic,1493 cc,N/A,Not Rated
+BYD Seal U DM-i,Byd,On Request,Petrol,Automatic,1493 cc,N/A,Not Rated
+BYD Seal U DM-i,Byd,Rs. 60.00 Lakh,Petrol,Automatic,1493  cc,N/A,Not Rated
+BYD Atto 3,Byd,Rs. 24.99 Lakh,Electric,Automatic,92 kWh,N/A,Not Rated
+BYD Atto 3,Byd,Rs. 24.99 Lakh,Electric,Automatic,48 kWh,N/A,Not Rated
+BYD Atto 3,Byd,Rs. 24.99 Lakh,Electric,Unknown,48kWh,N/A,Not Rated
+BYD Atto 3,Byd,Rs. 24.99 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+BYD Sealion 7,Byd,Rs. 49.40 Lakh,Electric,Automatic,5kWh,N/A,Not Rated
+BYD Sealion 7,Byd,Rs. 49.40 Lakh,Electric,Automatic,6 kWh,N/A,Not Rated
+BYD Sealion 7,Byd,Rs. 49.40 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+BYD Seal,Byd,Rs. 41.50 Lakh,Electric,Automatic,44 kWh,650  km/charge,Not Rated
+BYD Seal,Byd,Rs. 41.50 Lakh,Electric,Automatic,44 kWh,N/A,Not Rated
+BYD Seal,Byd,Rs. 41.50 Lakh,Electric,Automatic,56  kWh,650  km/charge,Not Rated
+BYD eMax 7,Byd,Rs. 26.90 Lakh,Petrol,Manual,4 kWh,530  km/charge,Not Rated
+BYD eMax 7,Byd,Rs. 26.90 Lakh,Electric,Automatic,4 kWh,N/A,Not Rated
+BYD eMax 7,Byd,Rs. 26.90 Lakh,Petrol,Manual,8  kWh,530  km/charge,Not Rated
+BYD e6,Byd,Rs. 29.15 Lakh,Electric,Automatic,7 kWh,N/A,Not Rated
+BYD e6,Byd,Rs. 14.00 Lakh,Electric,Automatic,7 kWh,N/A,Not Rated
+BYD e6,Byd,Rs. 29.15 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+BYD e6,Byd,Rs. 29.15 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+BYD Atto 3 facelift,Byd,Rs. 20.00 Lakh,Electric,Automatic,92 kWh,N/A,Not Rated
+BYD Atto 3 facelift,Byd,Rs. 24.99 Lakh,Electric,Automatic,92 kWh,N/A,Not Rated
+BYD Atto 3 facelift,Byd,Rs. 24.99 Lakh,Electric,Automatic,48 kWh,N/A,Not Rated
+BYD Atto 3 facelift,Byd,Rs. 24.99 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+BYD Atto 3 facelift,Byd,Rs. 24.99 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+बीवायडी कार्स,Byd,On Request,Electric,Unknown,Electric Motor,N/A,3.9/5
+Aircross X Facelift,Citroen,Rs. 8.89 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+C3 X,Citroen,Rs. 4.99 Lakh,Petrol,Manual,1198 cc,19.3 kmpl,Not Rated
+C3 X,Citroen,Rs. 4.99 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+C3 X,Citroen,On Request,Petrol,Unknown,Unknown,N/A,Not Rated
+Basalt X,Citroen,Rs. 8.55 Lakh,Petrol,Manual,1199 cc,19.5 kmpl,Not Rated
+Basalt X,Citroen,Rs. 8.55 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Aircross X,Citroen,Rs. 8.89 Lakh,Petrol,Manual,1199 cc,18.06 kmpl,Not Rated
+Aircross X,Citroen,Rs. 8.89 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+eC3 X,Citroen,Rs. 9.45 Lakh,Petrol,Manual,2kWh,320  km/charge,Not Rated
+eC3 X,Citroen,Rs. 9.45 Lakh,Electric,Automatic,2 kWh,N/A,Not Rated
+eC3 X,Citroen,Rs. 9.45 Lakh,Petrol,Manual,2  kWh,320  km/charge,Not Rated
+eC3 X,Citroen,On Request,Electric,Unknown,Electric Motor,N/A,Not Rated
+C5 Aircross,Citroen,Rs. 37.32 Lakh,Petrol,Manual,1997 cc,17.5 kmpl,Not Rated
+C5 Aircross,Citroen,Rs. 37.32 Lakh,Diesel,Automatic,Unknown,17.5 kmpl,Not Rated
+C5 Aircross,Citroen,Rs. 37.32 Lakh,Diesel,Automatic,Unknown,N/A,Not Rated
+C5 Aircross,Citroen,Rs. 37.32 Lakh,Diesel,Automatic,1997 cc,17.5 kmpl,Not Rated
+C5 Aircross,Citroen,Rs. 37.32 Lakh,Petrol,Manual,1997  cc,18  kmpl,Not Rated
+2024  Aircross,Citroen,Rs. 6.30 Lakh,Petrol,Manual,1199 cc,18.23 kmpl,Not Rated
+2024  Aircross,Citroen,Rs. 6.30 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+2024  Aircross,Citroen,Rs. 8.32 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+2024  Aircross,Citroen,Rs. 8.32 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Amalfi Spider,Ferrari,Rs. 4.60 Crore,Petrol,Automatic,3855 cc,N/A,Not Rated
+Amalfi Spider,Ferrari,Rs. 4.60 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+849 Testarossa,Ferrari,Rs. 10.37 Crore,Petrol,Automatic,3990 cc,530  km/charge,Not Rated
+849 Testarossa,Ferrari,Rs. 10.37 Crore,Petrol,Automatic,3990 cc,N/A,Not Rated
+849 Testarossa,Ferrari,Rs. 10.37 Crore,Petrol,Automatic,3990  cc,530  km/charge,Not Rated
+Purosangue SUV,Ferrari,Rs. 9.93 Crore,Petrol,Manual,6496 cc,9 kmpl,Not Rated
+Purosangue SUV,Ferrari,Rs. 9.93 Crore,Petrol,Manual,6496 cc,530  km/charge,Not Rated
+Purosangue SUV,Ferrari,Rs. 9.93 Crore,Petrol,Automatic,6496 cc,N/A,Not Rated
+Purosangue SUV,Ferrari,Rs. 9.93 Crore,Petrol,Automatic,6496  cc,530  km/charge,Not Rated
+Roma,Ferrari,Rs. 3.56 Crore,Petrol,Automatic,3855 cc,8.9 kmpl,Not Rated
+Roma,Ferrari,Rs. 3.56 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+296 GTB,Ferrari,Rs. 5.11 Crore,Petrol,Automatic,2992 cc,8 kmpl,Not Rated
+296 GTB,Ferrari,Rs. 5.11 Crore,Petrol,Automatic,2992 cc,N/A,Not Rated
+296 GTB,Ferrari,Rs. 5.11 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+F8 Tributo,Ferrari,Rs. 3.80 Crore,Petrol,Automatic,3902 cc,7.7 kmpl,Not Rated
+F8 Tributo,Ferrari,Rs. 3.80 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+296 GTS,Ferrari,Rs. 5.90 Crore,Petrol,Automatic,2992 cc,10 kmpl,Not Rated
+296 GTS,Ferrari,Rs. 5.90 Crore,Petrol,Automatic,2992 cc,N/A,Not Rated
+296 GTS,Ferrari,Rs. 5.90 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Portofino,Ferrari,Rs. 3.31 Crore,Petrol,Automatic,3855 cc,8.8 kmpl,Not Rated
+Portofino,Ferrari,Rs. 3.31 Crore,Petrol,Automatic,3855  cc,9  kmpl,Not Rated
+GTC4 Lusso,Ferrari,Rs. 4.26 Crore,Petrol,Automatic,6262 cc,N/A,Not Rated
+GTC4 Lusso,Ferrari,Rs. 3.65 Crore,Petrol,Automatic,3900 cc,N/A,Not Rated
+GTC4 Lusso,Ferrari,Rs. 4.26 Crore,Petrol,Automatic,3900 cc,N/A,Not Rated
+GTC4 Lusso,Ferrari,Rs. 4.26 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+GTC4 Lusso,Ferrari,Rs. 4.26 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+812,Ferrari,Rs. 5.20 Crore,Petrol,Automatic,6496 cc,6.2 kmpl,Not Rated
+812,Ferrari,Rs. 3.65 Crore,Petrol,Automatic,6496 cc,14.9 kmpl,Not Rated
+812,Ferrari,Rs. 5.20 Crore,Petrol,Automatic,6496 cc,14.9 kmpl,Not Rated
+812,Ferrari,Rs. 5.20 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+812,Ferrari,Rs. 5.20 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+F12berlinetta,Ferrari,Rs. 4.48 Crore,Petrol,Automatic,6262 cc,6.49 kmpl,Not Rated
+F12berlinetta,Ferrari,Rs. 1.00 Crore,Petrol,Automatic,6262 cc,6.49 kmpl,Not Rated
+F12berlinetta,Ferrari,Rs. 4.48 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+F12berlinetta,Ferrari,Rs. 4.48 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+488,Ferrari,Rs. 4.95 Crore,Petrol,Automatic,3902 cc,8.77 kmpl,Not Rated
+488,Ferrari,Rs. 3.68 Crore,Petrol,Automatic,3902 cc,8.77 kmpl,Not Rated
+488,Ferrari,Rs. 3.68 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+488,Ferrari,Rs. 3.68 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+458,Ferrari,Rs. 3.87 Crore,Petrol,Automatic,4497 cc,8.47 kmpl,Not Rated
+458,Ferrari,Rs. 3.00 Lakh,Petrol,Automatic,4497 cc,8.47 kmpl,Not Rated
+458,Ferrari,Rs. 3.87 Crore,Petrol,Automatic,0 cc,8.47 kmpl,Not Rated
+458,Ferrari,Rs. 3.87 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+458,Ferrari,Rs. 3.87 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+458,Ferrari,Rs. 3.87 Crore,Petrol,Automatic,4497cc,N/A,Not Rated
+360,Ferrari,Rs. 54.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+360,Ferrari,Rs. 3.10 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+FF,Ferrari,Rs. 3.79 Crore,Petrol,Automatic,6262 cc,N/A,Not Rated
+FF,Ferrari,Rs. 2.41 Crore,Petrol,Automatic,6.3L,N/A,Not Rated
+FF,Ferrari,Rs. 3.79 Crore,Petrol,Automatic,6.3L,N/A,Not Rated
+FF,Ferrari,Rs. 3.79 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+FF,Ferrari,Rs. 3.79 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+California,Ferrari,Rs. 1.65 Crore,Petrol,Automatic,4297 cc,9.52 kmpl,Not Rated
+California,Ferrari,Rs. 2.82 Crore,Petrol,Automatic,4297 cc,9.52 kmpl,Not Rated
+California,Ferrari,Rs. 2.82 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+California,Ferrari,Rs. 2.82 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+575 Superamerica,Ferrari,Rs. 1.80 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+575 Superamerica,Ferrari,Rs. 20.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+575 Superamerica,Ferrari,Rs. 1.80 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+612,Ferrari,Rs. 1.49 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+612,Ferrari,Rs. 61.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+612,Ferrari,Rs. 1.49 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+F430,Ferrari,Rs. 1.75 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+F430,Ferrari,Rs. 9.99 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+F430,Ferrari,Rs. 1.75 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Force Motors Gurkha,Force-motors,Rs. 16.31 Lakh,Petrol,Manual,2596 cc,14.4 kmpl,Not Rated
+Force Motors Gurkha,Force-motors,Rs. 16.31 Lakh,Diesel,Manual,2596 cc,N/A,Not Rated
+Force Motors Gurkha,Force-motors,Rs. 16.31 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Force Motors Trax Cruiser,Force-motors,Rs. 12.32 Lakh,Petrol,Manual,2596 cc,14.5 kmpl,Not Rated
+Force Motors Trax Cruiser,Force-motors,Rs. 12.32 Lakh,Petrol,Manual,2596 cc,10  kmpl,Not Rated
+Force Motors Trax Cruiser,Force-motors,Rs. 12.32 Lakh,Diesel,Manual,2596 cc,N/A,Not Rated
+Force Motors Trax Cruiser,Force-motors,Rs. 12.32 Lakh,Petrol,Manual,2596  cc,10  kmpl,Not Rated
+Force Motors Force One,Force-motors,Rs. 2.85 Lakh,Diesel,Manual,2650 cc,11.6 kmpl,Not Rated
+Force Motors Force One,Force-motors,Rs. 8.72 Lakh,Diesel,Manual,2650 cc,11.6 kmpl,Not Rated
+Force Motors Force One,Force-motors,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Force Motors Force One,Force-motors,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Force Motors Force One,Force-motors,Rs. 8.72 Lakh,Diesel,Manual,2149 cc,11.6 kmpl,Not Rated
+Force Motors Force One,Force-motors,Rs. 8.72 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Force Motors Force One,Force-motors,Rs. 8.72 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Force Motors Force One,Force-motors,On Request,Electric,Unknown,Electric Motor,16  kmpl,Not Rated
+Elevate,Honda,Rs. 11.64 Lakh,Petrol,Manual,1498 cc,15.31 kmpl,Not Rated
+Elevate,Honda,Rs. 11.64 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Amaze,Honda,Rs. 7.55 Lakh,Petrol,Manual,1199 cc,18.65 kmpl,Not Rated
+Amaze,Honda,Rs. 7.55 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+City,Honda,Rs. 12.04 Lakh,Petrol,Manual,1498 cc,17.77 kmpl,Not Rated
+City,Honda,Rs. 12.04 Lakh,Petrol,Manual,1498 cc,27.26 kmpl,Not Rated
+City,Honda,Rs. 12.04 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+City,Honda,On Request,Petrol,Manual,1.5L,N/A,Not Rated
+City,Honda,Rs. 12 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Amaze 2nd Gen,Honda,Rs. 7.00 Lakh,Petrol,Manual,1199 cc,18.6 kmpl,Not Rated
+Amaze 2nd Gen,Honda,Rs. 7.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+ZR-V,Honda,Rs. 40.00 Lakh,Petrol,Automatic,1993 cc,22.80kmpl,Not Rated
+ZR-V,Honda,Rs. 40.00 Lakh,Petrol,Automatic,1993 cc,22.8 kmpl,Not Rated
+ZR-V,Honda,Rs. 40.00 Lakh,Petrol,Automatic,1993  cc,N/A,Not Rated
+Elevate Facelift,Honda,Rs. 15.30 Lakh,Petrol,Manual,0 cc,15.31 kmpl,Not Rated
+Elevate Facelift,Honda,Rs. 15.30 Lakh,Petrol,Manual,1490  cc,N/A,Not Rated
+Elevate Facelift,Honda,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+0 Alpha,Honda,Rs. 11.64 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Elevate based three-row SUV,Honda,Rs. 17.10 Lakh,Petrol,Manual,0 cc,15.31 kmpl,Not Rated
+Elevate based three-row SUV,Honda,Rs. 17.00 Lakh,Petrol,Manual,4  kWh,N/A,Not Rated
+Elevate based three-row SUV,Honda,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+City Hybrid eHEV,Honda,Rs. 21.00 Lakh,Petrol,Automatic,1498 cc,27.1 kmpl,Not Rated
+City Hybrid eHEV,Honda,Rs. 13.99 Lakh,Petrol,Automatic,1498 cc,27.1 kmpl,Not Rated
+City Hybrid eHEV,Honda,Rs. 21.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+City Hybrid eHEV,Honda,Rs. 21.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+City Hybrid eHEV,Honda,On Request,CNG,Unknown,Unknown,25 kmpl,Not Rated
+City Hybrid eHEV,Honda,Rs. 21.00 Lakh,Petrol,Automatic,1498cc,N/A,Not Rated
+WR-V,Honda,Rs. 2.85 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+WR-V,Honda,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+WR-V,Honda,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Jazz,Honda,Rs. 4.34 Lakh,Petrol,Manual,1199 cc,16.6 kmpl,Not Rated
+Jazz,Honda,Rs. 8.11 Lakh,Petrol,Manual,1199 cc,16.6 kmpl,Not Rated
+Jazz,Honda,Rs. 8.11 Lakh,Petrol,Manual,1199 cc,17.1 kmpl,Not Rated
+Jazz,Honda,Rs. 8.11 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Jazz,Honda,Rs. 8.11 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Jazz,Honda,On Request,Diesel,Manual,Unknown,13 kmpl,Not Rated
+Civic,Honda,Rs. 6.07 Lakh,Petrol,Manual,1799 cc,16.5 kmpl,Not Rated
+Civic,Honda,Rs. 17.95 Lakh,Petrol,Manual,1799 cc,16.5 kmpl,Not Rated
+Civic,Honda,Rs. 17.95 Lakh,Petrol,Manual,1597 cc,25.35 kmpl,Not Rated
+Civic,Honda,Rs. 17.95 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Civic,Honda,Rs. 17.95 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Civic,Honda,On Request,Diesel,Unknown,Unknown,18 kmpl,Not Rated
+Civic,Honda,Rs. 17.95 Lakh,Diesel,Unknown,1799cc,N/A,Not Rated
+Civic,Honda,Rs. 22.36 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Brio,Honda,Rs. 2.61 Lakh,Petrol,Manual,1198 cc,16.5 kmpl,Not Rated
+Brio,Honda,Rs. 2.61 Lakh,Petrol,Manual,1198 cc,18.5 kmpl,Not Rated
+Brio,Honda,Rs. 4.82 Lakh,Petrol,Manual,1198 cc,18.5 kmpl,Not Rated
+Brio,Honda,Rs. 4.82 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Brio,Honda,Rs. 4.82 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Accord,Honda,Rs. 44.28 Lakh,Petrol,Automatic,1993 cc,23.1 kmpl,Not Rated
+Accord,Honda,Rs. 3.71 Lakh,Petrol,Automatic,1993 cc,23.1 kmpl,Not Rated
+Accord,Honda,Rs. 44.28 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Accord,Honda,Rs. 44.28 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+CR-V,Honda,Rs. 1.95 Lakh,Petrol,Automatic,1997 cc,14.4 kmpl,Not Rated
+CR-V,Honda,Rs. 28.34 Lakh,Petrol,Automatic,1997 cc,14.4 kmpl,Not Rated
+CR-V,Honda,Rs. 28.34 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+CR-V,Honda,Rs. 28.34 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+CR-V,Honda,Rs. 28.34 Lakh,Diesel,Unknown,1997cc,N/A,Not Rated
+CR-V,Honda,Rs. 32.84 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Step WGN,Honda,Rs. 7.49 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Step WGN,Honda,Rs. 1.50 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Step WGN,Honda,Rs. 7.49 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Concerto,Honda,Rs. 3.54 Lakh,Petrol,Manual,1.5L,N/A,Not Rated
+Concerto,Honda,Rs. 3.54 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Concerto,Honda,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+CR-X,Honda,Rs. 31.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+CR-X,Honda,Rs. 3.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+CR-X,Honda,Rs. 31.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Mobilio,Honda,Rs. 2.00 Lakh,Petrol,Manual,1498 cc,17.3 kmpl,Not Rated
+Mobilio,Honda,Rs. 2.00 Lakh,Petrol,Manual,1497 cc,17.3 kmpl,Not Rated
+Mobilio,Honda,Rs. 7.29 Lakh,Petrol,Manual,1497 cc,17.3 kmpl,Not Rated
+Mobilio,Honda,Rs. 7.29 Lakh,Petrol,Manual,1497 cc,24.2 kmpl,Not Rated
+Mobilio,Honda,Rs. 7.29 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Mobilio,Honda,Rs. 7.29 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Mobilio,Honda,Rs. 7.29 Lakh,Diesel,Unknown,1497cc,N/A,Not Rated
+Mobilio,Honda,Rs. 12.42 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+BR-V,Honda,Rs. 1.50 Lakh,Petrol,Manual,1498 cc,15.39 kmpl,Not Rated
+BR-V,Honda,Rs. 1.50 Lakh,Petrol,Manual,1497 cc,15.39 kmpl,Not Rated
+BR-V,Honda,Rs. 9.61 Lakh,Petrol,Manual,1497 cc,15.39 kmpl,Not Rated
+BR-V,Honda,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+BR-V,Honda,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+BR-V,Honda,Rs. 9.61 Lakh,Petrol,Manual,1497 cc,21.9 kmpl,Not Rated
+BR-V,Honda,Rs. 9.61 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+BR-V,Honda,Rs. 9.61 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+BR-V,Honda,On Request,Petrol,Unknown,Unknown,N/A,Not Rated
+BR-V,Honda,Rs. 9.61 Lakh,Diesel,Unknown,1497cc,N/A,Not Rated
+BR-V,Honda,Rs. 13.90 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Creta,Hyundai,Rs. 10.91 Lakh,Petrol,Manual,1493 cc,16kmpl,Not Rated
+Creta,Hyundai,Rs. 10.91 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Creta,Hyundai,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Venue,Hyundai,Rs. 8.00 Lakh,Petrol,Manual,1.0L,18.74kmpl,Not Rated
+Venue,Hyundai,Rs. 8.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Venue,Hyundai,Rs. 9.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Exter,Hyundai,Rs. 5.81 Lakh,Petrol,Manual,1197 cc,7kmpl,Not Rated
+Exter,Hyundai,Rs. 5.81 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Exter,Hyundai,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Exter,Hyundai,On Request,CNG,Unknown,Unknown,7kmpl,Not Rated
+Exter,Hyundai,On Request,CNG,Automatic,Unknown,N/A,Not Rated
+i20,Hyundai,Rs. 6.00 Lakh,Petrol,Manual,1197 cc,19 kmpl,Not Rated
+i20,Hyundai,Rs. 6.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+i20,Hyundai,On Request,Petrol,Automatic,1.2L,17 kmpl,Not Rated
+Grand i10 Nios,Hyundai,Rs. 5.60 Lakh,Petrol,Manual,1197 cc,20 kmpl,Not Rated
+Grand i10 Nios,Hyundai,Rs. 5.60 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Grand i10 Nios,Hyundai,On Request,Petrol,Unknown,Unknown,N/A,Not Rated
+Verna,Hyundai,Rs. 10.99 Lakh,Petrol,Manual,1.5L,13 kmpl,Not Rated
+Verna,Hyundai,Rs. 10.99 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Aura,Hyundai,Rs. 6 Lakh,Petrol,Manual,1197cc,20 kmpl,Not Rated
+Aura,Hyundai,Rs. 6 Lakh,Petrol,Manual,1197cc,N/A,Not Rated
+Aura,Hyundai,Rs. 6 Lakh,CNG,Automatic,Unknown,N/A,Not Rated
+Aura,Hyundai,Rs. 7.14 Lakh,Petrol,Manual,1.2L,20 kmpl,Not Rated
+Aura,Hyundai,Rs. 7.14 Lakh,Petrol,Manual,1.2L,N/A,Not Rated
+Aura,Hyundai,Rs. 6.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Aura,Hyundai,On Request,CNG,Automatic,Unknown,N/A,Not Rated
+Creta Electric,Hyundai,Rs. 14.53 Lakh,Electric,Automatic,4kWh,N/A,Not Rated
+Creta Electric,Hyundai,On Request,Electric,Unknown,Electric Motor,N/A,Not Rated
+Creta Electric,Hyundai,Rs. 14.53 Lakh,Electric,Unknown,4kWh,N/A,Not Rated
+Creta Electric,Hyundai,Rs. 14.53 Lakh,Electric,Unknown,42 kWh,N/A,Not Rated
+Creta Electric,Hyundai,Rs. 14.53 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Creta Electric,Hyundai,Rs. 18.8 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Creta Electric,Hyundai,Rs. 14.53 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+Creta Electric,Hyundai,Rs. 10.99 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Creta Electric,Hyundai,Rs.  14.53 Lakh,Electric,Unknown,4 kWh,N/A,Not Rated
+Creta Electric,Hyundai,Rs.  14.53 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Creta Electric,Hyundai,Rs.  24.70 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Creta Electric,Hyundai,Rs. 19.16 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Alcazar,Hyundai,Rs. 14.51 Lakh,Petrol,Manual,1482cc,10kmpl,Not Rated
+Alcazar,Hyundai,Rs. 14.51 Lakh,Petrol,Manual,1482cc,N/A,Not Rated
+Alcazar,Hyundai,Rs. 17.33 Lakh,Petrol,Manual,1.5L,10kmpl,Not Rated
+Alcazar,Hyundai,Rs. 17.33 Lakh,Petrol,Manual,1.5L,N/A,Not Rated
+Alcazar,Hyundai,Rs. 18.96 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Alcazar,Hyundai,Rs. 14.51 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Alcazar,Hyundai,On Request,Diesel,Unknown,1.5L,N/A,Not Rated
+Venue N Line,Hyundai,Rs. 10.66 Lakh,Petrol,Manual,998cc,20 kmpl,Not Rated
+Venue N Line,Hyundai,Rs. 10.66 Lakh,Petrol,Manual,998cc,N/A,Not Rated
+Venue N Line,Hyundai,Rs. 10.66 Lakh,Petrol,Manual,998 cc,20 kmpl,Not Rated
+Venue N Line,Hyundai,Rs. 10.66 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+i20 N Line,Hyundai,Rs. 9.27 Lakh,Petrol,Manual,1.0L,14.6 kmpl,Not Rated
+i20 N Line,Hyundai,Rs. 9.27 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Creta N Line,Hyundai,Rs. 19.03 Lakh,Petrol,Manual,1482 cc,20  kmpl,Not Rated
+Creta N Line,Hyundai,Rs. 19.03 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Creta N Line,Hyundai,Rs. 19.18 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Creta N Line,Hyundai,Rs. 19.95 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Creta N Line,Hyundai,Rs. 20.10 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Creta N Line,Hyundai,Rs. 19.03 Lakh,Petrol,Manual,1482  cc,20  kmpl,Not Rated
+Ioniq 5,Hyundai,Rs. 55.71 Lakh,Electric,Automatic,84kWh,567  km/charge,Not Rated
+Ioniq 5,Hyundai,Rs. 55.70 Lakh,Electric,Automatic,0 kWh,567  km/charge,Not Rated
+Ioniq 5,Hyundai,Rs. 55.70 Lakh,Electric,Automatic,84  kWh,567  km/charge,Not Rated
+sub-compact EV SUV,Hyundai,Rs. 11.39 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+New i20,Hyundai,Rs. 6.19 Lakh,Petrol,Manual,1197 cc,N/A,Not Rated
+New i20,Hyundai,Rs. 5.99 Lakh,Petrol,Manual,1197  cc,N/A,Not Rated
+New i20,Hyundai,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Tucson Facelift,Hyundai,Rs. 37.32 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Tucson Facelift,Hyundai,On Request,Petrol,Automatic,Unknown,N/A,Not Rated
+Ioniq 9,Hyundai,Rs. 1.20 Crore,Diesel,Automatic,3 kWh,N/A,Not Rated
+Ioniq 9,Hyundai,Rs. 1.20 Crore,Diesel,Automatic,3  kWh,N/A,Not Rated
+Ioniq 9,Hyundai,On Request,Electric,Automatic,Electric Motor,N/A,Not Rated
+Stargazer,Hyundai,Rs. 9.60 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Stargazer,Hyundai,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Staria,Hyundai,Rs. 59.65 Lakh,Electric,Unknown,84kWh,N/A,Not Rated
+2023  Venue,Hyundai,Rs. 8.00 Lakh,Petrol,Manual,1.0L,17.5 kmpl,Not Rated
+2023  Venue,Hyundai,Rs. 8.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+2023  Venue,Hyundai,Rs. 7.61 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+2023  Venue,Hyundai,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+2023  Venue,Hyundai,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+2023  Venue,Hyundai,On Request,Petrol,Manual,Unknown,11 kmpl,Not Rated
+2023  Venue,Hyundai,Rs. 15 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+2023  Venue N Line,Hyundai,Rs. 10.66 Lakh,Petrol,Manual,1.0L,18.1 kmpl,Not Rated
+2023  Venue N Line,Hyundai,Rs. 11.64 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+2023  Venue N Line,Hyundai,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+2023  Venue N Line,Hyundai,On Request,Petrol,Automatic,1.0L,N/A,Not Rated
+2022  Tucson,Hyundai,Rs. 6.90 Lakh,Petrol,Automatic,1997 cc,17.5 kmpl,Not Rated
+2022  Tucson,Hyundai,Rs. 6.90 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+2022  Tucson,Hyundai,On Request,Petrol,Unknown,Unknown,N/A,Not Rated
+Accent,Hyundai,Rs. 1.44 Lakh,Petrol,Manual,1495 cc,11.26 kmpl,Not Rated
+Accent,Hyundai,Rs. 1.44 Lakh,Petrol,Manual,1.5L,13.13 kmpl,Not Rated
+Accent,Hyundai,Rs. 1.44 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Accent,Hyundai,Rs. 5.43 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Accent,Hyundai,Rs. 5.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Accent,Hyundai,Rs. 5.24 Lakh,Petrol,Manual,1495 cc,13.13 kmpl,Not Rated
+Accent,Hyundai,Rs. 5.24 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Accent,Hyundai,Rs. 5.24 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Accent,Hyundai,On Request,CNG,Unknown,Unknown,22 km/kg,Not Rated
+Elantra,Hyundai,Rs. 6.13 Lakh,Petrol,Manual,1999 cc,14.8 kmpl,Not Rated
+Elantra,Hyundai,Rs. 6.13 Lakh,Petrol,Manual,1.5L,14.6 kmpl,Not Rated
+Elantra,Hyundai,Rs. 6.13 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Elantra,Hyundai,Rs. 15.90 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Elantra,Hyundai,Rs. 15.90 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Getz Prime [2007-2010],Hyundai,Rs. 3.60 Lakh,Petrol,Manual,1493 cc,11.55 kmpl,Not Rated
+Getz Prime [2007-2010],Hyundai,Rs. 1.24 Lakh,Petrol,Manual,1086 cc,13.7 kmpl,Not Rated
+Getz Prime [2007-2010],Hyundai,Rs. 1.24 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Getz Prime [2007-2010],Hyundai,Rs. 3.60 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Getz Prime [2007-2010],Hyundai,Rs. 3.60 Lakh,Petrol,Manual,1086 cc,13.7 kmpl,Not Rated
+Getz Prime [2007-2010],Hyundai,Rs. 3.60 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Santro,Hyundai,Rs. 2.17 Lakh,Petrol,Manual,1086 cc,20.15 kmpl,Not Rated
+Santro,Hyundai,Rs. 2.17 Lakh,Petrol,Manual,1086 cc,30.24 kmpl,Not Rated
+Santro,Hyundai,Rs. 2.17 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Santro,Hyundai,Rs. 3.91 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Santro,Hyundai,Rs. 3.91 Lakh,Petrol,Manual,1086 cc,30.24 kmpl,Not Rated
+Santro,Hyundai,Rs. 3.91 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Sonata,Hyundai,Rs. 1.85 Lakh,Petrol,Manual,2359 cc,12.2 kmpl,Not Rated
+Sonata,Hyundai,Rs. 1.85 Lakh,Petrol,Manual,1.5L,13.08 kmpl,Not Rated
+Sonata,Hyundai,Rs. 19.46 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Sonata,Hyundai,Rs. 19.46 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Terracan [2003-2006],Hyundai,Rs. 18.49 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Terracan [2003-2006],Hyundai,Rs. 1.30 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Terracan [2003-2006],Hyundai,Rs. 18.49 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Eon,Hyundai,Rs. 1.95 Lakh,Petrol,Manual,998 cc,20.3 kmpl,Not Rated
+Eon,Hyundai,Rs. 1.95 Lakh,Petrol,Manual,814 cc,21.1 kmpl,Not Rated
+Eon,Hyundai,Rs. 1.95 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Eon,Hyundai,Rs. 2.96 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Eon,Hyundai,Rs. 2.96 Lakh,Petrol,Manual,814 cc,21.1 kmpl,Not Rated
+Eon,Hyundai,Rs. 2.96 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Grand i10,Hyundai,Rs. 1.20 Lakh,Petrol,Manual,1197 cc,17.49 kmpl,Not Rated
+Grand i10,Hyundai,Rs. 1.20 Lakh,Petrol,Manual,1186 cc,24.95 kmpl,Not Rated
+Grand i10,Hyundai,Rs. 1.20 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Grand i10,Hyundai,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Grand i10,Hyundai,Rs. 5.00 Lakh,Petrol,Manual,1186 cc,24.95 kmpl,Not Rated
+Grand i10,Hyundai,Rs. 5.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Grand i10,Hyundai,Rs. 5.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Grand i10,Hyundai,On Request,Petrol,Unknown,Unknown,N/A,Not Rated
+Xcent,Hyundai,Rs. 1.30 Lakh,Petrol,Manual,1197 cc,16.1 kmpl,Not Rated
+Xcent,Hyundai,Rs. 1.30 Lakh,Petrol,Manual,1186 cc,24.4 kmpl,Not Rated
+Xcent,Hyundai,Rs. 1.30 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Xcent,Hyundai,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Xcent,Hyundai,Rs. 5.81 Lakh,Petrol,Manual,1186 cc,24.4 kmpl,Not Rated
+Xcent,Hyundai,Rs. 5.81 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Xcent,Hyundai,Rs. 5.81 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+i20 Active,Hyundai,Rs. 1.00 Lakh,Petrol,Manual,1396 cc,17.19 kmpl,Not Rated
+i20 Active,Hyundai,Rs. 1.00 Lakh,Petrol,Manual,1.0L,21.19 kmpl,Not Rated
+i20 Active,Hyundai,Rs. 1.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+i20 Active,Hyundai,Rs. 7.13 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+i20 Active,Hyundai,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+i20 Active,Hyundai,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+i20 Active,Hyundai,Rs. 7.13 Lakh,Petrol,Manual,1197 cc,21.19 kmpl,Not Rated
+i20 Active,Hyundai,Rs. 7.13 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+i20 Active,Hyundai,On Request,Diesel,Unknown,Unknown,N/A,Not Rated
+New Kona,Hyundai,Rs. 11.00 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+New Kona,Hyundai,Rs. 15.61 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Genesis,Hyundai,Rs. 35.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Genesis,Hyundai,Rs. 1.90 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Genesis,Hyundai,Rs. 35.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+हुंडई कार्स,Hyundai,On Request,Diesel,Unknown,Unknown,N/A,4.6/5
+V-Cross,Isuzu,Rs. 25.50 Lakh,Petrol,Manual,1898 cc,656  km/charge,Not Rated
+V-Cross,Isuzu,Rs. 25.50 Lakh,Diesel,Manual,1898 cc,N/A,Not Rated
+V-Cross,Isuzu,Rs. 25.50 Lakh,Petrol,Manual,1898  cc,656  km/charge,Not Rated
+Hi-Lander,Isuzu,Rs. 21.05 Lakh,Petrol,Manual,1898 cc,15  kmpl,Not Rated
+Hi-Lander,Isuzu,Rs. 21.05 Lakh,Diesel,Manual,1898 cc,N/A,Not Rated
+Hi-Lander,Isuzu,Rs. 21.05 Lakh,Petrol,Manual,1898  cc,15  kmpl,Not Rated
+MU-X,Isuzu,Rs. 34.53 Lakh,Petrol,Manual,1898 cc,9kmpl,Not Rated
+MU-X,Isuzu,Rs. 34.53 Lakh,Diesel,Automatic,1898 cc,N/A,Not Rated
+MU-X,Isuzu,Rs. 34.53 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Trooper,Isuzu,Rs. 4.65 Lakh,Petrol,Automatic,1.0L,N/A,Not Rated
+Trooper,Isuzu,Rs. 4.22 Lakh,Petrol,Automatic,1.0L,N/A,Not Rated
+Trooper,Isuzu,Rs. 4.22 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Trooper,Isuzu,Rs. 4.65 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Trooper,Isuzu,Rs. 4.65 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+F-Pace,Jaguar,Rs. 68.96 Lakh,Petrol,Automatic,1998 cc,19.3 kmpl,Not Rated
+F-Pace,Jaguar,Rs. 68.96 Lakh,Petrol,Automatic,1998 cc,12.9 kmpl,Not Rated
+F-Pace,Jaguar,Rs. 68.96 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+F-Pace,Jaguar,On Request,Petrol,Unknown,2.0L,15 kmpl,Not Rated
+I-Pace,Jaguar,Rs. 45.00 Lakh,Electric,Automatic,90 kWh,N/A,Not Rated
+I-Pace,Jaguar,Rs. 1.06 Crore,Electric,Automatic,90 kWh,N/A,Not Rated
+I-Pace,Jaguar,Rs. 1.06 Crore,Electric,Automatic,Electric Motor,N/A,Not Rated
+I-Pace,Jaguar,Rs. 1.06 Crore,Electric,Unknown,Electric Motor,N/A,Not Rated
+XJ50,Jaguar,Rs. 37.00 Lakh,Diesel,Automatic,2993 cc,N/A,Not Rated
+XJ50,Jaguar,On Request,Diesel,Automatic,2993 cc,N/A,Not Rated
+XF,Jaguar,Rs. 6.75 Lakh,Petrol,Automatic,1999 cc,13.12 kmpl,Not Rated
+XF,Jaguar,Rs. 6.75 Lakh,Petrol,Automatic,1999 cc,19.33 kmpl,Not Rated
+XF,Jaguar,Rs. 49.78 Lakh,Petrol,Automatic,1999 cc,19.33 kmpl,Not Rated
+XF,Jaguar,Rs. 49.78 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+XF,Jaguar,Rs. 49.78 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+XF,Jaguar,On Request,Diesel,Unknown,Unknown,N/A,Not Rated
+F-Type,Jaguar,Rs. 97.93 Lakh,Petrol,Automatic,5000 cc,9.31 kmpl,Not Rated
+F-Type,Jaguar,Rs. 49.00 Lakh,Petrol,Automatic,1997 cc,12.3 kmpl,Not Rated
+F-Type,Jaguar,Rs. 97.93 Lakh,Petrol,Automatic,1997 cc,12.3 kmpl,Not Rated
+F-Type,Jaguar,Rs. 97.93 Lakh,Petrol,Automatic,1997 cc,12.35 kmpl,Not Rated
+F-Type,Jaguar,Rs. 97.93 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+F-Type,Jaguar,Rs. 97.93 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+XE,Jaguar,Rs. 10.25 Lakh,Petrol,Automatic,1999 cc,12.6 kmpl,Not Rated
+XE,Jaguar,Rs. 44.98 Lakh,Petrol,Automatic,1999 cc,12.6 kmpl,Not Rated
+XE,Jaguar,Rs. 44.98 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+XE,Jaguar,Rs. 44.98 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+XJ L,Jaguar,Rs. 99.56 Lakh,Petrol,Automatic,5000 cc,9.4 kmpl,Not Rated
+XJ L,Jaguar,Rs. 8.51 Lakh,Petrol,Automatic,2993 cc,12.9 kmpl,Not Rated
+XJ L,Jaguar,Rs. 99.56 Lakh,Petrol,Automatic,2993 cc,12.9 kmpl,Not Rated
+XJ L,Jaguar,Rs. 99.56 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+XJ L,Jaguar,Rs. 99.56 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+XK,Jaguar,Rs. 1.03 Crore,Petrol,Automatic,5000 cc,N/A,Not Rated
+XK,Jaguar,Rs. 40.00 Lakh,Petrol,Automatic,5000 cc,N/A,Not Rated
+XK,Jaguar,Rs. 1.03 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+XK,Jaguar,Rs. 1.03 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Cars,Jeep,Rs. 17.99 Lakh,Diesel,Automatic,Unknown,17 kmpl,4.1/5
+Wrangler,Jeep,Rs. 66.20 Lakh,Petrol,Automatic,1995 cc,11.4 kmpl,Not Rated
+Wrangler,Jeep,Rs. 66.20 Lakh,Petrol,Automatic,1995  cc,11  kmpl,Not Rated
+Compass,Jeep,Rs. 17.99 Lakh,Petrol,Manual,1956 cc,12 kmpl,Not Rated
+Compass,Jeep,Rs. 17.99 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Meridian,Jeep,Rs. 23.33 Lakh,Petrol,Manual,1956 cc,14 kmpl,Not Rated
+Meridian,Jeep,Rs. 23.33 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Grand Cherokee,Jeep,Rs. 63.00 Lakh,Petrol,Manual,1995 cc,10 kmpl,Not Rated
+Grand Cherokee,Jeep,Rs. 63.00 Lakh,Petrol,Automatic,1995  cc,11  kmpl,Not Rated
+Grand Cherokee,Jeep,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Avenger,Jeep,Rs. 5.63 Lakh,Petrol,Unknown,1.0L,N/A,Not Rated
+Avenger,Jeep,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Avenger,Jeep,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Willys,Jeep,Rs. 4.03 Lakh,Diesel,Unknown,1.5L,N/A,Not Rated
+Willys,Jeep,Rs. 1.20 Lakh,Diesel,Unknown,1.5L,N/A,Not Rated
+Willys,Jeep,Rs. 1.20 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Willys,Jeep,Rs. 4.03 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+जीप कार्स,Jeep,On Request,Diesel,Automatic,Unknown,N/A,4.1/5
+Syros EV,Kia,Rs. 13.99 Lakh,Petrol,Manual,42 kWh,N/A,Not Rated
+Syros EV,Kia,Rs. 14.00 Lakh,Petrol,Manual,4  kWh,N/A,Not Rated
+Syros EV,Kia,On Request,Electric,Automatic,Electric Motor,N/A,Not Rated
+Seltos,Kia,Rs. 11 Lakh,Petrol,Manual,1497cc,10.7kmpl,Not Rated
+Seltos,Kia,Rs. 11 Lakh,Petrol,Manual,1497cc,N/A,Not Rated
+Seltos,Kia,Rs. 13.09 Lakh,Petrol,Manual,1.5L,10.7kmpl,Not Rated
+Seltos,Kia,Rs. 13.09 Lakh,Petrol,Manual,1.5L,N/A,Not Rated
+Seltos,Kia,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Seltos,Kia,Rs. 11.00 Lakh,Petrol,Manual,1482 cc,N/A,Not Rated
+Seltos,Kia,Rs. 11.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Seltos,Kia,On Request,Petrol,Automatic,Unknown,N/A,Not Rated
+Sonet,Kia,Rs. 7.41 Lakh,Petrol,Manual,1.0L,19.2kmpl,Not Rated
+Sonet,Kia,Rs. 7.41 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Sonet,Kia,Rs. 11.64 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Sonet,Kia,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Carens,Kia,Rs. 11.02 Lakh,Petrol,Manual,1.5L,15 kmpl,Not Rated
+Carens,Kia,Rs. 11.02 Lakh,Petrol,Manual,1.5L,N/A,Not Rated
+Carens,Kia,Rs. 11.02 Lakh,CNG,Manual,1.5L,N/A,Not Rated
+Carens,Kia,Rs. 12.88 Lakh,Diesel,Manual,1.5L,N/A,Not Rated
+Carens,Kia,On Request,CNG,Unknown,Unknown,N/A,Not Rated
+Carens,Kia,Rs. 11.02 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Carens,Kia,On Request,Petrol,Unknown,Unknown,16 kmpl,Not Rated
+Carens,Kia,Rs. 11.77 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Carens Clavis,Kia,Rs. 11.27 Lakh,Petrol,Manual,1497cc,16.66 kmpl,Not Rated
+Carens Clavis,Kia,Rs. 11.27 Lakh,Petrol,Manual,1497cc,N/A,Not Rated
+Carens Clavis,Kia,Rs. 13.40 Lakh,Petrol,Manual,1.5L,16.66 kmpl,Not Rated
+Carens Clavis,Kia,Rs. 13.40 Lakh,Petrol,Manual,1.5L,N/A,Not Rated
+Carens Clavis,Kia,Rs. 19.50 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Carens Clavis,Kia,Rs. 11.27 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Carens Clavis,Kia,Rs. 16 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Syros,Kia,Rs. 8.42 Lakh,Petrol,Manual,1.0L,18.2kmpl,Not Rated
+Syros,Kia,Rs. 8.42 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Syros,Kia,Rs. 11.64 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Syros,Kia,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Syros,Kia,Rs. 8.42 Lakh,Petrol,Manual,1493 cc,N/A,Not Rated
+Carens Clavis EV,Kia,Rs. 18.00 Lakh,Petrol,Manual,42kWh,490  km/charge,Not Rated
+Carens Clavis EV,Kia,Rs. 18.00 Lakh,Petrol,Manual,42 kWh,490  km/charge,Not Rated
+Carens Clavis EV,Kia,Rs. 18.00 Lakh,Petrol,Manual,4  kWh,490  km/charge,Not Rated
+Carens Clavis EV,Kia,On Request,Electric,Unknown,Electric Motor,N/A,Not Rated
+Carnival,Kia,Rs. 59.65 Lakh,Petrol,Automatic,2151 cc,14.85kmpl,Not Rated
+Carnival,Kia,Rs. 59.65 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Carnival,Kia,Rs. 59.65 Lakh,Petrol,Automatic,2151  cc,15  kmpl,Not Rated
+EV6,Kia,Rs. 65.98 Lakh,Petrol,Automatic,0 kWh,681  km/charge,Not Rated
+EV6,Kia,Rs. 65.98 Lakh,Petrol,Automatic,84  kWh,681  km/charge,Not Rated
+EV6,Kia,On Request,Petrol,Unknown,Unknown,N/A,Not Rated
+EV9,Kia,Rs. 1.30 Crore,Petrol,Automatic,8 kWh,14  kmpl,Not Rated
+EV9,Kia,Rs. 1.30 Crore,Petrol,Automatic,8  kWh,14  kmpl,Not Rated
+Sorento Hybrid,Kia,Rs. 28.00 Lakh,Petrol,Manual,1598 cc,N/A,Not Rated
+Sorento Hybrid,Kia,Rs. 28.00 Lakh,Petrol,Automatic,1598 cc,N/A,Not Rated
+Sorento Hybrid,Kia,Rs. 28.00 Lakh,Petrol,Manual,1598  cc,N/A,Not Rated
+Carnival Hybrid,Kia,Rs. 56.00 Lakh,Diesel,Automatic,Unknown,N/A,Not Rated
+Carnival Hybrid,Kia,Rs. 75.29 Lakh,Diesel,Automatic,Unknown,N/A,Not Rated
+Carnival Hybrid,Kia,Rs. 75.29 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+किआ कार्स,Kia,Rs. 10 Lakh,Diesel,Manual,Unknown,N/A,4.5/5
+Revuelto,Lamborghini,Rs. 8.70 Crore,Petrol,Automatic,6498 cc,12 kmpl,Not Rated
+Revuelto,Lamborghini,Rs. 8.70 Crore,Petrol,Automatic,6498 cc,530  km/charge,Not Rated
+Revuelto,Lamborghini,Rs. 8.70 Crore,Petrol,Automatic,6498 cc,N/A,Not Rated
+Revuelto,Lamborghini,Rs. 8.70 Crore,Petrol,Automatic,6498  cc,530  km/charge,Not Rated
+Urus SE,Lamborghini,Rs. 4.47 Crore,Petrol,Automatic,3996 cc,7 kmpl,Not Rated
+Urus SE,Lamborghini,Rs. 4.47 Crore,Petrol,Automatic,3996 cc,N/A,Not Rated
+Urus SE,Lamborghini,Rs. 4.47 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Temerario,Lamborghini,Rs. 5.87 Crore,Petrol,Automatic,3995 cc,N/A,Not Rated
+Temerario,Lamborghini,Rs. 5.87 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Huracan Tecnica,Lamborghini,Rs. 4.04 Crore,Petrol,Automatic,5204 cc,7.1 kmpl,Not Rated
+Huracan Tecnica,Lamborghini,Rs. 2.75 Crore,Petrol,Automatic,5204 cc,7.1 kmpl,Not Rated
+Huracan Tecnica,Lamborghini,Rs. 4.04 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Huracan Tecnica,Lamborghini,Rs. 4.04 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Huracan Evo Spyder,Lamborghini,Rs. 2.45 Crore,Petrol,Automatic,5204 cc,7.05 kmpl,Not Rated
+Huracan Evo Spyder,Lamborghini,Rs. 2.45 Crore,Petrol,Automatic,5204 cc,7.1 kmpl,Not Rated
+Huracan Evo Spyder,Lamborghini,Rs. 3.54 Crore,Petrol,Automatic,5204 cc,7.1 kmpl,Not Rated
+Huracan Evo Spyder,Lamborghini,Rs. 3.54 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Huracan Evo Spyder,Lamborghini,Rs. 3.54 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Huracan STO,Lamborghini,Rs. 4.99 Crore,Petrol,Automatic,5204 cc,7.1 kmpl,Not Rated
+Huracan STO,Lamborghini,Rs. 1.22 Crore,Petrol,Automatic,5204 cc,7.1 kmpl,Not Rated
+Huracan STO,Lamborghini,Rs. 4.99 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Huracan STO,Lamborghini,Rs. 4.99 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Huracan Sterrato,Lamborghini,Rs. 4.61 Crore,Petrol,Automatic,5204 cc,7.3 kmpl,Not Rated
+Huracan Sterrato,Lamborghini,Rs. 3.65 Crore,Petrol,Automatic,5204 cc,7.3 kmpl,Not Rated
+Huracan Sterrato,Lamborghini,Rs. 4.61 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Huracan Sterrato,Lamborghini,Rs. 4.61 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Murcielago,Lamborghini,Rs. 2.60 Crore,Petrol,Manual,6496 cc,3.8 kmpl,Not Rated
+Murcielago,Lamborghini,Rs. 100.00 Lakh,Petrol,Manual,6496 cc,3.8 kmpl,Not Rated
+Murcielago,Lamborghini,Rs. 2.60 Crore,Petrol,Manual,Unknown,N/A,Not Rated
+Murcielago,Lamborghini,Rs. 2.60 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Aventador Ultimae,Lamborghini,Rs. 9.00 Crore,Petrol,Automatic,6498 cc,N/A,Not Rated
+Aventador Ultimae,Lamborghini,Rs. 90.00 Lakh,Petrol,Automatic,6498 cc,N/A,Not Rated
+Aventador Ultimae,Lamborghini,Rs. 9.00 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Aventador Ultimae,Lamborghini,Rs. 9.00 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Urus S,Lamborghini,Rs. 4.18 Crore,Petrol,Automatic,3999 cc,N/A,Not Rated
+Urus S,Lamborghini,Rs. 3.15 Crore,Petrol,Automatic,3999 cc,N/A,Not Rated
+Urus S,Lamborghini,Rs. 4.18 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Urus S,Lamborghini,Rs. 4.18 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Urus Performante,Lamborghini,Rs. 4.18 Crore,Petrol,Automatic,3999 cc,7.8 kmpl,Not Rated
+Urus Performante,Lamborghini,Rs. 4.25 Crore,Petrol,Automatic,3999 cc,7.8 kmpl,Not Rated
+Urus Performante,Lamborghini,Rs. 4.18 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Urus Performante,Lamborghini,Rs. 4.18 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Defender,Land-rover,Rs. 1.07 Crore,Petrol,Automatic,2.0L,N/A,Not Rated
+Defender,Land-rover,Rs. 1.07 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Range Rover,Land-rover,Rs. 2.40 Crore,Petrol,Automatic,2997 cc,N/A,Not Rated
+Range Rover,Land-rover,Rs. 2.40 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Range Rover Velar,Land-rover,Rs. 87.50 Lakh,Petrol,Automatic,1997 cc,N/A,Not Rated
+Range Rover Velar,Land-rover,Rs. 87.50 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Range Rover Velar,Land-rover,On Request,Petrol,Unknown,Unknown,N/A,Not Rated
+Range Rover Evoque,Land-rover,Rs. 64.86 Lakh,Petrol,Automatic,1997 cc,N/A,Not Rated
+Range Rover Evoque,Land-rover,Rs. 64.86 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Range Rover Sport,Land-rover,Rs. 1.43 Crore,Petrol,Automatic,3.0L,N/A,Not Rated
+Range Rover Sport,Land-rover,Rs. 1.43 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Range Rover Sport,Land-rover,On Request,Diesel,Unknown,Unknown,N/A,Not Rated
+Discovery Sport,Land-rover,Rs. 63.37 Lakh,Petrol,Automatic,1997 cc,N/A,Not Rated
+Discovery Sport,Land-rover,Rs. 63.37 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Discovery Sport,Land-rover,On Request,Diesel,Unknown,Unknown,N/A,Not Rated
+Discovery,Land-rover,Rs. 1.26 Crore,Petrol,Automatic,2997 cc,14  kmpl,Not Rated
+Discovery,Land-rover,Rs. 1.26 Crore,Diesel,Automatic,2997 cc,N/A,Not Rated
+Discovery,Land-rover,Rs. 1.26 Crore,Petrol,Automatic,2997  cc,14  kmpl,Not Rated
+Freelander 2,Land-rover,Rs. 4.50 Lakh,Diesel,Manual,2179 cc,12.39 kmpl,Not Rated
+Freelander 2,Land-rover,Rs. 4.50 Lakh,Diesel,Automatic,2179 cc,12.39 kmpl,Not Rated
+Freelander 2,Land-rover,Rs. 43.14 Lakh,Diesel,Automatic,2179 cc,12.39 kmpl,Not Rated
+Freelander 2,Land-rover,Rs. 43.14 Lakh,Diesel,Automatic,Unknown,N/A,Not Rated
+Freelander 2,Land-rover,Rs. 43.14 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+ES 350h,Lexus,Rs. 66.10 Lakh,Petrol,Automatic,2494 cc,580  km/charge,Not Rated
+ES 350h,Lexus,Rs. 66.10 Lakh,Petrol,Automatic,2494 cc,N/A,Not Rated
+ES 350h,Lexus,Rs. 66.10 Lakh,Petrol,Automatic,2494  cc,580  km/charge,Not Rated
+ES,Lexus,Rs. 89.99 Lakh,Petrol,Automatic,69kWh,580  km/charge,Not Rated
+ES,Lexus,Rs. 89.99 Lakh,Petrol,Automatic,7 kWh,580  km/charge,Not Rated
+ES,Lexus,Rs. 89.99 Lakh,Electric,Automatic,7 kWh,N/A,Not Rated
+ES,Lexus,Rs. 89.99 Lakh,Petrol,Automatic,68  kWh,580  km/charge,Not Rated
+LX,Lexus,Rs. 2.64 Crore,Petrol,Automatic,3346 cc,6.9 kmpl,Not Rated
+LX,Lexus,Rs. 2.64 Crore,Diesel,Automatic,3346 cc,6.9 kmpl,Not Rated
+LX,Lexus,Rs. 2.64 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+LM,Lexus,Rs. 2.20 Crore,Petrol,Automatic,2487 cc,19  kmpl,Not Rated
+LM,Lexus,Rs. 2.20 Crore,Petrol,Automatic,2487 cc,N/A,Not Rated
+LM,Lexus,Rs. 2.20 Crore,Diesel,Automatic,2487  cc,19  kmpl,Not Rated
+NX,Lexus,Rs. 67.59 Lakh,Petrol,Automatic,2487 cc,17.8 kmpl,Not Rated
+NX,Lexus,Rs. 67.59 Lakh,Petrol,Automatic,2487  cc,18  kmpl,Not Rated
+RX,Lexus,Rs. 89.99 Lakh,Petrol,Automatic,2487 cc,18  kmpl,Not Rated
+RX,Lexus,Rs. 89.99 Lakh,Petrol,Automatic,2.5L,18  kmpl,Not Rated
+RX,Lexus,Rs. 89.99 Lakh,Petrol,Automatic,2.5L,N/A,Not Rated
+RX,Lexus,Rs. 89.99 Lakh,Petrol,Automatic,2487  cc,18  kmpl,Not Rated
+LC 500h,Lexus,Rs. 2.15 Crore,Petrol,Automatic,3456 cc,14.8 kmpl,Not Rated
+LC 500h,Lexus,Rs. 2.16 Crore,Petrol,Automatic,3456 cc,14.8 kmpl,Not Rated
+LC 500h,Lexus,Rs. 2.16 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+LC 500h,Lexus,Rs. 2.16 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+LS,Lexus,Rs. 99.00 Lakh,Petrol,Automatic,3456 cc,15.4 kmpl,Not Rated
+LS,Lexus,Rs. 1.82 Crore,Petrol,Automatic,3456 cc,15.4 kmpl,Not Rated
+LS,Lexus,Rs. 1.82 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+LS,Lexus,Rs. 1.82 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+GS 350,Lexus,Rs. 22.90 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+GS 350,Lexus,On Request,Petrol,Automatic,Unknown,N/A,Not Rated
+SC 430,Lexus,Rs. 55.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+SC 430,Lexus,Rs. 26.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+SC 430,Lexus,Rs. 55.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Emira,Lotus,Rs. 3.05 Crore,Petrol,Automatic,1998 cc,600  km/charge,Not Rated
+Emira,Lotus,Rs. 3.05 Crore,Petrol,Automatic,1998 cc,N/A,Not Rated
+Emira,Lotus,Rs. 3.05 Crore,Petrol,Automatic,1998  cc,600  km/charge,Not Rated
+Eletre,Lotus,Rs. 2.55 Crore,Petrol,Automatic,112 kWh,600  km/charge,Not Rated
+Eletre,Lotus,Rs. 2.55 Crore,Electric,Automatic,112 kWh,N/A,Not Rated
+Eletre,Lotus,Rs. 2.55 Crore,Petrol,Automatic,112  kWh,600  km/charge,Not Rated
+Emeya,Lotus,Rs. 2.34 Crore,Petrol,Automatic,102 kWh,610  km/charge,Not Rated
+Emeya,Lotus,Rs. 2.34 Crore,Electric,Automatic,102 kWh,N/A,Not Rated
+Emeya,Lotus,Rs. 2.34 Crore,Petrol,Automatic,102  kWh,610  km/charge,Not Rated
+लोटस कार्स,Lotus,On Request,Electric,Unknown,112 kWh,N/A,5/5
+Bolero 2026,Mahindra,Rs. 8.49 Lakh,Petrol,Manual,0 cc,N/A,Not Rated
+Bolero 2026,Mahindra,On Request,Diesel,Manual,Unknown,N/A,Not Rated
+Scorpio N Facelift,Mahindra,Rs. 13.80 Lakh,Petrol,Manual,0 cc,N/A,Not Rated
+Scorpio N Facelift,Mahindra,Rs. 13.80 Lakh,Petrol,Manual,2184  cc,N/A,Not Rated
+Scorpio N Facelift,Mahindra,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Global Pik Up,Mahindra,Rs. 16.31 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Global Pik Up,Mahindra,On Request,CNG,Unknown,Unknown,N/A,Not Rated
+BE.09,Mahindra,Rs. 21.05 Lakh,Electric,Unknown,80kWh,N/A,Not Rated
+XUV 7XO,Mahindra,Rs. 13.99 Lakh,Petrol,Manual,1997 cc,16  kmpl,Not Rated
+XUV 7XO,Mahindra,Rs. 13.99 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+XUV 7XO,Mahindra,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+XUV 7XO,Mahindra,Rs. 13.99 Lakh,Petrol,Manual,2184  cc,16  kmpl,Not Rated
+XUV 7XO,Mahindra,On Request,Diesel,Automatic,Unknown,N/A,Not Rated
+Scorpio N,Mahindra,Rs. 13.49 Lakh,Petrol,Manual,1997cc,14.6kmpl,Not Rated
+Scorpio N,Mahindra,Rs. 13.49 Lakh,Petrol,Manual,1997cc,N/A,Not Rated
+Scorpio N,Mahindra,Rs. 16.34 Lakh,Petrol,Manual,2.0L,14.6kmpl,Not Rated
+Scorpio N,Mahindra,Rs. 16.34 Lakh,Petrol,Manual,2.0L,N/A,Not Rated
+Scorpio N,Mahindra,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Scorpio N,Mahindra,Rs. 13.49 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Thar Roxx,Mahindra,Rs. 12.52 Lakh,Petrol,Manual,2184 cc,15.2 kmpl,Not Rated
+Thar Roxx,Mahindra,Rs. 12.52 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Thar Roxx,Mahindra,Rs. 17.28 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Thar Roxx,Mahindra,Rs. 16 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+XUV 3XO,Mahindra,Rs. 7.79 Lakh,Petrol,Manual,1.0L,20.1 kmpl,Not Rated
+XUV 3XO,Mahindra,Rs. 7.79 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+XUV 3XO,Mahindra,Rs. 11.64 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+XUV 3XO,Mahindra,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Thar,Mahindra,Rs. 10.32 Lakh,Petrol,Manual,1.0L,15.5 kmpl,Not Rated
+Thar,Mahindra,Rs. 10.32 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Thar,Mahindra,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+BE 6,Mahindra,Rs. 18.90 Lakh,Electric,Automatic,59kWh,N/A,Not Rated
+BE 6,Mahindra,Rs. 18.90 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+XEV 9S,Mahindra,Rs. 20.65 Lakh,Petrol,Manual,59kWh,665  km/charge,Not Rated
+XEV 9S,Mahindra,Rs. 20.65 Lakh,Petrol,Manual,70kWh,665  km/charge,Not Rated
+XEV 9S,Mahindra,Rs. 20.65 Lakh,Petrol,Manual,79  kWh,665  km/charge,Not Rated
+XEV 9S,Mahindra,On Request,Electric,Unknown,59kWh,N/A,Not Rated
+Scorpio,Mahindra,Rs. 13.37 Lakh,Petrol,Manual,2184 cc,15 kmpl,Not Rated
+Scorpio,Mahindra,Rs. 13.37 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Bolero,Mahindra,Rs. 8.49 Lakh,Petrol,Manual,1.0L,16 kmpl,Not Rated
+Bolero,Mahindra,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Bolero,Mahindra,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Bolero,Mahindra,Rs. 8.49 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+XEV 9e,Mahindra,Rs. 21.90 Lakh,Electric,Automatic,59kWh,N/A,Not Rated
+XEV 9e,Mahindra,Rs. 21.90 Lakh,Electric,Automatic,59 kWh,N/A,Not Rated
+XEV 9e,Mahindra,Rs. 21.90 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+Bolero Neo,Mahindra,Rs. 8.99 Lakh,Petrol,Manual,1.0L,16 kmpl,Not Rated
+Bolero Neo,Mahindra,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Bolero Neo,Mahindra,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Bolero Neo,Mahindra,Rs. 8.99 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+BE 6 FE,Mahindra,Rs. 23.69 Lakh,Electric,Automatic,79 kWh,N/A,Not Rated
+BE 6 FE,Mahindra,Rs. 23.69 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+XUV 3XO EV,Mahindra,Rs. 13.89 Lakh,CNG,Automatic,4kWh,N/A,Not Rated
+XUV 3XO EV,Mahindra,Rs. 13.89 Lakh,CNG,Automatic,1.0L,N/A,Not Rated
+XUV 3XO EV,Mahindra,Rs. 11.64 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+XUV 3XO EV,Mahindra,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+XUV 3XO EV,Mahindra,Rs. 13.89 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+Bolero Neo Plus,Mahindra,Rs. 11.39 Lakh,Petrol,Manual,2184 cc,17 kmpl,Not Rated
+Bolero Neo Plus,Mahindra,Rs. 11.39 Lakh,Petrol,Manual,1.0L,21  kmpl,Not Rated
+Bolero Neo Plus,Mahindra,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Bolero Neo Plus,Mahindra,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Bolero Neo Plus,Mahindra,Rs. 11.39 Lakh,Diesel,Manual,2184 cc,N/A,Not Rated
+Bolero Neo Plus,Mahindra,Rs. 11.39 Lakh,Petrol,Manual,2184  cc,21  kmpl,Not Rated
+XUV400,Mahindra,Rs. 15.49 Lakh,Petrol,Manual,5 kWh,456  km/charge,Not Rated
+XUV400,Mahindra,Rs. 15.49 Lakh,Petrol,Manual,4  kWh,456  km/charge,Not Rated
+Marazzo,Mahindra,Rs. 14.06 Lakh,Petrol,Manual,1497 cc,16.5 kmpl,Not Rated
+Marazzo,Mahindra,Rs. 14.06 Lakh,Petrol,Manual,1497 cc,21  kmpl,Not Rated
+Marazzo,Mahindra,Rs. 14.06 Lakh,Diesel,Manual,1497 cc,N/A,Not Rated
+Marazzo,Mahindra,Rs. 14.06 Lakh,Petrol,Manual,1497  cc,21  kmpl,Not Rated
+Marazzo,Mahindra,On Request,Diesel,Unknown,Unknown,16kmpl,Not Rated
+2020  Thar,Mahindra,Rs. 10.32 Lakh,Petrol,Manual,1.0L,16.25 kmpl,Not Rated
+2020  Thar,Mahindra,Rs. 10.32 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+2020  Thar,Mahindra,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+2022  Bolero,Mahindra,Rs. 8.49 Lakh,Diesel,Manual,1.0L,16.7 kmpl,Not Rated
+2022  Bolero,Mahindra,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+2022  Bolero,Mahindra,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+2022  Bolero Neo,Mahindra,Rs. 8.99 Lakh,Diesel,Manual,1.0L,17.2 kmpl,Not Rated
+2022  Bolero Neo,Mahindra,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+2022  Bolero Neo,Mahindra,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+XEV 7e,Mahindra,Rs. 1.00 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Verito Vibe CS,Mahindra,Rs. 2.07 Lakh,Diesel,Manual,1461 cc,20.8 kmpl,Not Rated
+Verito Vibe CS,Mahindra,Rs. 6.55 Lakh,Diesel,Manual,1461 cc,20.8 kmpl,Not Rated
+Verito Vibe CS,Mahindra,Rs. 6.55 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Verito Vibe CS,Mahindra,Rs. 6.55 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Xylo,Mahindra,Rs. 1.20 Lakh,Diesel,Manual,2489 cc,13.9 kmpl,Not Rated
+Xylo,Mahindra,Rs. 1.20 Lakh,Diesel,Manual,1.0L,14.02 kmpl,Not Rated
+Xylo,Mahindra,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Xylo,Mahindra,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Xylo,Mahindra,Rs. 8.86 Lakh,Diesel,Manual,2179 cc,14.02 kmpl,Not Rated
+Xylo,Mahindra,Rs. 8.86 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Xylo,Mahindra,Rs. 8.86 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+XUV300 TurboSport,Mahindra,Rs. 2.00 Lakh,Petrol,Manual,1197 cc,18.2 kmpl,Not Rated
+XUV300 TurboSport,Mahindra,Rs. 2.00 Lakh,Petrol,Manual,1.0L,18.2 kmpl,Not Rated
+XUV300 TurboSport,Mahindra,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+XUV300 TurboSport,Mahindra,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+XUV300 TurboSport,Mahindra,Rs. 9.31 Lakh,Petrol,Manual,1197 cc,18.2 kmpl,Not Rated
+XUV300 TurboSport,Mahindra,Rs. 9.31 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+XUV300 TurboSport,Mahindra,Rs. 9.31 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Scorpio 2021,Mahindra,Rs. 1.00 Lakh,Diesel,Manual,2523 cc,14.93 kmpl,Not Rated
+Scorpio 2021,Mahindra,Rs. 1.00 Lakh,Diesel,Manual,2179 cc,15 kmpl,Not Rated
+Scorpio 2021,Mahindra,Rs. 10.24 Lakh,Diesel,Manual,2179 cc,15 kmpl,Not Rated
+Scorpio 2021,Mahindra,Rs. 10.24 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Scorpio 2021,Mahindra,Rs. 10.24 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Scorpio 2021,Mahindra,On Request,Diesel,Manual,Unknown,N/A,Not Rated
+Scorpio 2021,Mahindra,Rs. 10.24 Lakh,Diesel,Manual,2523cc,N/A,Not Rated
+Scorpio 2021,Mahindra,Rs. 18.61 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Voyager,Mahindra,Rs. 5.81 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Voyager,Mahindra,Rs. 2.50 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Voyager,Mahindra,Rs. 5.81 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+XUV500,Mahindra,Rs. 1.50 Lakh,Petrol,Manual,2179 cc,15.1 kmpl,Not Rated
+XUV500,Mahindra,Rs. 1.50 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+XUV500,Mahindra,Rs. 12.37 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+XUV500,Mahindra,Rs. 12.37 Lakh,Petrol,Manual,2179 cc,15.1 kmpl,Not Rated
+XUV500,Mahindra,Rs. 12.37 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Armada,Mahindra,Rs. 4.68 Lakh,Diesel,Manual,2112 cc,N/A,Not Rated
+Armada,Mahindra,Rs. 3.06 Lakh,Diesel,Manual,1.0L,N/A,Not Rated
+Armada,Mahindra,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Armada,Mahindra,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Armada,Mahindra,Rs. 4.68 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Armada,Mahindra,Rs. 4.68 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Jeep,Mahindra,Rs. 1.40 Lakh,Petrol,Manual,1.0L,8  kmpl,Not Rated
+Jeep,Mahindra,Rs. 1.50 Lakh,Petrol,Manual,1.0L,8  kmpl,Not Rated
+Jeep,Mahindra,Rs. 1.50 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Jeep,Mahindra,Rs. 3.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Jeep,Mahindra,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Jeep,Mahindra,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Jeep,Mahindra,Rs. 1.40 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Jeep,Mahindra,Rs. 1.40 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Marshal,Mahindra,Rs. 5.99 Lakh,Diesel,Manual,1.0L,N/A,Not Rated
+Marshal,Mahindra,Rs. 1.50 Lakh,Diesel,Manual,1.0L,N/A,Not Rated
+Marshal,Mahindra,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Marshal,Mahindra,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Marshal,Mahindra,Rs. 5.99 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Marshal,Mahindra,Rs. 5.99 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+TUV300,Mahindra,Rs. 2.40 Lakh,Diesel,Manual,1493 cc,18.49 kmpl,Not Rated
+TUV300,Mahindra,Rs. 2.40 Lakh,Diesel,Manual,1.0L,18.49 kmpl,Not Rated
+TUV300,Mahindra,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+TUV300,Mahindra,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+TUV300,Mahindra,Rs. 8.59 Lakh,Diesel,Manual,1493 cc,18.49 kmpl,Not Rated
+TUV300,Mahindra,Rs. 8.59 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+TUV300,Mahindra,Rs. 8.59 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+2016  NuvoSport,Mahindra,Rs. 3.00 Lakh,Diesel,Manual,1.0L,17.4 kmpl,Not Rated
+2016  NuvoSport,Mahindra,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+2016  NuvoSport,Mahindra,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+e2o PLUS,Mahindra,Rs. 2.70 Lakh,Electric,Automatic,08 kWh,N/A,Not Rated
+e2o PLUS,Mahindra,Rs. 7.48 Lakh,Electric,Automatic,08 kWh,N/A,Not Rated
+e2o PLUS,Mahindra,Rs. 7.48 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+e2o PLUS,Mahindra,Rs. 7.48 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+KUV100 NXT,Mahindra,Rs. 4.96 Lakh,Petrol,Manual,1198 cc,18.15 kmpl,Not Rated
+KUV100 NXT,Mahindra,Rs. 1.50 Lakh,Petrol,Manual,1198 cc,25.32 kmpl,Not Rated
+KUV100 NXT,Mahindra,Rs. 1.50 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+KUV100 NXT,Mahindra,Rs. 4.96 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+KUV100 NXT,Mahindra,Rs. 4.96 Lakh,Petrol,Manual,1198 cc,25.32 kmpl,Not Rated
+KUV100 NXT,Mahindra,Rs. 4.96 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Alturas G4,Mahindra,Rs. 10.90 Lakh,Diesel,Manual,2157 cc,11.5 kmpl,Not Rated
+Alturas G4,Mahindra,Rs. 10.90 Lakh,Diesel,Manual,2157 cc,12.02 kmpl,Not Rated
+Alturas G4,Mahindra,Rs. 27.70 Lakh,Diesel,Automatic,2157 cc,12.02 kmpl,Not Rated
+Alturas G4,Mahindra,Rs. 27.70 Lakh,Diesel,Automatic,Unknown,N/A,Not Rated
+Alturas G4,Mahindra,Rs. 27.70 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+REVAi,Mahindra,Rs. 3.00 Lakh,Electric,Automatic,Electric Motor,65  kmpl,Not Rated
+REVAi,Mahindra,Rs. 3.79 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+REVAi,Mahindra,Rs. 3.79 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+महिंद्रा कार्स,Mahindra,Rs. 16 Lakh,Diesel,Manual,Unknown,12 kmpl,4.5/5
+महिंद्रा कार्स,Mahindra,Rs. 16 Lakh,Diesel,Manual,Unknown,N/A,4.5/5
+Maruti Suzuki Brezza 2026,Maruti-suzuki,Rs. 8.39 Lakh,Petrol,Manual,1200 cc,20.96 kmpl,Not Rated
+Maruti Suzuki Brezza 2026,Maruti-suzuki,Rs. 8.39 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Brezza 2026,Maruti-suzuki,Rs. 8.39 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Brezza 2026,Maruti-suzuki,Rs. 8.90 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Brezza 2026,Maruti-suzuki,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Fronx Facelift,Maruti-suzuki,Rs. 8.49 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Fronx Facelift,Maruti-suzuki,On Request,CNG,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Grand Vitara,Maruti-suzuki,Rs. 10.77 Lakh,Petrol,Manual,1490 cc,27.97kmpl,Not Rated
+Maruti Suzuki Grand Vitara,Maruti-suzuki,Rs. 10.77 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Grand Vitara,Maruti-suzuki,On Request,Petrol,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Brezza,Maruti-suzuki,Rs. 8.26 Lakh,Petrol,Manual,1.0L,13.10kmpl,Not Rated
+Maruti Suzuki Brezza,Maruti-suzuki,Rs. 8.26 Lakh,Petrol,Manual,1.0L,19.89kmpl,Not Rated
+Maruti Suzuki Brezza,Maruti-suzuki,Rs. 8.26 Lakh,Petrol,Manual,Unknown,19.89kmpl,Not Rated
+Maruti Suzuki Brezza,Maruti-suzuki,Rs. 8.26 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Brezza,Maruti-suzuki,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Brezza,Maruti-suzuki,On Request,CNG,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Swift,Maruti-suzuki,Rs. 5.79 Lakh,Petrol,Manual,1197 cc,24.8kmpl,Not Rated
+Maruti Suzuki Swift,Maruti-suzuki,Rs. 5.79 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Swift,Maruti-suzuki,On Request,CNG,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Dzire,Maruti-suzuki,Rs. 6.26 Lakh,Petrol,Manual,1197 cc,25.71 kmpl,Not Rated
+Maruti Suzuki Dzire,Maruti-suzuki,Rs. 6.26 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Victoris,Maruti-suzuki,Rs. 10.50 Lakh,Petrol,Manual,1.0L,14.78kmpl,Not Rated
+Maruti Suzuki Victoris,Maruti-suzuki,Rs. 10.50 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Victoris,Maruti-suzuki,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Victoris,Maruti-suzuki,On Request,CNG,Unknown,Unknown,14.78kmpl,Not Rated
+Maruti Suzuki Victoris,Maruti-suzuki,On Request,CNG,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Victoris,Maruti-suzuki,Rs. 14.57 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Fronx,Maruti-suzuki,Rs. 6.85 Lakh,Petrol,Manual,998cc,21.5kmpl,Not Rated
+Maruti Suzuki Fronx,Maruti-suzuki,Rs. 6.85 Lakh,Petrol,Manual,998cc,N/A,Not Rated
+Maruti Suzuki Fronx,Maruti-suzuki,Rs. 6.85 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Fronx,Maruti-suzuki,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Fronx,Maruti-suzuki,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Maruti Suzuki Fronx,Maruti-suzuki,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Fronx,Maruti-suzuki,On Request,CNG,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Baleno,Maruti-suzuki,Rs. 5.99 Lakh,Petrol,Manual,1197 cc,22.35kmpl,Not Rated
+Maruti Suzuki Baleno,Maruti-suzuki,Rs. 5.99 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Wagon R,Maruti-suzuki,Rs. 4.99 Lakh,Petrol,Manual,998cc,19.31kmpl,Not Rated
+Maruti Suzuki Wagon R,Maruti-suzuki,Rs. 4.99 Lakh,Petrol,Manual,998cc,N/A,Not Rated
+Maruti Suzuki Wagon R,Maruti-suzuki,Rs. 4.99 Lakh,CNG,Automatic,Unknown,N/A,Not Rated
+Maruti Suzuki Wagon R,Maruti-suzuki,Rs. 5.92 Lakh,Petrol,Manual,1.0L,19.31kmpl,Not Rated
+Maruti Suzuki Wagon R,Maruti-suzuki,Rs. 5.92 Lakh,Petrol,Manual,1.0L,N/A,Not Rated
+Maruti Suzuki Wagon R,Maruti-suzuki,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Wagon R,Maruti-suzuki,Rs. 4.99 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Wagon R,Maruti-suzuki,On Request,CNG,Unknown,Unknown,33 km/kg,Not Rated
+Maruti Suzuki Alto K10,Maruti-suzuki,Rs. 3.7 Lakh,Petrol,Manual,998cc,14.5kmpl,Not Rated
+Maruti Suzuki Alto K10,Maruti-suzuki,Rs. 3.7 Lakh,Petrol,Manual,998cc,N/A,Not Rated
+Maruti Suzuki Alto K10,Maruti-suzuki,Rs. 3.7 Lakh,CNG,Automatic,Unknown,N/A,Not Rated
+Maruti Suzuki Alto K10,Maruti-suzuki,Rs. 4.45 Lakh,Petrol,Manual,1.0L,14.5kmpl,Not Rated
+Maruti Suzuki Alto K10,Maruti-suzuki,Rs. 4.45 Lakh,Petrol,Manual,1.0L,N/A,Not Rated
+Maruti Suzuki Alto K10,Maruti-suzuki,Rs. 3.70 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Ertiga,Maruti-suzuki,Rs. 8.85 Lakh,Petrol,Manual,1.0L,18.01km/kg,Not Rated
+Maruti Suzuki Ertiga,Maruti-suzuki,On Request,CNG,Unknown,Unknown,18.01km/kg,Not Rated
+Maruti Suzuki Ertiga,Maruti-suzuki,Rs. 8.85 Lakh,Petrol,Manual,1.0L,22.41km/kg,Not Rated
+Maruti Suzuki Ertiga,Maruti-suzuki,Rs. 8.85 Lakh,Petrol,Manual,Unknown,22.41km/kg,Not Rated
+Maruti Suzuki Ertiga,Maruti-suzuki,Rs. 8.85 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Ertiga,Maruti-suzuki,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Maruti Suzuki Ertiga,Maruti-suzuki,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki XL6,Maruti-suzuki,Rs. 11.57 Lakh,Petrol,Manual,1462 cc,20.97 kmpl,Not Rated
+Maruti Suzuki XL6,Maruti-suzuki,Rs. 11.57 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki XL6,Maruti-suzuki,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki XL6,Maruti-suzuki,On Request,CNG,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki e Vitara,Maruti-suzuki,Rs. 13.49 Lakh,Electric,Automatic,8kWh,N/A,Not Rated
+Maruti Suzuki e Vitara,Maruti-suzuki,Rs. 13.49 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+Maruti Suzuki Celerio,Maruti-suzuki,Rs. 4.70 Lakh,Petrol,Manual,998 cc,18.42kmpl,Not Rated
+Maruti Suzuki Celerio,Maruti-suzuki,Rs. 4.70 Lakh,Petrol,Manual,998 cc,26kmpl,Not Rated
+Maruti Suzuki Celerio,Maruti-suzuki,Rs. 4.70 Lakh,Petrol,Manual,Unknown,26kmpl,Not Rated
+Maruti Suzuki Celerio,Maruti-suzuki,Rs. 4.70 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Celerio,Maruti-suzuki,On Request,CNG,Automatic,1.0L,32 km/kg,Not Rated
+Maruti Suzuki S-Presso,Maruti-suzuki,Rs. 3.50 Lakh,Petrol,Manual,998 cc,25.3kmpl,Not Rated
+Maruti Suzuki S-Presso,Maruti-suzuki,Rs. 3.50 Lakh,Petrol,Manual,Unknown,25.3kmpl,Not Rated
+Maruti Suzuki S-Presso,Maruti-suzuki,Rs. 3.50 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki S-Presso,Maruti-suzuki,On Request,CNG,Unknown,Unknown,28 kmpl,Not Rated
+Maruti Suzuki Jimny,Maruti-suzuki,Rs. 12.39 Lakh,Petrol,Manual,1.0L,16.94 kmpl,Not Rated
+Maruti Suzuki Jimny,Maruti-suzuki,Rs. 11.64 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Maruti Suzuki Jimny,Maruti-suzuki,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Jimny,Maruti-suzuki,Rs. 12.39 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Eeco,Maruti-suzuki,Rs. 5.23 Lakh,Petrol,Manual,1.0L,19.7kmpl,Not Rated
+Maruti Suzuki Eeco,Maruti-suzuki,Rs. 5.23 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Eeco,Maruti-suzuki,On Request,Petrol,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Eeco,Maruti-suzuki,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Maruti Suzuki Eeco,Maruti-suzuki,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Eeco,Maruti-suzuki,Rs. 5.23 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Eeco,Maruti-suzuki,On Request,Petrol,Unknown,1.2L,N/A,Not Rated
+Maruti Suzuki Invicto,Maruti-suzuki,Rs. 24.97 Lakh,Petrol,Manual,1987 cc,23kmpl,Not Rated
+Maruti Suzuki Invicto,Maruti-suzuki,Rs. 24.97 Lakh,Petrol,Manual,1987  cc,23  kmpl,Not Rated
+Maruti Suzuki Grand Vitara Phantom Blaq Edition,Maruti-suzuki,Rs. 20.22 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Grand Vitara Phantom Blaq Edition,Maruti-suzuki,Rs. 11.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Grand Vitara Phantom Blaq Edition,Maruti-suzuki,Rs. 12.68 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Ignis,Maruti-suzuki,Rs. 2.00 Lakh,Petrol,Manual,1197 cc,20.85 kmpl,Not Rated
+Maruti Suzuki Ignis,Maruti-suzuki,Rs. 5.35 Lakh,Petrol,Manual,1197 cc,20.85 kmpl,Not Rated
+Maruti Suzuki Ignis,Maruti-suzuki,Rs. 5.35 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Ignis,Maruti-suzuki,Rs. 5.35 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Ciaz,Maruti-suzuki,Rs. 8.20 Lakh,Petrol,Manual,1.5L,28.09 kmpl,Not Rated
+Maruti Suzuki Ciaz,Maruti-suzuki,Rs. 1.60 Lakh,Petrol,Manual,1.5L,28.09 kmpl,Not Rated
+Maruti Suzuki Ciaz,Maruti-suzuki,Rs. 1.60 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Ciaz,Maruti-suzuki,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Ciaz,Maruti-suzuki,Rs. 8.20 Lakh,Petrol,Manual,1248 cc,28.09 kmpl,Not Rated
+Maruti Suzuki Ciaz,Maruti-suzuki,Rs. 8.20 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Ciaz,Maruti-suzuki,Rs. 8.20 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Ciaz,Maruti-suzuki,On Request,Petrol,Unknown,1.5L,20 kmpl,Not Rated
+Maruti Suzuki Fronx Flex Fuel,Maruti-suzuki,Rs. 2.50 Lakh,Petrol,Manual,1.0L,N/A,Not Rated
+Maruti Suzuki Fronx Flex Fuel,Maruti-suzuki,Rs. 2.50 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Fronx Flex Fuel,Maruti-suzuki,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Fronx Flex Fuel,Maruti-suzuki,Rs. 11.64 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Maruti Suzuki Fronx Flex Fuel,Maruti-suzuki,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Esteem,Maruti-suzuki,Rs. 1.29 Lakh,Petrol,Manual,1298 cc,11.3 kmpl,Not Rated
+Maruti Suzuki Esteem,Maruti-suzuki,Rs. 1.29 Lakh,Petrol,Manual,1.5L,11.3 kmpl,Not Rated
+Maruti Suzuki Esteem,Maruti-suzuki,Rs. 4.44 Lakh,Petrol,Manual,1298 cc,11.3 kmpl,Not Rated
+Maruti Suzuki Esteem,Maruti-suzuki,Rs. 4.44 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Esteem,Maruti-suzuki,Rs. 4.44 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Gypsy,Maruti-suzuki,Rs. 3.70 Lakh,Petrol,Manual,1298 cc,11.96 kmpl,Not Rated
+Maruti Suzuki Gypsy,Maruti-suzuki,Rs. 3.70 Lakh,Petrol,Manual,1.0L,11.96 kmpl,Not Rated
+Maruti Suzuki Gypsy,Maruti-suzuki,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Maruti Suzuki Gypsy,Maruti-suzuki,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Gypsy,Maruti-suzuki,Rs. 6.50 Lakh,Petrol,Manual,1298 cc,11.96 kmpl,Not Rated
+Maruti Suzuki Gypsy,Maruti-suzuki,Rs. 6.50 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Gypsy,Maruti-suzuki,Rs. 6.50 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Omni,Maruti-suzuki,Rs. 2.08 Lakh,Petrol,Manual,796 cc,10.9 kmpl,Not Rated
+Maruti Suzuki Omni,Maruti-suzuki,Rs. 2.16 Lakh,Petrol,Manual,1.0L,14.96 kmpl,Not Rated
+Maruti Suzuki Omni,Maruti-suzuki,Rs. 2.16 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Omni,Maruti-suzuki,Rs. 2.17 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Omni,Maruti-suzuki,Rs. 2.17 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Omni,Maruti-suzuki,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Maruti Suzuki Omni,Maruti-suzuki,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Omni,Maruti-suzuki,Rs. 2.08 Lakh,Petrol,Manual,796 cc,14.96 kmpl,Not Rated
+Maruti Suzuki Omni,Maruti-suzuki,Rs. 2.08 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Omni,Maruti-suzuki,Rs. 2.08 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Versa,Maruti-suzuki,Rs. 3.63 Lakh,Petrol,Manual,1298 cc,11.3 kmpl,Not Rated
+Maruti Suzuki Versa,Maruti-suzuki,Rs. 1.75 Lakh,Petrol,Manual,1.0L,11.3 kmpl,Not Rated
+Maruti Suzuki Versa,Maruti-suzuki,Rs. 3.63 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Versa,Maruti-suzuki,Rs. 3.63 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Zen,Maruti-suzuki,Rs. 3.32 Lakh,Petrol,Manual,993 cc,12.6 kmpl,Not Rated
+Maruti Suzuki Zen,Maruti-suzuki,Rs. 1.32 Lakh,Petrol,Manual,993 cc,12.6 kmpl,Not Rated
+Maruti Suzuki Zen,Maruti-suzuki,Rs. 3.32 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Zen,Maruti-suzuki,Rs. 3.32 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Estilo,Maruti-suzuki,Rs. 1.31 Lakh,Petrol,Manual,998 cc,19 kmpl,Not Rated
+Maruti Suzuki Estilo,Maruti-suzuki,Rs. 1.31 Lakh,Petrol,Manual,998 cc,23.3 kmpl,Not Rated
+Maruti Suzuki Estilo,Maruti-suzuki,Rs. 1.31 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Estilo,Maruti-suzuki,Rs. 3.55 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Estilo,Maruti-suzuki,Rs. 3.55 Lakh,Petrol,Manual,998 cc,23.3 kmpl,Not Rated
+Maruti Suzuki Estilo,Maruti-suzuki,Rs. 3.55 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki SX4,Maruti-suzuki,Rs. 2.05 Lakh,Petrol,Manual,1586 cc,16.51 kmpl,Not Rated
+Maruti Suzuki SX4,Maruti-suzuki,Rs. 2.05 Lakh,Petrol,Manual,1.5L,22.1 kmpl,Not Rated
+Maruti Suzuki SX4,Maruti-suzuki,Rs. 2.05 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki SX4,Maruti-suzuki,Rs. 8.31 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki SX4,Maruti-suzuki,Rs. 7.47 Lakh,Petrol,Manual,1248 cc,22.1 kmpl,Not Rated
+Maruti Suzuki SX4,Maruti-suzuki,Rs. 7.47 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki SX4,Maruti-suzuki,Rs. 7.47 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki A-Star,Maruti-suzuki,Rs. 1.54 Lakh,Petrol,Manual,998 cc,16.98 kmpl,Not Rated
+Maruti Suzuki A-Star,Maruti-suzuki,Rs. 1.54 Lakh,Petrol,Manual,998 cc,19 kmpl,Not Rated
+Maruti Suzuki A-Star,Maruti-suzuki,Rs. 3.88 Lakh,Petrol,Manual,998 cc,19 kmpl,Not Rated
+Maruti Suzuki A-Star,Maruti-suzuki,Rs. 3.88 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki A-Star,Maruti-suzuki,Rs. 3.88 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Ritz,Maruti-suzuki,Rs. 2.22 Lakh,Petrol,Manual,1248 cc,17.1 kmpl,Not Rated
+Maruti Suzuki Ritz,Maruti-suzuki,Rs. 2.22 Lakh,Petrol,Manual,1197 cc,23.2 kmpl,Not Rated
+Maruti Suzuki Ritz,Maruti-suzuki,Rs. 2.22 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Ritz,Maruti-suzuki,Rs. 4.51 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Ritz,Maruti-suzuki,Rs. 4.51 Lakh,Petrol,Manual,1197 cc,23.2 kmpl,Not Rated
+Maruti Suzuki Ritz,Maruti-suzuki,Rs. 4.51 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Ritz,Maruti-suzuki,On Request,Diesel,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Kizashi,Maruti-suzuki,Rs. 1.50 Lakh,Petrol,Manual,2393 cc,12.45 kmpl,Not Rated
+Maruti Suzuki Kizashi,Maruti-suzuki,Rs. 1.50 Lakh,Petrol,Manual,1.5L,12.45 kmpl,Not Rated
+Maruti Suzuki Kizashi,Maruti-suzuki,Rs. 16.98 Lakh,Petrol,Manual,2393 cc,12.53 kmpl,Not Rated
+Maruti Suzuki Kizashi,Maruti-suzuki,Rs. 16.98 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Kizashi,Maruti-suzuki,Rs. 16.98 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Alto 800,Maruti-suzuki,Rs. 2.41 Lakh,Petrol,Manual,796 cc,22.03 kmpl,Not Rated
+Maruti Suzuki Alto 800,Maruti-suzuki,Rs. 2.41 Lakh,Petrol,Manual,796 cc,26.8 kmpl,Not Rated
+Maruti Suzuki Alto 800,Maruti-suzuki,Rs. 2.41 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Alto 800,Maruti-suzuki,Rs. 3.25 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Alto 800,Maruti-suzuki,Rs. 3.25 Lakh,Petrol,Manual,796 cc,26.8 kmpl,Not Rated
+Maruti Suzuki Alto 800,Maruti-suzuki,Rs. 3.25 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Alto 800,Maruti-suzuki,Rs. 3.25 Lakh,CNG,Unknown,796cc,N/A,Not Rated
+Maruti Suzuki Alto 800,Maruti-suzuki,Rs. 5.12 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Maruti Suzuki Celerio X,Maruti-suzuki,Rs. 2.25 Lakh,Petrol,Manual,998 cc,22.61 kmpl,Not Rated
+Maruti Suzuki Celerio X,Maruti-suzuki,Rs. 4.85 Lakh,Petrol,Manual,998 cc,22.61 kmpl,Not Rated
+Maruti Suzuki Celerio X,Maruti-suzuki,Rs. 4.85 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Maruti Suzuki Celerio X,Maruti-suzuki,Rs. 4.85 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+मारुति सुज़ुकी कार्स,Maruti-suzuki,On Request,CNG,Automatic,Unknown,N/A,4.6/5
+Ghibli,Maserati,Rs. 1.17 Crore,Petrol,Automatic,3799 cc,11.4 kmpl,Not Rated
+Ghibli,Maserati,Rs. 1.17 Crore,Petrol,Automatic,1998 cc,11.4 kmpl,Not Rated
+Ghibli,Maserati,Rs. 1.17 Crore,Petrol,Automatic,3799  cc,11  kmpl,Not Rated
+MC20,Maserati,Rs. 3.45 Crore,Petrol,Automatic,3000 cc,8.6 kmpl,Not Rated
+MC20,Maserati,Rs. 3.45 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+MCPura,Maserati,Rs. 5.12 Crore,Petrol,Automatic,3000 cc,N/A,Not Rated
+MCPura,Maserati,Rs. 5.12 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Levante,Maserati,Rs. 1.37 Crore,Petrol,Automatic,2979 cc,9.43 kmpl,Not Rated
+Levante,Maserati,Rs. 1.37 Crore,Petrol,Automatic,2979 cc,9.3 kmpl,Not Rated
+Levante,Maserati,Rs. 1.37 Crore,Petrol,Automatic,2979  cc,9  kmpl,Not Rated
+Quattroporte,Maserati,Rs. 1.70 Crore,Petrol,Automatic,3799 cc,9.3 kmpl,Not Rated
+Quattroporte,Maserati,Rs. 1.70 Crore,Petrol,Automatic,2979 cc,9.4 kmpl,Not Rated
+Quattroporte,Maserati,Rs. 1.70 Crore,Petrol,Automatic,3799  cc,9  kmpl,Not Rated
+Grecale,Maserati,Rs. 1.24 Crore,Petrol,Automatic,3000 cc,9  kmpl,Not Rated
+Grecale,Maserati,Rs. 1.24 Crore,Petrol,Automatic,1995 cc,9  kmpl,Not Rated
+Grecale,Maserati,Rs. 1.24 Crore,Petrol,Automatic,1995 cc,N/A,Not Rated
+Grecale,Maserati,Rs. 1.24 Crore,Petrol,Automatic,3000  cc,9  kmpl,Not Rated
+GranTurismo,Maserati,Rs. 2.57 Crore,Petrol,Automatic,2992 cc,600  km/charge,Not Rated
+GranTurismo,Maserati,Rs. 2.57 Crore,Petrol,Automatic,2992 cc,N/A,Not Rated
+GranTurismo,Maserati,Rs. 2.57 Crore,Petrol,Automatic,2992  cc,600  km/charge,Not Rated
+GranCabrio,Maserati,Rs. 2.68 Crore,Petrol,Automatic,4691 cc,6.89 kmpl,Not Rated
+GranCabrio,Maserati,Rs. 1.70 Crore,Petrol,Automatic,4691 cc,6.89 kmpl,Not Rated
+GranCabrio,Maserati,Rs. 2.68 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+GranCabrio,Maserati,Rs. 2.68 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+McLaren 750S,Mclaren,Rs. 5.59 Crore,Petrol,Automatic,3994 cc,10.5 kmpl,Not Rated
+McLaren 750S,Mclaren,Rs. 5.59 Crore,Petrol,Automatic,3994 cc,N/A,Not Rated
+McLaren 750S,Mclaren,Rs. 5.59 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+McLaren 720S,Mclaren,Rs. 4.40 Crore,Petrol,Automatic,3994 cc,8.2 kmpl,Not Rated
+McLaren 720S,Mclaren,Rs. 4.40 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+McLaren GT,Mclaren,Rs. 3.52 Crore,Petrol,Automatic,3994 cc,7 kmpl,Not Rated
+McLaren GT,Mclaren,Rs. 3.52 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+McLaren 570S,Mclaren,Rs. 3.72 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+McLaren 570S,Mclaren,Rs. 2.00 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+McLaren 570S,Mclaren,Rs. 3.72 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+McLaren Artura,Mclaren,Rs. 25.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+McLaren Artura,Mclaren,On Request,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz AMG E53 PHEV,Mercedes-benz,Rs. 140 Lakh,Petrol,Automatic,6kWh,N/A,Not Rated
+Mercedes-Benz AMG E53 PHEV,Mercedes-benz,Rs. 140 Lakh,Petrol,Automatic,2998 cc,N/A,Not Rated
+Mercedes-Benz AMG E53 PHEV,Mercedes-benz,Rs. 1.40 Crore,Petrol,Automatic,2998  cc,N/A,Not Rated
+Mercedes-Benz CLA EV,Mercedes-benz,Rs. 55.00 Lakh,Petrol,Automatic,5kWh,792  km/charge,Not Rated
+Mercedes-Benz CLA EV,Mercedes-benz,Rs. 55.00 Lakh,Petrol,Automatic,58 kWh,792  km/charge,Not Rated
+Mercedes-Benz CLA EV,Mercedes-benz,Rs. 55.00 Lakh,Electric,Automatic,58 kWh,N/A,Not Rated
+Mercedes-Benz CLA EV,Mercedes-benz,Rs. 55.00 Lakh,Electric,Automatic,0 kWh,N/A,Not Rated
+Mercedes-Benz CLA EV,Mercedes-benz,Rs. 55.00 Lakh,Petrol,Automatic,5  kWh,792  km/charge,Not Rated
+Mercedes-Benz C-Class,Mercedes-benz,Rs. 61.20 Lakh,Petrol,Automatic,2.0L,14.65 kmpl,Not Rated
+Mercedes-Benz C-Class,Mercedes-benz,Rs. 61.20 Lakh,Petrol,Automatic,2.0L,N/A,Not Rated
+Mercedes-Benz C-Class,Mercedes-benz,Rs. 61.20 Lakh,Petrol,Automatic,1999  cc,14  kmpl,Not Rated
+Mercedes-Benz GLS,Mercedes-benz,Rs. 1.28 Crore,Petrol,Automatic,2999 cc,11 kmpl,Not Rated
+Mercedes-Benz GLS,Mercedes-benz,Rs. 1.28 Crore,Petrol,Automatic,3.0L,11 kmpl,Not Rated
+Mercedes-Benz GLS,Mercedes-benz,Rs. 1.28 Crore,Petrol,Automatic,3.0L,N/A,Not Rated
+Mercedes-Benz GLS,Mercedes-benz,Rs. 1.28 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz G-Class,Mercedes-benz,Rs. 2.90 Crore,Petrol,Automatic,2989 cc,473  km/charge,Not Rated
+Mercedes-Benz G-Class,Mercedes-benz,Rs. 2.90 Crore,Diesel,Automatic,2989 cc,N/A,Not Rated
+Mercedes-Benz G-Class,Mercedes-benz,Rs. 2.90 Crore,Petrol,Automatic,2989  cc,473  km/charge,Not Rated
+Mercedes-Benz GLA,Mercedes-benz,Rs. 51.80 Lakh,Petrol,Automatic,1950 cc,15 kmpl,Not Rated
+Mercedes-Benz GLA,Mercedes-benz,Rs. 51.80 Lakh,Petrol,Automatic,1332 cc,15kmpl,Not Rated
+Mercedes-Benz GLA,Mercedes-benz,Rs. 51.80 Lakh,Petrol,Automatic,1332 cc,N/A,Not Rated
+Mercedes-Benz GLA,Mercedes-benz,Rs. 51.80 Lakh,Petrol,Automatic,1950  cc,20  kmpl,Not Rated
+Mercedes-Benz GLC,Mercedes-benz,Rs. 77.00 Lakh,Petrol,Automatic,1993 cc,10.5 kmpl,Not Rated
+Mercedes-Benz GLC,Mercedes-benz,Rs. 77.00 Lakh,Petrol,Automatic,1993 cc,N/A,Not Rated
+Mercedes-Benz GLC,Mercedes-benz,Rs. 77.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz GLC,Mercedes-benz,On Request,Petrol,Unknown,2.0L,N/A,Not Rated
+Mercedes-Benz E-Class,Mercedes-benz,Rs. 81.50 Lakh,Petrol,Automatic,2.0L,N/A,Not Rated
+Mercedes-Benz E-Class,Mercedes-benz,Rs. 81.50 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz S-Class,Mercedes-benz,Rs. 2.20 Crore,Petrol,Automatic,22kWh,17  kmpl,Not Rated
+Mercedes-Benz S-Class,Mercedes-benz,Rs. 2.20 Crore,Petrol,Automatic,22kWh,N/A,Not Rated
+Mercedes-Benz S-Class,Mercedes-benz,Rs. 2.20 Crore,Petrol,Automatic,2999 cc,N/A,Not Rated
+Mercedes-Benz S-Class,Mercedes-benz,Rs. 2.20 Crore,Petrol,Automatic,2999  cc,17  kmpl,Not Rated
+Mercedes-Benz GLE,Mercedes-benz,Rs. 100.00 Lakh,Petrol,Automatic,2999 cc,11 kmpl,Not Rated
+Mercedes-Benz GLE,Mercedes-benz,Rs. 100.00 Lakh,Petrol,Automatic,2.0L,7.11kmpl,Not Rated
+Mercedes-Benz GLE,Mercedes-benz,Rs. 100.00 Lakh,Petrol,Automatic,2.0L,N/A,Not Rated
+Mercedes-Benz GLE,Mercedes-benz,Rs. 100.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz AMG CLE,Mercedes-benz,Rs. 1.33 Crore,Petrol,Manual,2999 cc,N/A,Not Rated
+Mercedes-Benz AMG CLE,Mercedes-benz,Rs. 1.33 Crore,Petrol,Automatic,2999 cc,N/A,Not Rated
+Mercedes-Benz AMG CLE,Mercedes-benz,Rs. 1.33 Crore,Petrol,Manual,Unknown,N/A,Not Rated
+Mercedes-Benz V-Class,Mercedes-benz,Rs. 1.40 Crore,Petrol,Automatic,2.0L,19  kmpl,Not Rated
+Mercedes-Benz V-Class,Mercedes-benz,Rs. 1.40 Crore,Petrol,Automatic,2.0L,N/A,Not Rated
+Mercedes-Benz V-Class,Mercedes-benz,Rs. 1.40 Crore,Petrol,Automatic,1999  cc,19  kmpl,Not Rated
+Mercedes-Benz Maybach S-Class,Mercedes-benz,Rs. 2.88 Crore,Petrol,Automatic,3982 cc,603  km/charge,Not Rated
+Mercedes-Benz Maybach S-Class,Mercedes-benz,Rs. 2.88 Crore,Petrol,Automatic,3982 cc,N/A,Not Rated
+Mercedes-Benz Maybach S-Class,Mercedes-benz,Rs. 2.88 Crore,Petrol,Automatic,3982  cc,603  km/charge,Not Rated
+Mercedes-Benz Maybach GLS,Mercedes-benz,Rs. 2.75 Crore,Petrol,Automatic,3982 cc,10 kmpl,Not Rated
+Mercedes-Benz Maybach GLS,Mercedes-benz,Rs. 2.75 Crore,Petrol,Automatic,3982 cc,N/A,Not Rated
+Mercedes-Benz Maybach GLS,Mercedes-benz,Rs. 2.75 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz AMG G-Class,Mercedes-benz,Rs. 3.74 Crore,Petrol,Automatic,3982 cc,473  km/charge,Not Rated
+Mercedes-Benz AMG G-Class,Mercedes-benz,Rs. 3.74 Crore,Petrol,Automatic,3982 cc,N/A,Not Rated
+Mercedes-Benz AMG G-Class,Mercedes-benz,Rs. 3.74 Crore,Petrol,Automatic,3982  cc,473  km/charge,Not Rated
+Mercedes-Benz AMG GLC43 Coupe,Mercedes-benz,Rs. 99.86 Lakh,Petrol,Automatic,1991 cc,N/A,Not Rated
+Mercedes-Benz AMG GLC43 Coupe,Mercedes-benz,Rs. 99.86 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz AMG GLA35,Mercedes-benz,Rs. 60.07 Lakh,Petrol,Automatic,1991 cc,N/A,Not Rated
+Mercedes-Benz AMG GLA35,Mercedes-benz,Rs. 60.07 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz CLE Cabriolet,Mercedes-benz,Rs. 1.15 Crore,Petrol,Automatic,1999 cc,10 kmpl,Not Rated
+Mercedes-Benz CLE Cabriolet,Mercedes-benz,Rs. 1.15 Crore,Petrol,Automatic,1999 cc,10  kmpl,Not Rated
+Mercedes-Benz CLE Cabriolet,Mercedes-benz,Rs. 1.15 Crore,Petrol,Automatic,1999 cc,N/A,Not Rated
+Mercedes-Benz CLE Cabriolet,Mercedes-benz,Rs. 1.15 Crore,Petrol,Automatic,1999  cc,10  kmpl,Not Rated
+Mercedes-Benz G580 with EQ Technology,Mercedes-benz,Rs. 3.10 Crore,Petrol,Automatic,116 kWh,473  km/charge,Not Rated
+Mercedes-Benz G580 with EQ Technology,Mercedes-benz,Rs. 3.10 Crore,Electric,Automatic,116 kWh,N/A,Not Rated
+Mercedes-Benz G580 with EQ Technology,Mercedes-benz,On Request,Electric,Unknown,Electric Motor,N/A,Not Rated
+Mercedes-Benz G580 with EQ Technology,Mercedes-benz,Rs. 3.10 Crore,Petrol,Automatic,116  kWh,473  km/charge,Not Rated
+Mercedes-Benz EQS,Mercedes-benz,Rs. 1.30 Crore,Petrol,Automatic,8 kWh,857  km/charge,Not Rated
+Mercedes-Benz EQS,Mercedes-benz,Rs. 1.30 Crore,Electric,Automatic,8 kWh,N/A,Not Rated
+Mercedes-Benz EQS,Mercedes-benz,Rs. 1.30 Crore,Petrol,Automatic,8  kWh,857  km/charge,Not Rated
+Mercedes-Benz AMG GT 63,Mercedes-benz,Rs. 3.00 Crore,Petrol,Automatic,3982 cc,N/A,Not Rated
+Mercedes-Benz AMG GT 63,Mercedes-benz,Rs. 3.00 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz AMG C 43,Mercedes-benz,Rs. 94.05 Lakh,Petrol,Automatic,1991 cc,N/A,Not Rated
+Mercedes-Benz AMG C 43,Mercedes-benz,Rs. 94.05 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz EQS SUV,Mercedes-benz,Rs. 1.34 Crore,Petrol,Automatic,122 kWh,809  km/charge,Not Rated
+Mercedes-Benz EQS SUV,Mercedes-benz,Rs. 1.34 Crore,Electric,Automatic,122 kWh,N/A,Not Rated
+Mercedes-Benz EQS SUV,Mercedes-benz,Rs. 1.34 Crore,Petrol,Automatic,122  kWh,809  km/charge,Not Rated
+Mercedes-Benz AMG GLE Coupe,Mercedes-benz,Rs. 1.52 Crore,Petrol,Automatic,2999 cc,8  kmpl,Not Rated
+Mercedes-Benz AMG GLE Coupe,Mercedes-benz,Rs. 1.52 Crore,Petrol,Automatic,2999 cc,N/A,Not Rated
+Mercedes-Benz AMG GLE Coupe,Mercedes-benz,Rs. 1.52 Crore,Petrol,Automatic,2999  cc,8  kmpl,Not Rated
+Mercedes-Benz AMG SL55 Roadster,Mercedes-benz,Rs. 2.34 Crore,Petrol,Automatic,3982 cc,12 kmpl,Not Rated
+Mercedes-Benz AMG SL55 Roadster,Mercedes-benz,Rs. 2.34 Crore,Petrol,Automatic,3982 cc,610  km/charge,Not Rated
+Mercedes-Benz AMG SL55 Roadster,Mercedes-benz,Rs. 2.34 Crore,Petrol,Automatic,3982 cc,N/A,Not Rated
+Mercedes-Benz AMG SL55 Roadster,Mercedes-benz,Rs. 2.34 Crore,Petrol,Automatic,3982  cc,610  km/charge,Not Rated
+Mercedes-Benz AMG E53 Cabriolet,Mercedes-benz,Rs. 1.23 Crore,Petrol,Automatic,2999 cc,6.5 kmpl,Not Rated
+Mercedes-Benz AMG E53 Cabriolet,Mercedes-benz,Rs. 1.23 Crore,Petrol,Automatic,2999 cc,10  kmpl,Not Rated
+Mercedes-Benz AMG E53 Cabriolet,Mercedes-benz,Rs. 1.23 Crore,Petrol,Automatic,2999 cc,N/A,Not Rated
+Mercedes-Benz AMG E53 Cabriolet,Mercedes-benz,Rs. 1.23 Crore,Petrol,Automatic,2999  cc,10  kmpl,Not Rated
+Mercedes-Benz AMG A45 S,Mercedes-benz,Rs. 87.00 Lakh,Petrol,Automatic,1991 cc,N/A,Not Rated
+Mercedes-Benz AMG A45 S,Mercedes-benz,Rs. 87.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz Maybach SL 680,Mercedes-benz,Rs. 4.30 Crore,Petrol,Automatic,3982 cc,N/A,Not Rated
+Mercedes-Benz Maybach SL 680,Mercedes-benz,Rs. 4.30 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz Maybach EQS SUV,Mercedes-benz,Rs. 2.40 Crore,Petrol,Automatic,122 kWh,600  km/charge,Not Rated
+Mercedes-Benz Maybach EQS SUV,Mercedes-benz,Rs. 2.40 Crore,Electric,Automatic,122 kWh,N/A,Not Rated
+Mercedes-Benz Maybach EQS SUV,Mercedes-benz,Rs. 2.40 Crore,Petrol,Automatic,122  kWh,600  km/charge,Not Rated
+Mercedes-Benz AMG GT 63 S 4Matic Plus,Mercedes-benz,Rs. 2.55 Crore,Petrol,Automatic,3982 cc,8.8 kmpl,Not Rated
+Mercedes-Benz AMG GT 63 S 4Matic Plus,Mercedes-benz,Rs. 2.55 Crore,Petrol,Automatic,3982  cc,9  kmpl,Not Rated
+Mercedes-Benz AMG EQS,Mercedes-benz,Rs. 2.45 Crore,Petrol,Automatic,8 kWh,526  km/charge,Not Rated
+Mercedes-Benz AMG EQS,Mercedes-benz,Rs. 2.45 Crore,Electric,Automatic,8 kWh,N/A,Not Rated
+Mercedes-Benz AMG EQS,Mercedes-benz,Rs. 2.45 Crore,Petrol,Automatic,8  kWh,526  km/charge,Not Rated
+Mercedes-Benz EQE SUV,Mercedes-benz,Rs. 1.41 Crore,Petrol,Automatic,56 kWh,550  km/charge,Not Rated
+Mercedes-Benz EQE SUV,Mercedes-benz,Rs. 1.41 Crore,Electric,Automatic,56 kWh,N/A,Not Rated
+Mercedes-Benz EQE SUV,Mercedes-benz,Rs. 1.41 Crore,Petrol,Automatic,56  kWh,550  km/charge,Not Rated
+Mercedes-Benz EQE SUV,Mercedes-benz,On Request,Electric,Unknown,Electric Motor,N/A,Not Rated
+Mercedes-Benz AMG GT 63 S E Performance,Mercedes-benz,Rs. 3.27 Crore,Petrol,Automatic,3982 cc,9  kmpl,Not Rated
+Mercedes-Benz AMG GT 63 S E Performance,Mercedes-benz,Rs. 3.27 Crore,Petrol,Automatic,3982 cc,N/A,Not Rated
+Mercedes-Benz AMG GT 63 S E Performance,Mercedes-benz,Rs. 3.27 Crore,Petrol,Automatic,3982  cc,9  kmpl,Not Rated
+Mercedes-Benz AMG S 63 E Performance,Mercedes-benz,Rs. 3.34 Crore,Petrol,Automatic,3982 cc,9  kmpl,Not Rated
+Mercedes-Benz AMG S 63 E Performance,Mercedes-benz,Rs. 3.34 Crore,Petrol,Automatic,3982 cc,N/A,Not Rated
+Mercedes-Benz AMG S 63 E Performance,Mercedes-benz,Rs. 3.34 Crore,Petrol,Automatic,3982  cc,9  kmpl,Not Rated
+Mercedes-Benz AMG C 63 S E Performance,Mercedes-benz,Rs. 1.91 Crore,Petrol,Automatic,1991 cc,401  km/charge,Not Rated
+Mercedes-Benz AMG C 63 S E Performance,Mercedes-benz,Rs. 1.91 Crore,Petrol,Automatic,1991 cc,N/A,Not Rated
+Mercedes-Benz AMG C 63 S E Performance,Mercedes-benz,Rs. 1.91 Crore,Petrol,Automatic,1991  cc,401  km/charge,Not Rated
+Mercedes-Benz A-Class Limousine,Mercedes-benz,Rs. 22.75 Lakh,Petrol,Automatic,1332 cc,17.5 kmpl,Not Rated
+Mercedes-Benz A-Class Limousine,Mercedes-benz,Rs. 44.45 Lakh,Petrol,Automatic,1332 cc,17.5 kmpl,Not Rated
+Mercedes-Benz A-Class Limousine,Mercedes-benz,Rs. 44.45 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz A-Class Limousine,Mercedes-benz,Rs. 44.45 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Mercedes-Benz EQB,Mercedes-benz,Rs. 38.00 Lakh,Electric,Automatic,5kWh,N/A,Not Rated
+Mercedes-Benz EQB,Mercedes-benz,Rs. 38.00 Lakh,Electric,Automatic,5 kWh,N/A,Not Rated
+Mercedes-Benz EQB,Mercedes-benz,Rs. 72.20 Lakh,Electric,Automatic,5 kWh,N/A,Not Rated
+Mercedes-Benz EQB,Mercedes-benz,Rs. 72.20 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+Mercedes-Benz EQB,Mercedes-benz,Rs. 72.20 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Mercedes-Benz EQA,Mercedes-benz,Rs. 67.20 Lakh,Electric,Automatic,5 kWh,N/A,Not Rated
+Mercedes-Benz EQA,Mercedes-benz,Rs. 44.75 Lakh,Electric,Automatic,5 kWh,N/A,Not Rated
+Mercedes-Benz EQA,Mercedes-benz,Rs. 65.98 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Mercedes-Benz EQA,Mercedes-benz,Rs. 55.65 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Mercedes-Benz EQA,Mercedes-benz,Rs. 67.20 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+Mercedes-Benz EQA,Mercedes-benz,Rs. 67.20 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Mercedes-Benz SL,Mercedes-benz,Rs. 99.94 Lakh,Petrol,Automatic,3498 cc,N/A,Not Rated
+Mercedes-Benz SL,Mercedes-benz,Rs. 12.00 Lakh,Petrol,Automatic,3498 cc,N/A,Not Rated
+Mercedes-Benz SL,Mercedes-benz,Rs. 99.94 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz SL,Mercedes-benz,Rs. 99.94 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Mercedes-Benz CLK,Mercedes-benz,Rs. 31.43 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz CLK,Mercedes-benz,Rs. 62.90 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz CLK,Mercedes-benz,Rs. 31.43 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Mercedes-Benz SLK,Mercedes-benz,Rs. 79.60 Lakh,Petrol,Automatic,5461 cc,11.11 kmpl,Not Rated
+Mercedes-Benz SLK,Mercedes-benz,Rs. 29.75 Lakh,Petrol,Automatic,3498 cc,11.11 kmpl,Not Rated
+Mercedes-Benz SLK,Mercedes-benz,Rs. 79.60 Lakh,Petrol,Automatic,3498 cc,11.11 kmpl,Not Rated
+Mercedes-Benz SLK,Mercedes-benz,Rs. 79.60 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz SLK,Mercedes-benz,Rs. 79.60 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Mercedes-Benz CLS,Mercedes-benz,Rs. 15.50 Lakh,Diesel,Automatic,1950 cc,16.13 kmpl,Not Rated
+Mercedes-Benz CLS,Mercedes-benz,Rs. 84.70 Lakh,Diesel,Automatic,1950 cc,16.13 kmpl,Not Rated
+Mercedes-Benz CLS,Mercedes-benz,Rs. 84.70 Lakh,Diesel,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz CLS,Mercedes-benz,Rs. 84.70 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Mercedes-Benz AMG E53,Mercedes-benz,Rs. 1.06 Crore,Petrol,Automatic,2999 cc,11.7 kmpl,Not Rated
+Mercedes-Benz AMG E53,Mercedes-benz,Rs. 4.00 Lakh,Petrol,Automatic,2999 cc,11.7 kmpl,Not Rated
+Mercedes-Benz AMG E53,Mercedes-benz,Rs. 1.06 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz AMG E53,Mercedes-benz,Rs. 1.06 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Mercedes-Benz M-Class,Mercedes-benz,Rs. 56.74 Lakh,Petrol,Automatic,5461 cc,15.26 kmpl,Not Rated
+Mercedes-Benz M-Class,Mercedes-benz,Rs. 5.50 Lakh,Petrol,Automatic,2143 cc,15.26 kmpl,Not Rated
+Mercedes-Benz M-Class,Mercedes-benz,Rs. 56.74 Lakh,Petrol,Automatic,2143 cc,15.26 kmpl,Not Rated
+Mercedes-Benz M-Class,Mercedes-benz,Rs. 56.74 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz M-Class,Mercedes-benz,Rs. 56.74 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Mercedes-Benz MB-Class,Mercedes-benz,Rs. 25.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz MB-Class,Mercedes-benz,Rs. 6.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz MB-Class,Mercedes-benz,Rs. 25.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Mercedes-Benz GL,Mercedes-benz,Rs. 77.68 Lakh,Petrol,Automatic,5461 cc,9 kmpl,Not Rated
+Mercedes-Benz GL,Mercedes-benz,Rs. 11.50 Lakh,Petrol,Automatic,2987 cc,9 kmpl,Not Rated
+Mercedes-Benz GL,Mercedes-benz,Rs. 11.50 Lakh,Petrol,Automatic,2987 cc,N/A,Not Rated
+Mercedes-Benz GL,Mercedes-benz,Rs. 77.68 Lakh,Petrol,Automatic,2987 cc,N/A,Not Rated
+Mercedes-Benz GL,Mercedes-benz,Rs. 77.68 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz GL,Mercedes-benz,Rs. 77.68 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Mercedes-Benz AMG GT,Mercedes-benz,Rs. 1.75 Crore,Petrol,Automatic,3982 cc,8.06 kmpl,Not Rated
+Mercedes-Benz AMG GT,Mercedes-benz,Rs. 2.16 Crore,Petrol,Automatic,3982 cc,8.06 kmpl,Not Rated
+Mercedes-Benz AMG GT,Mercedes-benz,Rs. 2.16 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz AMG GT,Mercedes-benz,Rs. 2.16 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Mercedes-Benz R-Class,Mercedes-benz,Rs. 8.90 Lakh,Petrol,Automatic,3496 cc,8.4 kmpl,Not Rated
+Mercedes-Benz R-Class,Mercedes-benz,Rs. 8.90 Lakh,Petrol,Automatic,2987 cc,8.4 kmpl,Not Rated
+Mercedes-Benz R-Class,Mercedes-benz,Rs. 60.23 Lakh,Petrol,Automatic,2987 cc,8.4 kmpl,Not Rated
+Mercedes-Benz R-Class,Mercedes-benz,Rs. 60.23 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz R-Class,Mercedes-benz,Rs. 60.23 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Mercedes-Benz 190,Mercedes-benz,Rs. 22.00 Lakh,Petrol,Automatic,1.5L,N/A,Not Rated
+Mercedes-Benz 190,Mercedes-benz,Rs. 22.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz 190,Mercedes-benz,On Request,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz B-Class,Mercedes-benz,Rs. 3.95 Lakh,Petrol,Automatic,2143 cc,14.8 kmpl,Not Rated
+Mercedes-Benz B-Class,Mercedes-benz,Rs. 3.95 Lakh,Petrol,Automatic,1595 cc,14.8 kmpl,Not Rated
+Mercedes-Benz B-Class,Mercedes-benz,Rs. 30.10 Lakh,Petrol,Automatic,1595 cc,14.8 kmpl,Not Rated
+Mercedes-Benz B-Class,Mercedes-benz,Rs. 30.10 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz B-Class,Mercedes-benz,Rs. 30.10 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Mercedes-Benz Viano,Mercedes-benz,Rs. 40.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Mercedes-Benz Viano,Mercedes-benz,Rs. 10.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Mercedes-Benz Viano,Mercedes-benz,Rs. 40.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Mercedes-Benz E-Class Cabriolet,Mercedes-benz,Rs. 77.26 Lakh,Petrol,Automatic,2996 cc,N/A,Not Rated
+Mercedes-Benz E-Class Cabriolet,Mercedes-benz,Rs. 39.00 Lakh,Petrol,Automatic,2996 cc,N/A,Not Rated
+Mercedes-Benz E-Class Cabriolet,Mercedes-benz,Rs. 77.26 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz E-Class Cabriolet,Mercedes-benz,Rs. 77.26 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Mercedes-Benz S-Coupe,Mercedes-benz,Rs. 1.98 Crore,Petrol,Automatic,5461 cc,7.75 kmpl,Not Rated
+Mercedes-Benz S-Coupe,Mercedes-benz,Rs. 89.00 Lakh,Petrol,Automatic,4663 cc,7.75 kmpl,Not Rated
+Mercedes-Benz S-Coupe,Mercedes-benz,Rs. 1.98 Crore,Petrol,Automatic,4663 cc,7.75 kmpl,Not Rated
+Mercedes-Benz S-Coupe,Mercedes-benz,Rs. 1.98 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz S-Coupe,Mercedes-benz,Rs. 1.98 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Mercedes-Benz S-Class Cabriolet,Mercedes-benz,Rs. 2.33 Crore,Petrol,Automatic,4663 cc,N/A,Not Rated
+Mercedes-Benz S-Class Cabriolet,Mercedes-benz,Rs. 6.50 Lakh,Petrol,Automatic,4663 cc,N/A,Not Rated
+Mercedes-Benz S-Class Cabriolet,Mercedes-benz,Rs. 2.33 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz S-Class Cabriolet,Mercedes-benz,Rs. 2.33 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Mercedes-Benz SLC,Mercedes-benz,Rs. 82.86 Lakh,Petrol,Automatic,2996 cc,N/A,Not Rated
+Mercedes-Benz SLC,Mercedes-benz,Rs. 53.75 Lakh,Petrol,Automatic,2996 cc,N/A,Not Rated
+Mercedes-Benz SLC,Mercedes-benz,Rs. 82.86 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz SLC,Mercedes-benz,Rs. 82.86 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Mercedes-Benz W123,Mercedes-benz,Rs. 25.68 Lakh,Petrol,Manual,1598 cc,N/A,Not Rated
+Mercedes-Benz W123,Mercedes-benz,Rs. 18.00 Lakh,Petrol,Manual,1598 cc,N/A,Not Rated
+Mercedes-Benz W123,Mercedes-benz,Rs. 25.68 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Mercedes-Benz W123,Mercedes-benz,Rs. 25.68 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Mercedes-Benz C-Class Cabriolet,Mercedes-benz,Rs. 25.00 Lakh,Petrol,Automatic,1991 cc,10.6 kmpl,Not Rated
+Mercedes-Benz C-Class Cabriolet,Mercedes-benz,Rs. 25.00 Lakh,Petrol,Automatic,1991 cc,N/A,Not Rated
+Mercedes-Benz C-Class Cabriolet,Mercedes-benz,Rs. 64.29 Lakh,Petrol,Automatic,1991 cc,N/A,Not Rated
+Mercedes-Benz C-Class Cabriolet,Mercedes-benz,Rs. 64.29 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz C-Class Cabriolet,Mercedes-benz,Rs. 64.29 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Mercedes-Benz 200,Mercedes-benz,Rs. 61.85 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Mercedes-Benz 200,Mercedes-benz,Rs. 4.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Mercedes-Benz 200,Mercedes-benz,Rs. 61.85 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Mercedes-Benz 200,Mercedes-benz,Rs. 61.85 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Mercedes-Benz 200,Mercedes-benz,Rs. 62.85 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Mercedes-Benz GLC Coupe,Mercedes-benz,Rs. 34.45 Lakh,Petrol,Automatic,1991 cc,12.7 kmpl,Not Rated
+Mercedes-Benz GLC Coupe,Mercedes-benz,Rs. 72.46 Lakh,Petrol,Automatic,1991 cc,12.7 kmpl,Not Rated
+Mercedes-Benz GLC Coupe,Mercedes-benz,Rs. 72.46 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz GLC Coupe,Mercedes-benz,Rs. 72.46 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Mercedes-Benz E-Class All Terrain,Mercedes-benz,Rs. 19.95 Lakh,Diesel,Automatic,1950 cc,12.06 kmpl,Not Rated
+Mercedes-Benz E-Class All Terrain,Mercedes-benz,Rs. 75.00 Lakh,Diesel,Automatic,1950 cc,12.06 kmpl,Not Rated
+Mercedes-Benz E-Class All Terrain,Mercedes-benz,Rs. 75.00 Lakh,Diesel,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz E-Class All Terrain,Mercedes-benz,Rs. 75.00 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Mercedes-Benz C-Coupe,Mercedes-benz,Rs. 75.00 Lakh,Petrol,Automatic,3982 cc,9.26 kmpl,Not Rated
+Mercedes-Benz C-Coupe,Mercedes-benz,Rs. 50.00 Lakh,Petrol,Automatic,2996 cc,14.49 kmpl,Not Rated
+Mercedes-Benz C-Coupe,Mercedes-benz,Rs. 75.00 Lakh,Petrol,Automatic,2996 cc,14.49 kmpl,Not Rated
+Mercedes-Benz C-Coupe,Mercedes-benz,Rs. 75.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz C-Coupe,Mercedes-benz,Rs. 75.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Mercedes-Benz EQC,Mercedes-benz,Rs. 99.51 Lakh,Electric,Automatic,80 kWh,N/A,Not Rated
+Mercedes-Benz EQC,Mercedes-benz,Rs. 44.00 Lakh,Electric,Automatic,80 kWh,N/A,Not Rated
+Mercedes-Benz EQC,Mercedes-benz,Rs. 99.51 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+Mercedes-Benz EQC,Mercedes-benz,Rs. 99.51 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Mercedes-Benz AMG A35,Mercedes-benz,Rs. 58.00 Lakh,Petrol,Automatic,1991 cc,13.3 kmpl,Not Rated
+Mercedes-Benz AMG A35,Mercedes-benz,Rs. 29.00 Lakh,Petrol,Automatic,1991 cc,13.3 kmpl,Not Rated
+Mercedes-Benz AMG A35,Mercedes-benz,Rs. 58.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Mercedes-Benz AMG A35,Mercedes-benz,Rs. 58.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+मर्सिडीज़ बेंज़ कार्स,Mercedes-benz,On Request,Diesel,Unknown,Unknown,N/A,4.7/5
+MG M9,Mg,Rs. 79.95 Lakh,Petrol,Automatic,90kWh,548  km/charge,Not Rated
+MG M9,Mg,Rs. 79.94 Lakh,Petrol,Automatic,90kWh,548  km/charge,Not Rated
+MG M9,Mg,Rs. 79.94 Lakh,Petrol,Automatic,90  kWh,548  km/charge,Not Rated
+MG IM6,Mg,Rs. 60.00 Lakh,Petrol,Automatic,0 kWh,N/A,Not Rated
+MG IM6,Mg,Rs. 60.00 Lakh,Petrol,Automatic,100  kWh,N/A,Not Rated
+MG IM6,Mg,Rs. 60 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+MG IM6,Mg,On Request,Electric,Automatic,Electric Motor,N/A,Not Rated
+MG Cars,Mg,Rs. 6.41 Lakh,Electric,Unknown,Electric Motor,N/A,4.6/5
+MG Cars,Mg,Rs.  81.44 Lakh,Electric,Unknown,Electric Motor,N/A,4.6/5
+MG Astor,Mg,Rs. 9.79 Lakh,Petrol,Manual,1.0L,8kmpl,Not Rated
+MG Astor,Mg,Rs. 9.79 Lakh,Petrol,Manual,1498  cc,461  km/charge,Not Rated
+MG Gloster,Mg,Rs. 14.75 Lakh,Diesel,Automatic,1996 cc,13.27 kmpl,Not Rated
+MG Gloster,Mg,Rs. 32.60 Lakh,Diesel,Automatic,1996 cc,13.27 kmpl,Not Rated
+MG Gloster,Mg,Rs. 32.60 Lakh,Diesel,Automatic,Unknown,N/A,Not Rated
+MG Gloster,Mg,Rs. 32.60 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+MG Gloster,Mg,On Request,Electric,Unknown,Electric Motor,N/A,Not Rated
+MG Gloster,Mg,Rs. 32.60 Lakh,Diesel,Automatic,1996cc,N/A,Not Rated
+MG Gloster,Mg,Rs. 43.74 Lakh,Diesel,Automatic,Unknown,N/A,Not Rated
+MG Hector,Mg,Rs. 11.99 Lakh,Petrol,Manual,1.5L,8.8 kmpl,Not Rated
+MG Hector,Mg,Rs. 11.99 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+MG Hector,Mg,On Request,Petrol,Automatic,Unknown,10 kmpl,Not Rated
+MG Windsor EV,Mg,Rs. 12.36 Lakh,Electric,Automatic,9kWh,N/A,Not Rated
+MG Windsor EV,Mg,Rs. 12.36 Lakh,Electric,Unknown,9kWh,N/A,Not Rated
+MG Windsor EV,Mg,Rs. 12.36 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+MG Cyberster,Mg,Rs. 82.50 Lakh,Petrol,Automatic,77kWh,548  km/charge,Not Rated
+MG Cyberster,Mg,Rs. 82.49 Lakh,Petrol,Automatic,77kWh,548  km/charge,Not Rated
+MG Cyberster,Mg,Rs. 82.49 Lakh,Petrol,Automatic,77  kWh,548  km/charge,Not Rated
+MG Cyberster,Mg,On Request,Electric,Unknown,Electric Motor,N/A,Not Rated
+MG M9 Couture Edition,Mg,Rs. 81.44 Lakh,Electric,Automatic,90 kWh,N/A,Not Rated
+MG M9 Couture Edition,Mg,Rs. 84.36 Lakh,Electric,Automatic,90 kWh,N/A,Not Rated
+MG Comet EV,Mg,Rs. 6.41 Lakh,Petrol,Manual,4kWh,230  km/charge,Not Rated
+MG Comet EV,Mg,Rs. 6.41 Lakh,Petrol,Manual,4  kWh,230  km/charge,Not Rated
+MG Majestor,Mg,Rs. 40.99 Lakh,Petrol,Manual,2.0L,N/A,Not Rated
+MG Majestor,Mg,Rs. 40.99 Lakh,Diesel,Automatic,2.0L,N/A,Not Rated
+MG Majestor,Mg,Rs. 44.99 Lakh,Diesel,Automatic,2.0L,N/A,Not Rated
+MG Majestor,Mg,Rs. 40.99 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+MG Hector Plus,Mg,Rs. 17.29 Lakh,Petrol,Manual,1451cc,N/A,Not Rated
+MG Hector Plus,Mg,Rs. 18.00 Lakh,Petrol,Manual,1451 cc,N/A,Not Rated
+MG Hector Plus,Mg,Rs. 18.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+MG ZS EV,Mg,Rs. 15.50 Lakh,Petrol,Manual,3 kWh,461  km/charge,Not Rated
+MG ZS EV,Mg,Rs. 15.50 Lakh,Electric,Automatic,3 kWh,N/A,Not Rated
+MG ZS EV,Mg,Rs. 15.50 Lakh,Petrol,Manual,3  kWh,461  km/charge,Not Rated
+एमजी कार्स,Mg,On Request,Electric,Unknown,Electric Motor,N/A,4.6/5
+Cooper,Mini,Rs. 44.45 Lakh,Petrol,Manual,1998 cc,16.8kmpl,Not Rated
+Cooper,Mini,Rs. 44.45 Lakh,Petrol,Manual,1998 cc,N/A,Not Rated
+Cooper,Mini,Rs. 44.45 Lakh,Petrol,Automatic,1998 cc,N/A,Not Rated
+Cooper,Mini,Rs. 44.45 Lakh,Petrol,Automatic,1998  cc,15  kmpl,Not Rated
+Countryman,Mini,Rs. 66.15 Lakh,Petrol,Automatic,1998 cc,15.4 kmpl,Not Rated
+Countryman,Mini,Rs. 66.15 Lakh,Petrol,Automatic,1998  cc,15  kmpl,Not Rated
+Cooper S Convertible,Mini,Rs. 59.00 Lakh,Petrol,Automatic,1998 cc,16.82 kmpl,Not Rated
+Cooper S Convertible,Mini,Rs. 59.00 Lakh,Petrol,Automatic,1998  cc,17  kmpl,Not Rated
+Cooper S Convertible,Mini,On Request,Petrol,Automatic,2.0L,N/A,Not Rated
+Countryman C,Mini,Rs. 47.50 Lakh,Petrol,Automatic,1499 cc,15.92 kmpl,Not Rated
+Countryman C,Mini,Rs. 47.50 Lakh,Petrol,Automatic,1499  cc,16  kmpl,Not Rated
+Cooper SE,Mini,Rs. 53.50 Lakh,Petrol,Automatic,6 kWh,270  km/charge,Not Rated
+Cooper SE,Mini,Rs. 53.50 Lakh,Electric,Automatic,6 kWh,N/A,Not Rated
+Cooper SE,Mini,Rs. 53.50 Lakh,Petrol,Automatic,6  kWh,270  km/charge,Not Rated
+Cooper SE,Mini,On Request,Electric,Unknown,Electric Motor,N/A,Not Rated
+Countryman Electric,Mini,Rs. 55.65 Lakh,Petrol,Automatic,45kWh,462  km/charge,Not Rated
+Countryman Electric,Mini,On Request,Electric,Unknown,Electric Motor,N/A,Not Rated
+Countryman Electric,Mini,Rs. 55.65 Lakh,Petrol,Automatic,6 kWh,462  km/charge,Not Rated
+Countryman Electric,Mini,Rs. 55.65 Lakh,Electric,Automatic,6 kWh,N/A,Not Rated
+Countryman Electric,Mini,Rs. 55.65 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Countryman Electric,Mini,Rs. 55.65 Lakh,Electric,Unknown,45kWh,N/A,Not Rated
+Countryman Electric,Mini,On Request,Electric,Unknown,45kWh,N/A,Not Rated
+Countryman Electric,Mini,Rs. 55.65 Lakh,Petrol,Automatic,6  kWh,462  km/charge,Not Rated
+Countryman Electric,Mini,Rs. 66.90 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Countryman Electric,Mini,Rs.  55.65 Lakh,Electric,Unknown,6 kWh,N/A,Not Rated
+Countryman Electric,Mini,Rs.  55.65 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Countryman Electric,Mini,Rs.  67.40 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Countryman Electric,Mini,Rs. 58.67 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Countryman JCW,Mini,Rs. 54.99 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Countryman JCW,Mini,Rs. 47.50 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Countryman JCW,Mini,Rs. 55.65 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Clubman,Mini,Rs. 41.90 Lakh,Petrol,Automatic,1998 cc,14 kmpl,Not Rated
+Clubman,Mini,Rs. 22.50 Lakh,Petrol,Automatic,1998 cc,14 kmpl,Not Rated
+Clubman,Mini,Rs. 41.90 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Clubman,Mini,Rs. 41.90 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Cooper JCW,Mini,Rs. 47.70 Lakh,Petrol,Automatic,1998 cc,17 kmpl,Not Rated
+Cooper JCW,Mini,Rs. 39.00 Lakh,Petrol,Automatic,1998 cc,17 kmpl,Not Rated
+Cooper JCW,Mini,Rs. 47.70 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Cooper JCW,Mini,Rs. 47.70 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Cooper Convertible,Mini,Rs. 9.48 Lakh,Petrol,Automatic,1998 cc,16.32 kmpl,Not Rated
+Cooper Convertible,Mini,Rs. 9.48 Lakh,Petrol,Automatic,1998 cc,16.82 kmpl,Not Rated
+Cooper Convertible,Mini,Rs. 38.30 Lakh,Petrol,Automatic,1998 cc,16.82 kmpl,Not Rated
+Cooper Convertible,Mini,Rs. 38.30 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Cooper Convertible,Mini,Rs. 38.30 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+मिनी कार्स,Mini,On Request,Electric,Unknown,Electric Motor,N/A,4.6/5
+Cars,Nissan,Rs. 5.65 Lakh,Petrol,Automatic,1.3L,19 kmpl,4.4/5
+Cars,Nissan,Rs. 10.49 Lakh,Petrol,Automatic,1.3L,19 kmpl,4.4/5
+Kicks,Nissan,Rs. 3.32 Lakh,Petrol,Manual,1498 cc,14.15 kmpl,Not Rated
+Kicks,Nissan,Rs. 3.32 Lakh,Petrol,Manual,1.0L,19.79 kmpl,Not Rated
+Kicks,Nissan,Rs. 3.32 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Kicks,Nissan,Rs. 9.89 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Kicks,Nissan,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Kicks,Nissan,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Kicks,Nissan,Rs. 9.50 Lakh,Petrol,Manual,1330 cc,19.79 kmpl,Not Rated
+Kicks,Nissan,Rs. 9.50 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Kicks,Nissan,Rs. 9.50 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Tekton,Nissan,Rs. 10.49 Lakh,Petrol,Manual,1.0L,19.4kmpl,Not Rated
+Tekton,Nissan,Rs. 10.49 Lakh,Petrol,Manual,1333 cc,N/A,Not Rated
+Tekton,Nissan,Rs. 10.49 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Gravite,Nissan,Rs. 5.73 Lakh,Petrol,Manual,999cc,10.67kmpl,Not Rated
+Gravite,Nissan,Rs. 5.73 Lakh,Petrol,Manual,999cc,N/A,Not Rated
+Gravite,Nissan,Rs. 5.73 Lakh,CNG,Automatic,Unknown,N/A,Not Rated
+Gravite,Nissan,Rs. 6.72 Lakh,Petrol,Manual,1.0L,10.67kmpl,Not Rated
+Gravite,Nissan,Rs. 6.72 Lakh,Petrol,Manual,1.0L,N/A,Not Rated
+Gravite,Nissan,Rs. 5.73 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Gravite,Nissan,On Request,CNG,Unknown,Unknown,10.67kmpl,Not Rated
+Gravite,Nissan,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Gravite,Nissan,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Gravite,Nissan,On Request,Electric,Unknown,Electric Motor,N/A,Not Rated
+Gravite,Nissan,On Request,CNG,Unknown,Unknown,N/A,Not Rated
+Magnite,Nissan,Rs. 5.65 Lakh,Petrol,Manual,1.0L,19.9kmpl,Not Rated
+Magnite,Nissan,Rs. 5.65 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Magnite,Nissan,Rs. 6.19 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Magnite,Nissan,On Request,CNG,Automatic,Unknown,N/A,Not Rated
+Magnite,Nissan,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Magnite,Nissan,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+X-Trail,Nissan,Rs. 48.20 Lakh,Petrol,Manual,1498 cc,13.7 kmpl,Not Rated
+X-Trail,Nissan,Rs. 48.20 Lakh,Petrol,Automatic,Unknown,13.7 kmpl,Not Rated
+X-Trail,Nissan,Rs. 48.20 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+X-Trail,Nissan,Rs. 48.20 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Sunny,Nissan,Rs. 2.64 Lakh,Petrol,Manual,1498 cc,17.03 kmpl,Not Rated
+Sunny,Nissan,Rs. 2.64 Lakh,Petrol,Manual,1.5L,22.76 kmpl,Not Rated
+Sunny,Nissan,Rs. 2.64 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Sunny,Nissan,Rs. 8.77 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Sunny,Nissan,Rs. 7.07 Lakh,Petrol,Manual,1461 cc,22.76 kmpl,Not Rated
+Sunny,Nissan,Rs. 7.07 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Sunny,Nissan,Rs. 7.07 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Safari Granroad,Nissan,Rs. 80.00 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Safari Granroad,Nissan,Rs. 6.00 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Safari Granroad,Nissan,Rs. 6.00 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Safari Granroad,Nissan,Rs. 80.00 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Micra Active,Nissan,Rs. 2.46 Lakh,Petrol,Manual,1198 cc,19.21 kmpl,Not Rated
+Micra Active,Nissan,Rs. 5.25 Lakh,Petrol,Manual,1198 cc,19.21 kmpl,Not Rated
+Micra Active,Nissan,Rs. 5.25 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Micra Active,Nissan,Rs. 5.25 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Terrano,Nissan,Rs. 1.50 Lakh,Petrol,Manual,1598 cc,13.2 kmpl,Not Rated
+Terrano,Nissan,Rs. 1.50 Lakh,Petrol,Manual,1.0L,19.8 kmpl,Not Rated
+Terrano,Nissan,Rs. 1.50 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Terrano,Nissan,Rs. 10.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Terrano,Nissan,Rs. 11.64 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Terrano,Nissan,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Terrano,Nissan,Rs. 10.00 Lakh,Petrol,Manual,1461 cc,19.8 kmpl,Not Rated
+Terrano,Nissan,Rs. 10.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+NV350,Nissan,Rs. 35.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Murano,Nissan,Rs. 20.00 Lakh,Petrol,Automatic,1.5L,N/A,Not Rated
+Murano,Nissan,Rs. 5.00 Lakh,Petrol,Automatic,1.5L,N/A,Not Rated
+Murano,Nissan,Rs. 5.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Murano,Nissan,Rs. 20.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Murano,Nissan,Rs. 20.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Patrol,Nissan,Rs. 80.00 Lakh,Petrol,Automatic,1.0L,N/A,Not Rated
+Patrol,Nissan,Rs. 3.00 Lakh,Petrol,Automatic,1.0L,N/A,Not Rated
+Patrol,Nissan,Rs. 11.64 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Patrol,Nissan,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Patrol,Nissan,Rs. 80.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Patrol,Nissan,Rs. 80.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Infiniti,Nissan,Rs. 54.56 Lakh,Petrol,Manual,1.5L,N/A,Not Rated
+Infiniti,Nissan,Rs. 62.90 Lakh,Petrol,Manual,1.5L,N/A,Not Rated
+Infiniti,Nissan,Rs. 54.56 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Infiniti,Nissan,Rs. 54.56 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Cima,Nissan,Rs. 62.90 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Gloria,Nissan,Rs. 10.03 Lakh,Petrol,Manual,1.5L,N/A,Not Rated
+Gloria,Nissan,Rs. 1.80 Lakh,Petrol,Manual,1.5L,N/A,Not Rated
+Gloria,Nissan,Rs. 10.03 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Gloria,Nissan,Rs. 10.03 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+350Z,Nissan,Rs. 40.94 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+350Z,Nissan,Rs. 4.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+350Z,Nissan,Rs. 40.94 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Serena,Nissan,Rs. 12.00 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Serena,Nissan,Rs. 3.00 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Serena,Nissan,Rs. 3.00 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Serena,Nissan,Rs. 12.00 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Fairlady 300 ZX,Nissan,Rs. 6.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+GT-R,Nissan,Rs. 2.12 Crore,Petrol,Automatic,3799 cc,8.4 kmpl,Not Rated
+GT-R,Nissan,Rs. 20.00 Lakh,Petrol,Automatic,3799 cc,8.4 kmpl,Not Rated
+GT-R,Nissan,Rs. 2.12 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+GT-R,Nissan,Rs. 2.12 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Cedric,Nissan,Rs. 1.31 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Jonga,Nissan,Rs. 6.00 Lakh,Petrol,Unknown,1.5L,N/A,Not Rated
+Jonga,Nissan,Rs. 2.00 Lakh,Petrol,Unknown,1.5L,N/A,Not Rated
+Jonga,Nissan,Rs. 2.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Jonga,Nissan,Rs. 6.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Laurel,Nissan,Rs. 5.65 Lakh,Diesel,Automatic,1.5L,N/A,Not Rated
+Bluebird,Nissan,Rs. 1.20 Lakh,Petrol,Manual,1.5L,N/A,Not Rated
+911,Porsche,Rs. 2.11 Crore,Petrol,Automatic,3.0L,8  kmpl,Not Rated
+911,Porsche,Rs. 2.11 Crore,Petrol,Automatic,3.0L,N/A,Not Rated
+911,Porsche,Rs. 2.11 Crore,Petrol,Automatic,3996  cc,8  kmpl,Not Rated
+Macan,Porsche,Rs. 89.65 Lakh,Petrol,Automatic,1984 cc,580  km/charge,Not Rated
+Macan,Porsche,Rs. 89.65 Lakh,Petrol,Automatic,1984 cc,N/A,Not Rated
+Macan,Porsche,Rs. 89.65 Lakh,Petrol,Automatic,1984  cc,580  km/charge,Not Rated
+Cayenne,Porsche,Rs. 1.51 Crore,Petrol,Automatic,2995 cc,8  kmpl,Not Rated
+Cayenne,Porsche,Rs. 1.51 Crore,Petrol,Automatic,2995 cc,N/A,Not Rated
+Cayenne,Porsche,Rs. 1.51 Crore,Petrol,Automatic,2995  cc,8  kmpl,Not Rated
+Cayenne,Porsche,Rs. 1.80 Crore,Electric,Unknown,Electric Motor,N/A,Not Rated
+Cayenne,Porsche,On Request,Electric,Unknown,Electric Motor,N/A,Not Rated
+Taycan,Porsche,Rs. 2.01 Crore,Petrol,Automatic,2 kWh,603  km/charge,Not Rated
+Taycan,Porsche,Rs. 2.01 Crore,Electric,Automatic,2 kWh,N/A,Not Rated
+Taycan,Porsche,Rs. 2.01 Crore,Electric,Unknown,2kWh,N/A,Not Rated
+Taycan,Porsche,Rs. 2.01 Crore,Petrol,Automatic,4  kWh,603  km/charge,Not Rated
+Panamera,Porsche,Rs. 1.79 Crore,Petrol,Automatic,2894 cc,17  kmpl,Not Rated
+Panamera,Porsche,Rs. 1.79 Crore,Petrol,Automatic,2894 cc,N/A,Not Rated
+Panamera,Porsche,Rs. 1.79 Crore,Petrol,Automatic,2894  cc,17  kmpl,Not Rated
+Macan Turbo EV,Porsche,Rs. 1.22 Crore,Petrol,Manual,100 kWh,582  km/charge,Not Rated
+Macan Turbo EV,Porsche,Rs. 1.22 Crore,Electric,Automatic,100 kWh,N/A,Not Rated
+Macan Turbo EV,Porsche,Rs. 1.22 Crore,Electric,Unknown,100kWh,N/A,Not Rated
+Macan Turbo EV,Porsche,On Request,Electric,Unknown,Electric Motor,N/A,Not Rated
+Macan Turbo EV,Porsche,Rs. 1.22 Crore,Petrol,Manual,100  kWh,582  km/charge,Not Rated
+Cayenne EV,Porsche,Rs. 1.77 Crore,Petrol,Automatic,113 kWh,603  km/charge,Not Rated
+Cayenne EV,Porsche,Rs. 1.77 Crore,Electric,Automatic,113 kWh,N/A,Not Rated
+Cayenne EV,Porsche,Rs. 1.77 Crore,Petrol,Automatic,113  kWh,603  km/charge,Not Rated
+Cayenne Coupe,Porsche,Rs. 1.57 Crore,Petrol,Automatic,3996 cc,8  kmpl,Not Rated
+Cayenne Coupe,Porsche,Rs. 1.57 Crore,Petrol,Automatic,2995 cc,8  kmpl,Not Rated
+Cayenne Coupe,Porsche,Rs. 1.57 Crore,Petrol,Automatic,2995 cc,N/A,Not Rated
+Cayenne Coupe,Porsche,Rs. 1.57 Crore,Petrol,Automatic,3996  cc,8  kmpl,Not Rated
+718,Porsche,Rs. 85.95 Lakh,Petrol,Manual,3996 cc,7.5 kmpl,Not Rated
+718,Porsche,Rs. 66.00 Lakh,Petrol,Manual,1988 cc,14.5 kmpl,Not Rated
+718,Porsche,Rs. 85.95 Lakh,Petrol,Manual,1988 cc,14.5 kmpl,Not Rated
+718,Porsche,Rs. 85.95 Lakh,Petrol,Manual,1988 cc,14.1 kmpl,Not Rated
+718,Porsche,Rs. 85.95 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+718,Porsche,Rs. 85.95 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Taycan Cross Turismo,Porsche,Rs. 1.40 Crore,Electric,Automatic,4 kWh,N/A,Not Rated
+Taycan Cross Turismo,Porsche,Rs. 1.82 Crore,Electric,Automatic,4 kWh,N/A,Not Rated
+Taycan Cross Turismo,Porsche,Rs. 1.82 Crore,Electric,Automatic,Electric Motor,N/A,Not Rated
+Taycan Cross Turismo,Porsche,Rs. 1.82 Crore,Electric,Unknown,Electric Motor,N/A,Not Rated
+Taycan Cross Turismo,Porsche,On Request,Electric,Unknown,Electric Motor,N/A,Not Rated
+Carrera GT,Porsche,Rs. 89.90 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Carrera GT,Porsche,Rs. 50.50 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Triber,Renault,Rs. 5.81 Lakh,Petrol,Manual,999 cc,18 kmpl,Not Rated
+Triber,Renault,Rs. 5.81 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Kwid,Renault,Rs. 4.53 Lakh,Petrol,Manual,999 cc,21.7kmpl,Not Rated
+Kwid,Renault,Rs. 4.53 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Kwid,Renault,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Kwid,Renault,On Request,Petrol,Manual,999 cc,21.7kmpl,Not Rated
+Kwid,Renault,On Request,CNG,Manual,999 cc,N/A,Not Rated
+Kwid,Renault,Rs. 4.53 Lakh,Petrol,Manual,999 cc,N/A,Not Rated
+Kwid,Renault,Rs. 4.53 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Kiger,Renault,Rs. 5.81 Lakh,Petrol,Manual,999 cc,10.5kmpl,Not Rated
+Kiger,Renault,Rs. 5.81 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Duster,Renault,Rs. 10.49 Lakh,Petrol,Manual,1.0L,17.75kmpl,Not Rated
+Duster,Renault,Rs. 10.49 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Duster,Renault,On Request,Petrol,Manual,1.3L,13 kmpl,Not Rated
+Boreal (Bigster),Renault,Rs. 8.89 Lakh,CNG,Unknown,1.5L,N/A,Not Rated
+Duster Emotion,Renault,Rs. 20.09 Lakh,Petrol,Manual,1.8L,N/A,Not Rated
+Duster Emotion,Renault,Rs. 11.00 Lakh,Petrol,Manual,1.8L,N/A,Not Rated
+Duster Emotion,Renault,Rs. 12.48 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Bridger,Renault,Rs. 5.81 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Kwid EV,Renault,Rs. 6.41 Lakh,CNG,Unknown,8kWh,N/A,Not Rated
+Lodgy,Renault,Rs. 1.80 Lakh,Diesel,Manual,1461 cc,20.45 kmpl,Not Rated
+Lodgy,Renault,Rs. 1.80 Lakh,Diesel,Manual,1.0L,20.45 kmpl,Not Rated
+Lodgy,Renault,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Lodgy,Renault,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Lodgy,Renault,Rs. 8.84 Lakh,Diesel,Manual,1461 cc,20.45 kmpl,Not Rated
+Lodgy,Renault,Rs. 8.84 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Lodgy,Renault,Rs. 8.84 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Scenic,Renault,Rs. 8.00 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Scenic,Renault,Rs. 1.20 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Scenic,Renault,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Scenic,Renault,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Megane,Renault,Rs. 24.25 Lakh,Petrol,Unknown,60kWh,N/A,Not Rated
+Megane,Renault,Rs. 3.00 Lakh,Petrol,Unknown,60kWh,N/A,Not Rated
+Megane,Renault,Rs. 3.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Megane,Renault,Rs. 23.60 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Megane,Renault,Rs. 14.53 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Megane,Renault,Rs. 24.25 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Captur,Renault,Rs. 3.18 Lakh,Petrol,Manual,1498 cc,13.87 kmpl,Not Rated
+Captur,Renault,Rs. 3.18 Lakh,Petrol,Manual,1.0L,20.37 kmpl,Not Rated
+Captur,Renault,Rs. 3.18 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Captur,Renault,On Request,Petrol,Unknown,Unknown,N/A,Not Rated
+Captur,Renault,Rs. 11.64 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Captur,Renault,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Captur,Renault,Rs. 9.50 Lakh,Petrol,Manual,1461 cc,20.37 kmpl,Not Rated
+Captur,Renault,Rs. 9.50 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Captur,Renault,Rs. 9.50 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Captur,Renault,Rs. 9.50 Lakh,Diesel,Unknown,1498cc,N/A,Not Rated
+Captur,Renault,Rs. 13.05 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+रेनो कार्स,Renault,On Request,Petrol,Manual,1.8L,N/A,4.6/5
+Rolls-Royce Phantom,Rolls-royce,Rs. 8.99 Crore,Petrol,Automatic,6749 cc,7.1 kmpl,Not Rated
+Rolls-Royce Phantom,Rolls-royce,Rs. 8.99 Crore,Petrol,Automatic,6749  cc,7  kmpl,Not Rated
+Rolls-Royce Phantom,Rolls-royce,On Request,Petrol,Unknown,6.75L,N/A,Not Rated
+Rolls-Royce Cullinan,Rolls-royce,Rs. 6.57 Crore,Petrol,Automatic,6749 cc,6.6 kmpl,Not Rated
+Rolls-Royce Cullinan,Rolls-royce,Rs. 6.57 Crore,Petrol,Automatic,6749  cc,7  kmpl,Not Rated
+Rolls-Royce Spectre,Rolls-royce,Rs. 7.50 Crore,Petrol,Automatic,102 kWh,530  km/charge,Not Rated
+Rolls-Royce Spectre,Rolls-royce,Rs. 7.50 Crore,Electric,Automatic,102 kWh,N/A,Not Rated
+Rolls-Royce Spectre,Rolls-royce,Rs. 7.50 Crore,Petrol,Automatic,102  kWh,530  km/charge,Not Rated
+Rolls-Royce Phantom Coupe,Rolls-royce,Rs. 7.06 Crore,Petrol,Automatic,6749 cc,6.75 kmpl,Not Rated
+Rolls-Royce Phantom Coupe,Rolls-royce,Rs. 2.00 Crore,Petrol,Automatic,6749 cc,6.75 kmpl,Not Rated
+Rolls-Royce Phantom Coupe,Rolls-royce,Rs. 7.06 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Rolls-Royce Phantom Coupe,Rolls-royce,Rs. 7.06 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Rolls-Royce Drophead Coupe,Rolls-royce,Rs. 7.60 Crore,Petrol,Automatic,6749 cc,6.75 kmpl,Not Rated
+Rolls-Royce Drophead Coupe,Rolls-royce,Rs. 7.90 Crore,Petrol,Automatic,6749 cc,6.75 kmpl,Not Rated
+Rolls-Royce Drophead Coupe,Rolls-royce,Rs. 7.60 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Rolls-Royce Drophead Coupe,Rolls-royce,Rs. 7.60 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Rolls-Royce Ghost Series II,Rolls-royce,Rs. 4.48 Crore,Petrol,Automatic,6592 cc,8.4 kmpl,Not Rated
+Rolls-Royce Ghost Series II,Rolls-royce,Rs. 1.55 Crore,Petrol,Automatic,6592 cc,9.52 kmpl,Not Rated
+Rolls-Royce Ghost Series II,Rolls-royce,Rs. 4.48 Crore,Petrol,Automatic,6592 cc,9.52 kmpl,Not Rated
+Rolls-Royce Ghost Series II,Rolls-royce,Rs. 4.48 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Rolls-Royce Ghost Series II,Rolls-royce,Rs. 4.48 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Rolls-Royce Wraith,Rolls-royce,Rs. 5.00 Crore,Petrol,Automatic,6592 cc,0 kmpl,Not Rated
+Rolls-Royce Wraith,Rolls-royce,Rs. 4.25 Crore,Petrol,Automatic,6592 cc,6.3 kmpl,Not Rated
+Rolls-Royce Wraith,Rolls-royce,Rs. 5.00 Crore,Petrol,Automatic,6592 cc,6.3 kmpl,Not Rated
+Rolls-Royce Wraith,Rolls-royce,Rs. 5.00 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Rolls-Royce Wraith,Rolls-royce,Rs. 5.00 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Rolls-Royce Dawn,Rolls-royce,Rs. 7.90 Crore,Petrol,Automatic,6598 cc,7 kmpl,Not Rated
+Rolls-Royce Dawn,Rolls-royce,Rs. 5.92 Crore,Petrol,Automatic,6598 cc,7 kmpl,Not Rated
+Rolls-Royce Dawn,Rolls-royce,Rs. 5.92 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Rolls-Royce Dawn,Rolls-royce,Rs. 5.92 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Rolls-Royce Silver Spur,Rolls-royce,Rs. 50.00 Lakh,Petrol,Automatic,1.5L,N/A,Not Rated
+Rolls-Royce Silver Spur,Rolls-royce,Rs. 50.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Rolls-Royce Silver Spur,Rolls-royce,On Request,Petrol,Automatic,Unknown,N/A,Not Rated
+Kylaq,Skoda,Rs. 7.59 Lakh,Petrol,Manual,1.0L,19.68 kmpl,Not Rated
+Kylaq,Skoda,Rs. 7.59 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Kylaq,Skoda,On Request,CNG,Unknown,Unknown,N/A,Not Rated
+New Superb,Skoda,Rs. 49.99 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Octavia Facelift,Skoda,Rs. 35.00 Lakh,Petrol,Automatic,2.0L,N/A,Not Rated
+Octavia Facelift,Skoda,Rs. 35.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Octavia Facelift,Skoda,On Request,Petrol,Automatic,Unknown,N/A,Not Rated
+Epiq,Skoda,Rs. 21.00 Lakh,Electric,Automatic,5kWh,N/A,Not Rated
+Epiq,Skoda,Rs. 21.00 Lakh,Electric,Automatic,5 kWh,N/A,Not Rated
+Epiq,Skoda,Rs. 21.00 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+Epiq,Skoda,On Request,Electric,Automatic,Electric Motor,N/A,Not Rated
+Peaq,Skoda,Rs. 41.00 Lakh,Petrol,Manual,86 kWh,N/A,Not Rated
+Peaq,Skoda,Rs. 41.00 Lakh,Petrol,Manual,91  kWh,N/A,Not Rated
+Peaq,Skoda,On Request,Electric,Automatic,Electric Motor,N/A,Not Rated
+Elroq,Skoda,Rs. 25.00 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Elroq,Skoda,Rs. 18.79 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Elroq,Skoda,Rs. 14.53 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Enyaq,Skoda,Rs. 50.00 Lakh,Petrol,Automatic,63 kWh,N/A,Not Rated
+Enyaq,Skoda,Rs. 50.00 Lakh,Electric,Automatic,63 kWh,N/A,Not Rated
+Enyaq,Skoda,Rs. 50.00 Lakh,Petrol,Automatic,63  kWh,N/A,Not Rated
+Enyaq,Skoda,On Request,Electric,Automatic,Electric Motor,N/A,Not Rated
+Kushaq,Skoda,Rs. 10.69 Lakh,Petrol,Manual,1.0L,19.09kmpl,Not Rated
+Kushaq,Skoda,Rs. 10.69 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Slavia,Skoda,Rs. 10 Lakh,Petrol,Manual,999cc,20.32 kmpl,Not Rated
+Slavia,Skoda,Rs. 10 Lakh,Petrol,Manual,999cc,N/A,Not Rated
+Slavia,Skoda,Rs. 11.76 Lakh,Petrol,Manual,1.0L,20.32 kmpl,Not Rated
+Slavia,Skoda,Rs. 11.76 Lakh,Petrol,Manual,1.0L,N/A,Not Rated
+Slavia,Skoda,Rs. 10.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Kodiaq,Skoda,Rs. 36.99 Lakh,Petrol,Manual,1984 cc,14.86 kmpl,Not Rated
+Kodiaq,Skoda,Rs. 36.99 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Kodiaq,Skoda,On Request,Electric,Unknown,Electric Motor,N/A,Not Rated
+Octavia RS,Skoda,Rs. 49.99 Lakh,Petrol,Automatic,1984 cc,N/A,Not Rated
+Octavia RS,Skoda,Rs. 49.99 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Kodiaq RS,Skoda,Rs. 66.99 Lakh,Petrol,Automatic,1984 cc,N/A,Not Rated
+Kodiaq RS,Skoda,Rs. 66.99 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Kylaq Sportline,Skoda,Rs. 12.75 Lakh,Petrol,Manual,999 cc,N/A,Not Rated
+Kylaq Sportline,Skoda,Rs. 8.99 Lakh,Petrol,Manual,999 cc,N/A,Not Rated
+2021  Octavia,Skoda,Rs. 1.40 Lakh,Petrol,Automatic,1.5L,15.8 kmpl,Not Rated
+2024  Superb,Skoda,Rs. 54.00 Lakh,Petrol,Automatic,1984 cc,12.5 kmpl,Not Rated
+2024  Superb,Skoda,Rs. 1.85 Lakh,Petrol,Automatic,1984 cc,12.5 kmpl,Not Rated
+Rapid TSI,Skoda,Rs. 1.00 Lakh,Petrol,Manual,999 cc,16.23 kmpl,Not Rated
+Rapid TSI,Skoda,Rs. 1.00 Lakh,Petrol,Manual,1.5L,18.96 kmpl,Not Rated
+Rapid TSI,Skoda,Rs. 7.80 Lakh,Petrol,Manual,999 cc,18.96 kmpl,Not Rated
+Rapid TSI,Skoda,Rs. 7.80 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Rapid TSI,Skoda,Rs. 7.80 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Yeti,Skoda,Rs. 2.00 Lakh,Diesel,Manual,1968 cc,17.7 kmpl,Not Rated
+Yeti,Skoda,Rs. 2.00 Lakh,Diesel,Manual,1968 cc,17.72 kmpl,Not Rated
+Yeti,Skoda,Rs. 21.85 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Yeti,Skoda,Rs. 21.85 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Laura,Skoda,Rs. 3.19 Lakh,Petrol,Manual,1968 cc,10.94 kmpl,Not Rated
+Laura,Skoda,Rs. 3.19 Lakh,Petrol,Manual,1.5L,17.6 kmpl,Not Rated
+Laura,Skoda,Rs. 3.19 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Laura,Skoda,Rs. 12.58 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Laura,Skoda,Rs. 12.58 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Fabia Scout,Skoda,Rs. 2.13 Lakh,Petrol,Manual,1199 cc,16.4 kmpl,Not Rated
+Fabia Scout,Skoda,Rs. 2.13 Lakh,Petrol,Manual,1198 cc,16.4 kmpl,Not Rated
+Fabia Scout,Skoda,Rs. 2.13 Lakh,Petrol,Unknown,Unknown,16.4 kmpl,Not Rated
+Fabia Scout,Skoda,Rs. 6.91 Lakh,Petrol,Unknown,Unknown,16.4 kmpl,Not Rated
+Fabia Scout,Skoda,Rs. 6.91 Lakh,Petrol,Manual,1198 cc,21 kmpl,Not Rated
+Fabia Scout,Skoda,Rs. 6.91 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Fabia Scout,Skoda,Rs. 6.91 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Karoq,Skoda,Rs. 24.99 Lakh,Petrol,Automatic,1498 cc,14.49 kmpl,Not Rated
+Karoq,Skoda,Rs. 11.90 Lakh,Petrol,Automatic,1.0L,14.49 kmpl,Not Rated
+Karoq,Skoda,Rs. 11.90 Lakh,Electric,Unknown,Electric Motor,14.49 kmpl,Not Rated
+Karoq,Skoda,Rs. 12.52 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Karoq,Skoda,Rs. 14.53 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Karoq,Skoda,Rs. 24.99 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Karoq,Skoda,Rs. 24.99 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Sierra EV,Tata,Rs. 18.79 Lakh,Petrol,Manual,63 kWh,665  km/charge,Not Rated
+Sierra EV,Tata,Rs. 18.79 Lakh,Petrol,Manual,63kWh,665  km/charge,Not Rated
+Sierra EV,Tata,Rs. 18.79 Lakh,Electric,Automatic,75 kWh,N/A,Not Rated
+Sierra EV,Tata,Rs. 18.79 Lakh,Petrol,Manual,75  kWh,665  km/charge,Not Rated
+Sierra,Tata,Rs. 11.49 Lakh,Petrol,Manual,1497 cc,21.26 kmpl,Not Rated
+Sierra,Tata,Rs. 11.49 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Sierra,Tata,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Sierra,Tata,On Request,Petrol,Automatic,Unknown,18kmpl,Not Rated
+Sierra,Tata,On Request,Diesel,Automatic,Unknown,N/A,Not Rated
+New Tigor,Tata,Rs. 7.38 Lakh,Petrol,Manual,1199 cc,N/A,Not Rated
+New Tigor,Tata,Rs. 5.49 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+New Tigor,Tata,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+New Tigor EV,Tata,Rs. 13.75 Lakh,Petrol,Manual,0 kWh,N/A,Not Rated
+New Tigor EV,Tata,Rs. 13.75 Lakh,Electric,Automatic,0 kWh,N/A,Not Rated
+New Tigor EV,Tata,Rs. 12.49 Lakh,Petrol,Manual,26  kWh,N/A,Not Rated
+New Tigor EV,Tata,On Request,Electric,Automatic,Electric Motor,N/A,Not Rated
+Safari EV,Tata,Rs. 26.00 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Altroz EV,Tata,Rs. 12.00 Lakh,Petrol,Manual,26 kWh,N/A,Not Rated
+Altroz EV,Tata,Rs. 12.00 Lakh,Electric,Automatic,26 kWh,N/A,Not Rated
+Altroz EV,Tata,Rs. 12.00 Lakh,Petrol,Manual,26  kWh,N/A,Not Rated
+Altroz EV,Tata,On Request,Electric,Automatic,Electric Motor,N/A,Not Rated
+Avinya,Tata,Rs. 45.00 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+Avinya,Tata,On Request,Electric,Automatic,Electric Motor,N/A,Not Rated
+Punch,Tata,Rs. 5.70 Lakh,Petrol,Manual,1.0L,19 kmpl,Not Rated
+Punch,Tata,Rs. 5.70 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Punch,Tata,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Punch,Tata,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Punch,Tata,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Punch,Tata,Rs. 5.70 Lakh,Petrol,Manual,1199 cc,N/A,Not Rated
+Punch,Tata,Rs. 5.70 Lakh,CNG,Automatic,Unknown,N/A,Not Rated
+Punch,Tata,On Request,CNG,Automatic,Unknown,N/A,Not Rated
+Punch,Tata,Rs. 6.68 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Punch,Tata,Rs. 6.68 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Nexon,Tata,Rs. 7.40 Lakh,Petrol,Manual,1.0L,17 kmpl,Not Rated
+Nexon,Tata,Rs. 7.40 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Nexon,Tata,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Nexon,Tata,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Nexon,Tata,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Nexon,Tata,On Request,CNG,Unknown,Unknown,N/A,Not Rated
+Tiago,Tata,Rs. 5.58 Lakh,Petrol,Manual,1.2L,17 kmpl,Not Rated
+Tiago,Tata,On Request,CNG,Automatic,Unknown,N/A,Not Rated
+Tiago,Tata,Rs. 5.58 Lakh,Petrol,Manual,1.2L,N/A,Not Rated
+Tiago,Tata,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Tiago,Tata,On Request,CNG,Unknown,Unknown,N/A,Not Rated
+Tiago,Tata,Rs. 4.70 Lakh,Petrol,Manual,1199 cc,N/A,Not Rated
+Tiago,Tata,Rs. 4.70 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Tiago,Tata,On Request,Petrol,Unknown,Unknown,N/A,Not Rated
+Punch EV,Tata,Rs. 9.69 Lakh,Petrol,Manual,30kWh,468  km/charge,Not Rated
+Punch EV,Tata,Rs. 10.20 Lakh,Petrol,Manual,40kWh,468  km/charge,Not Rated
+Punch EV,Tata,Rs. 10.20 Lakh,Electric,Unknown,40kWh,N/A,Not Rated
+Punch EV,Tata,Rs. 10.20 Lakh,Electric,Unknown,0 kWh,N/A,Not Rated
+Punch EV,Tata,Rs. 10.20 Lakh,Electric,Unknown,30kWh,N/A,Not Rated
+Punch EV,Tata,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Punch EV,Tata,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Punch EV,Tata,Rs. 8.09 Lakh,Petrol,Manual,40  kWh,468  km/charge,Not Rated
+Punch EV,Tata,On Request,Electric,Unknown,40 kWh,N/A,Not Rated
+Punch EV,Tata,On Request,CNG,Unknown,Unknown,N/A,Not Rated
+Harrier,Tata,Rs. 13 Lakh,Petrol,Manual,1498cc,16.8kmpl,Not Rated
+Harrier,Tata,Rs. 13 Lakh,Petrol,Manual,1498cc,N/A,Not Rated
+Harrier,Tata,Rs. 15.43 Lakh,Petrol,Manual,1.5L,16.8kmpl,Not Rated
+Harrier,Tata,Rs. 15.43 Lakh,Petrol,Manual,1.5L,N/A,Not Rated
+Harrier,Tata,Rs. 22.75 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Harrier,Tata,Rs. 13.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Harrier,Tata,Rs. 23.43 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Harrier,Tata,Rs. 19 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Altroz,Tata,Rs. 6.30 Lakh,Petrol,Manual,1199 cc,19.80km/kg,Not Rated
+Altroz,Tata,Rs. 6.30 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Altroz,Tata,Rs. 10.65 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Altroz,Tata,On Request,CNG,Automatic,Unknown,19.80km/kg,Not Rated
+Altroz,Tata,On Request,Petrol,Manual,1.2L,30 kmpl,Not Rated
+Altroz,Tata,Rs. 8.70 Lakh,CNG,Automatic,Unknown,N/A,Not Rated
+Altroz,Tata,On Request,CNG,Unknown,Unknown,N/A,Not Rated
+Altroz,Tata,On Request,CNG,Automatic,Unknown,N/A,Not Rated
+Tiago EV,Tata,Rs. 5.84 Lakh,Petrol,Manual,2kWh,215  km/charge,Not Rated
+Tiago EV,Tata,Rs. 5.84 Lakh,Petrol,Manual,2 kWh,215  km/charge,Not Rated
+Tiago EV,Tata,Rs. 5.84 Lakh,Electric,Automatic,24 kWh,N/A,Not Rated
+Tiago EV,Tata,Rs. 5.84 Lakh,Petrol,Manual,24  kWh,215  km/charge,Not Rated
+Tiago EV,Tata,On Request,Electric,Unknown,2kWh,N/A,Not Rated
+Curvv,Tata,Rs. 9.76 Lakh,Petrol,Manual,1497 cc,19 kmpl,Not Rated
+Curvv,Tata,Rs. 9.76 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Curvv,Tata,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Curvv,Tata,Rs. 9.76 Lakh,Petrol,Manual,1497  cc,20  kmpl,Not Rated
+Curvv,Tata,On Request,Petrol,Automatic,1.5L,8kmpl,Not Rated
+Nexon EV,Tata,Rs. 12.49 Lakh,CNG,Automatic,30kWh,N/A,Not Rated
+Nexon EV,Tata,Rs. 13.22 Lakh,CNG,Automatic,30kWh,N/A,Not Rated
+Nexon EV,Tata,Rs. 13.22 Lakh,Electric,Unknown,30kWh,N/A,Not Rated
+Nexon EV,Tata,Rs. 13.22 Lakh,Electric,Unknown,0 kWh,N/A,Not Rated
+Nexon EV,Tata,Rs. 12.49 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+Safari,Tata,Rs. 13.40 Lakh,Petrol,Manual,1498 cc,16.3 kmpl,Not Rated
+Safari,Tata,Rs. 13.40 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Safari,Tata,Rs. 17.20 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Safari,Tata,Rs. 23.43 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Safari,Tata,Rs. 19 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Curvv EV,Tata,Rs. 16.99 Lakh,Petrol,Automatic,45kWh,N/A,Not Rated
+Curvv EV,Tata,Rs. 16.99 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+Curvv EV,Tata,On Request,Electric,Unknown,Electric Motor,N/A,Not Rated
+Harrier EV,Tata,Rs. 21.69 Lakh,Petrol,Manual,75kWh,627  km/charge,Not Rated
+Harrier EV,Tata,Rs. 21.69 Lakh,Petrol,Manual,75  kWh,627  km/charge,Not Rated
+Harrier EV,Tata,On Request,Petrol,Unknown,65kWh,N/A,Not Rated
+Harrier EV,Tata,Rs. 21.49 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Tigor,Tata,Rs. 5.55 Lakh,Petrol,Manual,1199 cc,19.6kmpl,Not Rated
+Tigor,Tata,Rs. 5.55 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Tigor,Tata,Rs. 4.99 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Tigor,Tata,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Tigor,Tata,On Request,CNG,Unknown,Unknown,N/A,Not Rated
+Tigor EV,Tata,Rs. 12.49 Lakh,Petrol,Manual,1.5L,315  km/charge,Not Rated
+Tigor EV,Tata,Rs. 12.49 Lakh,Electric,Automatic,26 kWh,N/A,Not Rated
+Tigor EV,Tata,Rs. 12.49 Lakh,Petrol,Manual,26  kWh,315  km/charge,Not Rated
+Tigor EV,Tata,On Request,Electric,Unknown,Electric Motor,N/A,Not Rated
+Sierra EV Empowered,Tata,Rs. 24.11 Lakh,Electric,Manual,0 kWh,N/A,Not Rated
+Sierra EV Empowered,Tata,Rs. 21.69 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Sierra EV Empowered,Tata,Rs. 14.53 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Sierra EV Empowered,Tata,Rs. 24.11 Lakh,Electric,Automatic,63 kWh,N/A,Not Rated
+Sierra Accomplished Plus,Tata,Rs. 21.79 Lakh,Petrol,Manual,1497 cc,21.26 kmpl,Not Rated
+Sierra Accomplished Plus,Tata,Rs. 21.79 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Sierra Accomplished Plus,Tata,Rs. 11.00 Lakh,Petrol,Manual,1497 cc,21.26 kmpl,Not Rated
+Sierra Accomplished Plus,Tata,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Sierra Accomplished Plus,Tata,Rs. 24.20 Lakh,Petrol,Manual,1497 cc,21.26 kmpl,Not Rated
+Tiago NRG,Tata,Rs. 1.00 Lakh,Petrol,Manual,1199 cc,20.09 kmpl,Not Rated
+Tiago NRG,Tata,Rs. 1.00 Lakh,Petrol,Manual,1199 cc,26.49 kmpl,Not Rated
+Tiago NRG,Tata,Rs. 1.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Tiago NRG,Tata,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Tiago NRG,Tata,On Request,CNG,Automatic,Unknown,N/A,Not Rated
+Tiago NRG,Tata,Rs. 6.50 Lakh,Petrol,Manual,1199 cc,26.49 kmpl,Not Rated
+Tiago NRG,Tata,Rs. 6.50 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Tiago NRG,Tata,Rs. 6.50 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Tiago NRG,Tata,On Request,CNG,Automatic,1.2L,N/A,Not Rated
+Tiago NRG,Tata,Rs. 7.2 Lakh,CNG,Automatic,Unknown,N/A,Not Rated
+Tiago NRG,Tata,Rs. 6.50 Lakh,CNG,Unknown,1199cc,N/A,Not Rated
+Tiago NRG,Tata,Rs. 8.65 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Tigor JTP,Tata,Rs. 4.70 Lakh,Petrol,Manual,1199 cc,15.87 kmpl,Not Rated
+Tigor JTP,Tata,Rs. 4.70 Lakh,Petrol,Manual,1.5L,15.87 kmpl,Not Rated
+Tigor JTP,Tata,Rs. 7.49 Lakh,Petrol,Manual,1199 cc,15.87 kmpl,Not Rated
+Tigor JTP,Tata,Rs. 7.49 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Tigor JTP,Tata,Rs. 7.49 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Tiago JTP,Tata,Rs. 2.60 Lakh,Petrol,Manual,1199 cc,23.84 kmpl,Not Rated
+Tiago JTP,Tata,Rs. 6.39 Lakh,Petrol,Manual,1199 cc,23.84 kmpl,Not Rated
+Tiago JTP,Tata,Rs. 6.39 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Tiago JTP,Tata,Rs. 6.39 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Hexa,Tata,Rs. 3.50 Lakh,Diesel,Manual,2179 cc,14.4 kmpl,Not Rated
+Hexa,Tata,Rs. 13.69 Lakh,Diesel,Manual,2179 cc,14.4 kmpl,Not Rated
+Hexa,Tata,Rs. 13.69 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Hexa,Tata,Rs. 13.69 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Nexon EV Prime,Tata,Rs. 5.40 Lakh,Electric,Automatic,2 kWh,N/A,Not Rated
+Nexon EV Prime,Tata,Rs. 14.49 Lakh,Electric,Automatic,2 kWh,N/A,Not Rated
+Nexon EV Prime,Tata,Rs. 14.49 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+Nexon EV Prime,Tata,Rs. 14.49 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Movus,Tata,Rs. 1.30 Lakh,Diesel,Manual,2179 cc,N/A,Not Rated
+Movus,Tata,Rs. 1.30 Lakh,Diesel,Manual,1.0L,N/A,Not Rated
+Movus,Tata,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Movus,Tata,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Movus,Tata,Rs. 7.88 Lakh,Diesel,Manual,2179 cc,N/A,Not Rated
+Movus,Tata,Rs. 7.88 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Movus,Tata,Rs. 7.88 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Vista Tech,Tata,Rs. 1.36 Lakh,Diesel,Manual,1405 cc,19.1 kmpl,Not Rated
+Vista Tech,Tata,Rs. 1.36 Lakh,Diesel,Manual,1248 cc,22.3 kmpl,Not Rated
+Vista Tech,Tata,Rs. 5.08 Lakh,Diesel,Manual,1248 cc,22.3 kmpl,Not Rated
+Vista Tech,Tata,Rs. 5.08 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Vista Tech,Tata,Rs. 5.08 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Venture,Tata,Rs. 1.50 Lakh,Diesel,Manual,1405 cc,15.42 kmpl,Not Rated
+Venture,Tata,Rs. 4.37 Lakh,Diesel,Manual,1405 cc,15.42 kmpl,Not Rated
+Venture,Tata,Rs. 4.37 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Venture,Tata,Rs. 4.37 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Nano GenX,Tata,Rs. 1.12 Lakh,Petrol,Manual,624 cc,21.9 kmpl,Not Rated
+Nano GenX,Tata,Rs. 1.12 Lakh,Petrol,Manual,624 cc,23.6 kmpl,Not Rated
+Nano GenX,Tata,Rs. 2.47 Lakh,Petrol,Manual,624 cc,23.6 kmpl,Not Rated
+Nano GenX,Tata,Rs. 2.47 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Nano GenX,Tata,Rs. 2.47 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Xenon XT,Tata,Rs. 6.00 Lakh,Diesel,Manual,2179 cc,13.49 kmpl,Not Rated
+Xenon XT,Tata,Rs. 6.00 Lakh,Diesel,Manual,1.5L,13.49 kmpl,Not Rated
+Xenon XT,Tata,Rs. 9.37 Lakh,Diesel,Manual,2179 cc,13.49 kmpl,Not Rated
+Xenon XT,Tata,Rs. 9.37 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Xenon XT,Tata,Rs. 9.37 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Zest,Tata,Rs. 1.00 Lakh,Petrol,Manual,1248 cc,17.58 kmpl,Not Rated
+Zest,Tata,Rs. 1.00 Lakh,Petrol,Manual,1193 cc,22.68 kmpl,Not Rated
+Zest,Tata,Rs. 1.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Zest,Tata,Rs. 7.86 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Zest,Tata,Rs. 5.82 Lakh,Petrol,Manual,1193 cc,22.68 kmpl,Not Rated
+Zest,Tata,Rs. 5.82 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Zest,Tata,Rs. 5.82 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Zest,Tata,On Request,Diesel,Manual,1.2L,N/A,Not Rated
+Zest,Tata,Rs. 5.82 Lakh,Diesel,Unknown,1193cc,N/A,Not Rated
+Zest,Tata,Rs. 9.87 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+TL,Tata,Rs. 40.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+TL,Tata,Rs. 3.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+TL,Tata,Rs. 40.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Estate,Tata,Rs. 7.08 Lakh,Diesel,Manual,Unknown,14  kmpl,Not Rated
+Estate,Tata,Rs. 3.19 Lakh,Diesel,Manual,Unknown,14  kmpl,Not Rated
+Estate,Tata,Rs. 7.08 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Estate,Tata,Rs. 7.08 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Sumo Gold,Tata,Rs. 1.00 Lakh,Diesel,Manual,2956 cc,14.65 kmpl,Not Rated
+Sumo Gold,Tata,Rs. 1.00 Lakh,Diesel,Manual,1.0L,14.65 kmpl,Not Rated
+Sumo Gold,Tata,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Sumo Gold,Tata,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Sumo Gold,Tata,Rs. 5.26 Lakh,Diesel,Manual,2956 cc,14.65 kmpl,Not Rated
+Sumo Gold,Tata,Rs. 5.26 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Sumo Gold,Tata,Rs. 5.26 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Bolt,Tata,Rs. 1.25 Lakh,Petrol,Manual,1248 cc,17.57 kmpl,Not Rated
+Bolt,Tata,Rs. 1.25 Lakh,Petrol,Manual,1193 cc,22.95 kmpl,Not Rated
+Bolt,Tata,Rs. 1.25 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Bolt,Tata,On Request,Petrol,Unknown,Unknown,N/A,Not Rated
+Bolt,Tata,Rs. 5.25 Lakh,Petrol,Manual,1193 cc,22.95 kmpl,Not Rated
+Bolt,Tata,Rs. 5.25 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Bolt,Tata,Rs. 5.25 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Bolt,Tata,Rs. 5.25 Lakh,Diesel,Unknown,1193cc,N/A,Not Rated
+Bolt,Tata,Rs. 7.85 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+टाटा कार्स,Tata,On Request,Petrol,Automatic,75 kWh,17 kmpl,4.7/5
+टाटा कार्स,Tata,On Request,Diesel,Unknown,75 kWh,N/A,4.7/5
+टाटा कार्स,Tata,On Request,Diesel,Unknown,Unknown,N/A,4.7/5
+Model 3,Tesla,Rs. 70.00 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+Model 3,Tesla,On Request,Electric,Automatic,Electric Motor,N/A,Not Rated
+Model Y,Tesla,Rs. 50.90 Lakh,Petrol,Automatic,60 kWh,100kmpl,Not Rated
+Model Y,Tesla,Rs. 50.90 Lakh,Electric,Automatic,60 kWh,N/A,Not Rated
+Model Y,Tesla,Rs. 50.90 Lakh,Electric,Automatic,0 kWh,N/A,Not Rated
+Model Y,Tesla,Rs. 50.90 Lakh,Petrol,Automatic,88  kWh,681  km/charge,Not Rated
+New Hilux,Toyota,Rs. 30.00 Lakh,Diesel,Manual,2755  cc,N/A,Not Rated
+New Hilux,Toyota,On Request,Diesel,Manual,Unknown,N/A,Not Rated
+Urban Cruiser Hyryder 7 seater,Toyota,Rs. 19.03 Lakh,CNG,Automatic,Unknown,N/A,Not Rated
+Urban Cruiser Hyryder 7 seater,Toyota,Rs. 19.03 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Urban Cruiser Hyryder 7 seater,Toyota,Rs. 14.53 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Fortuner Facelift,Toyota,Rs. 34.16 Lakh,Petrol,Manual,2.7L,N/A,Not Rated
+Fortuner Facelift,Toyota,Rs. 34.16 Lakh,Petrol,Automatic,2.7L,N/A,Not Rated
+Fortuner Facelift,Toyota,Rs. 34.16 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Fortuner Facelift,Toyota,On Request,Petrol,Automatic,Unknown,N/A,Not Rated
+Urban Cruiser Taisor Facelift,Toyota,Rs. 13.37 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Urban Cruiser Taisor Facelift,Toyota,Rs. 3.49 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Urban Cruiser Taisor Facelift,Toyota,On Request,CNG,Unknown,Unknown,N/A,Not Rated
+Urban Cruiser Hyryder,Toyota,Rs. 11.31 Lakh,Petrol,Manual,1490 cc,16.7kmpl,Not Rated
+Urban Cruiser Hyryder,Toyota,Rs. 11.31 Lakh,Petrol,Manual,1490 cc,17.7kmpl,Not Rated
+Urban Cruiser Hyryder,Toyota,Rs. 11.31 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Urban Cruiser Hyryder,Toyota,Rs. 11.31 Lakh,Petrol,Manual,1462 cc,27.97 kmpl,Not Rated
+Urban Cruiser Hyryder,Toyota,Rs. 11.31 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Urban Cruiser Hyryder,Toyota,Rs. 11.34 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Innova Hycross,Toyota,Rs. 19.53 Lakh,Petrol,Manual,1987 cc,13.1kmpl,Not Rated
+Innova Hycross,Toyota,Rs. 19.53 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Innova Hycross,Toyota,On Request,Petrol,Automatic,Unknown,N/A,Not Rated
+Innova Hycross,Toyota,Rs. 19.53 Lakh,Petrol,Manual,1987  cc,23  kmpl,Not Rated
+Innova Hycross,Toyota,Rs. 3.49 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Fortuner,Toyota,Rs. 34.76 Lakh,Petrol,Manual,2755 cc,14.6 kmpl,Not Rated
+Fortuner,Toyota,Rs. 34.76 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Fortuner,Toyota,Rs. 50.46 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Fortuner,Toyota,On Request,Diesel,Automatic,2.8L,N/A,Not Rated
+Glanza,Toyota,Rs. 6.73 Lakh,Petrol,Manual,1197 cc,14kmpl,Not Rated
+Glanza,Toyota,Rs. 6.73 Lakh,Petrol,Manual,1197 cc,17.34kmpl,Not Rated
+Glanza,Toyota,Rs. 6.73 Lakh,Petrol,Manual,Unknown,17.34kmpl,Not Rated
+Glanza,Toyota,Rs. 6.73 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Innova Crysta,Toyota,Rs. 19.72 Lakh,Petrol,Manual,2393 cc,23  kmpl,Not Rated
+Innova Crysta,Toyota,Rs. 19.72 Lakh,Diesel,Manual,2393 cc,N/A,Not Rated
+Innova Crysta,Toyota,Rs. 19.72 Lakh,Petrol,Manual,2393  cc,23  kmpl,Not Rated
+Urban Cruiser Taisor,Toyota,Rs. 7.43 Lakh,Petrol,Manual,1.0L,21.18 kmpl,Not Rated
+Urban Cruiser Taisor,Toyota,Rs. 7.43 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Urban Cruiser Taisor,Toyota,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Urban Cruiser Taisor,Toyota,On Request,Petrol,Automatic,1.2L,N/A,Not Rated
+Urban Cruiser Taisor,Toyota,Rs. 3.49 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Urban Cruiser Taisor,Toyota,On Request,CNG,Unknown,Unknown,N/A,Not Rated
+Rumion,Toyota,Rs. 9.79 Lakh,Petrol,Manual,1462 cc,26.1km/kg,Not Rated
+Rumion,Toyota,Rs. 9.79 Lakh,Petrol,Manual,Unknown,26.1km/kg,Not Rated
+Rumion,Toyota,Rs. 9.79 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Rumion,Toyota,On Request,CNG,Unknown,Unknown,20 km/kg,Not Rated
+Vellfire,Toyota,Rs. 1.2 Crore,Petrol,Automatic,2487cc,19.28kmpl,Not Rated
+Vellfire,Toyota,Rs. 1.2 Crore,Petrol,Automatic,2487cc,N/A,Not Rated
+Vellfire,Toyota,Rs. 1.20 Crore,Petrol,Automatic,2487 cc,19.28kmpl,Not Rated
+Vellfire,Toyota,Rs. 1.20 Crore,Petrol,Automatic,2487  cc,19  kmpl,Not Rated
+Vellfire,Toyota,On Request,Petrol,Automatic,Unknown,N/A,Not Rated
+Land Cruiser,Toyota,Rs. 2.18 Crore,Petrol,Automatic,3346cc,15 kmpl,Not Rated
+Land Cruiser,Toyota,Rs. 2.18 Crore,Diesel,Automatic,3346cc,N/A,Not Rated
+Land Cruiser,Toyota,Rs. 2.18 Crore,Petrol,Automatic,3346 cc,15 kmpl,Not Rated
+Land Cruiser,Toyota,Rs. 2.18 Crore,Petrol,Automatic,Unknown,N/A,Not Rated
+Fortuner Legender,Toyota,Rs. 42.92 Lakh,Petrol,Manual,2755 cc,14.4 kmpl,Not Rated
+Fortuner Legender,Toyota,Rs. 42.92 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Fortuner Legender,Toyota,Rs. 42.92 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Hilux,Toyota,Rs. 28.52 Lakh,Petrol,Manual,2755cc,12.5 kmpl,Not Rated
+Hilux,Toyota,Rs. 28.52 Lakh,Diesel,Manual,2755cc,N/A,Not Rated
+Hilux,Toyota,Rs. 28.52 Lakh,Petrol,Manual,2755 cc,12.5 kmpl,Not Rated
+Hilux,Toyota,Rs. 28.52 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Hilux,Toyota,On Request,Diesel,Unknown,2.4L,N/A,Not Rated
+Camry,Toyota,Rs. 47.48 Lakh,Petrol,Automatic,2487 cc,25.49 kmpl,Not Rated
+Camry,Toyota,Rs. 47.48 Lakh,Petrol,Automatic,2487  cc,25  kmpl,Not Rated
+Urban Cruiser Ebella,Toyota,Rs. 23.60 Lakh,Electric,Automatic,61kWh,N/A,Not Rated
+Urban Cruiser Ebella,Toyota,Rs. 23.60 Lakh,Electric,Automatic,49kWh,N/A,Not Rated
+Urban Cruiser Ebella,Toyota,Rs. 23.60 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+Ventury,Toyota,Rs. 1.20 Lakh,Petrol,Manual,1.0L,N/A,Not Rated
+Ventury,Toyota,Rs. 1.20 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Ventury,Toyota,On Request,Petrol,Unknown,Unknown,N/A,Not Rated
+Ventury,Toyota,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Ventury,Toyota,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Prius,Toyota,Rs. 45.43 Lakh,Petrol,Automatic,1798 cc,23.91 kmpl,Not Rated
+Prius,Toyota,Rs. 3.30 Lakh,Petrol,Automatic,1798 cc,23.91 kmpl,Not Rated
+Prius,Toyota,Rs. 45.43 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Prius,Toyota,Rs. 45.43 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Platinum Etios,Toyota,Rs. 3.40 Lakh,Petrol,Manual,1496 cc,16.78 kmpl,Not Rated
+Platinum Etios,Toyota,Rs. 3.40 Lakh,Petrol,Manual,1.5L,23.59 kmpl,Not Rated
+Platinum Etios,Toyota,Rs. 3.40 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Platinum Etios,Toyota,Rs. 7.04 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Platinum Etios,Toyota,Rs. 7.04 Lakh,Petrol,Manual,1364 cc,23.59 kmpl,Not Rated
+Platinum Etios,Toyota,Rs. 7.04 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Platinum Etios,Toyota,Rs. 7.04 Lakh,Diesel,Unknown,1496cc,N/A,Not Rated
+Platinum Etios,Toyota,Rs. 9.24 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Etios Liva,Toyota,Rs. 3.51 Lakh,Petrol,Manual,1364 cc,18.16 kmpl,Not Rated
+Etios Liva,Toyota,Rs. 3.51 Lakh,Petrol,Manual,1197 cc,23.59 kmpl,Not Rated
+Etios Liva,Toyota,Rs. 3.51 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Etios Liva,Toyota,Rs. 5.68 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Etios Liva,Toyota,Rs. 5.68 Lakh,Petrol,Manual,1197 cc,23.59 kmpl,Not Rated
+Etios Liva,Toyota,Rs. 5.68 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Etios Liva,Toyota,On Request,Petrol,Unknown,1198cc,N/A,Not Rated
+Corolla Altis,Toyota,Rs. 1.00 Lakh,Petrol,Manual,1798 cc,16.7 kmpl,Not Rated
+Corolla Altis,Toyota,Rs. 1.00 Lakh,Petrol,Manual,1.5L,21.3 kmpl,Not Rated
+Corolla Altis,Toyota,Rs. 1.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Corolla Altis,Toyota,Rs. 20.20 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Corolla Altis,Toyota,Rs. 16.46 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Corolla Altis,Toyota,Rs. 16.46 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Corolla Altis,Toyota,On Request,Petrol,Automatic,1.8L,N/A,Not Rated
+Corolla Altis,Toyota,Rs. 16.46 Lakh,Petrol,Automatic,1798cc,N/A,Not Rated
+Corolla Altis,Toyota,Rs. 20.20 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Vellfire [2014],Toyota,Rs. 5.00 Lakh,Petrol,Automatic,1.0L,N/A,Not Rated
+Vellfire [2014],Toyota,Rs. 5.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Vellfire [2014],Toyota,On Request,Petrol,Unknown,Unknown,N/A,Not Rated
+Vellfire [2014],Toyota,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Vellfire [2014],Toyota,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Urban Cruiser,Toyota,Rs. 4.88 Lakh,Petrol,Manual,1462 cc,17.01 kmpl,Not Rated
+Urban Cruiser,Toyota,Rs. 4.88 Lakh,Petrol,Manual,1.0L,18.72 kmpl,Not Rated
+Urban Cruiser,Toyota,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Urban Cruiser,Toyota,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Urban Cruiser,Toyota,Rs. 9.02 Lakh,Petrol,Manual,1462 cc,18.72 kmpl,Not Rated
+Urban Cruiser,Toyota,Rs. 9.02 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Urban Cruiser,Toyota,Rs. 9.02 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Lexus,Toyota,Rs. 35.00 Lakh,Diesel,Automatic,Unknown,N/A,Not Rated
+Lexus,Toyota,Rs. 51.00 Lakh,Diesel,Automatic,Unknown,N/A,Not Rated
+Lexus,Toyota,Rs. 35.00 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Belta,Toyota,Rs. 10.00 Lakh,Petrol,Manual,1462 cc,20.04 kmpl,Not Rated
+Belta,Toyota,Rs. 1.50 Lakh,Petrol,Manual,1.5L,20.65 kmpl,Not Rated
+Belta,Toyota,Rs. 10.00 Lakh,Petrol,Manual,1462 cc,20.65 kmpl,Not Rated
+Belta,Toyota,Rs. 10.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Belta,Toyota,Rs. 10.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Tundra,Toyota,Rs. 15.00 Lakh,Petrol,Automatic,1.0L,N/A,Not Rated
+Tundra,Toyota,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Tundra,Toyota,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Hiace,Toyota,Rs. 35.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Hiace,Toyota,Rs. 5.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Hiace,Toyota,Rs. 35.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Commuter,Toyota,Rs. 58.00 Lakh,Diesel,Automatic,Unknown,N/A,Not Rated
+Commuter,Toyota,Rs. 3.00 Lakh,Diesel,Automatic,Unknown,N/A,Not Rated
+Commuter,Toyota,Rs. 58.00 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+RAV-4,Toyota,Rs. 35.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+RAV-4,Toyota,Rs. 2.50 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+RAV-4,Toyota,Rs. 35.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Estima,Toyota,Rs. 12.00 Lakh,Petrol,Manual,1.0L,N/A,Not Rated
+Estima,Toyota,Rs. 3.00 Lakh,Petrol,Manual,1.0L,N/A,Not Rated
+Estima,Toyota,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Estima,Toyota,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+Estima,Toyota,Rs. 12.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Estima,Toyota,Rs. 12.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Cressida,Toyota,Rs. 2.00 Crore,Petrol,Manual,Unknown,N/A,Not Rated
+Cressida,Toyota,Rs. 15.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Cressida,Toyota,Rs. 2.00 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Majesta,Toyota,Rs. 20.02 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Majesta,Toyota,Rs. 62.90 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Majesta,Toyota,Rs. 20.02 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Corolla Ceres,Toyota,Rs. 9.89 Lakh,Petrol,Automatic,1.5L,13  kmpl,Not Rated
+Corolla Ceres,Toyota,Rs. 9.89 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Corolla Ceres,Toyota,On Request,Petrol,Unknown,Unknown,N/A,Not Rated
+Sera,Toyota,Rs. 15.00 Lakh,Petrol,Manual,Unknown,9 kmpl,Not Rated
+Sera,Toyota,Rs. 10.00 Lakh,Petrol,Manual,Unknown,9 kmpl,Not Rated
+Sera,Toyota,Rs. 15.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Sera,Toyota,Rs. 15.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Cresta,Toyota,Rs. 19.99 Lakh,Diesel,Manual,2446 cc,N/A,Not Rated
+Cresta,Toyota,Rs. 1.11 Lakh,Diesel,Manual,1.5L,N/A,Not Rated
+Cresta,Toyota,Rs. 1.11 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Cresta,Toyota,Rs. 19.99 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Cresta,Toyota,Rs. 19.99 Lakh,Diesel,Unknown,2446cc,N/A,Not Rated
+Celica,Toyota,Rs. 25.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Cynos,Toyota,Rs. 3.08 Lakh,Petrol,Manual,Unknown,13  kmpl,Not Rated
+Cynos,Toyota,Rs. 1.50 Lakh,Petrol,Manual,Unknown,13  kmpl,Not Rated
+Cynos,Toyota,Rs. 3.08 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Cynos,Toyota,Rs. 3.08 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+MR2,Toyota,Rs. 25.00 Lakh,Petrol,Automatic,1.5L,N/A,Not Rated
+MR2,Toyota,Rs. 1.50 Lakh,Petrol,Automatic,1.5L,N/A,Not Rated
+MR2,Toyota,Rs. 25.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+MR2,Toyota,Rs. 25.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Corona,Toyota,Rs. 5.25 Lakh,Petrol,Manual,1.5L,20  kmpl,Not Rated
+Corona,Toyota,Rs. 2.00 Lakh,Petrol,Manual,1.5L,20  kmpl,Not Rated
+Corona,Toyota,Rs. 2.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Corona,Toyota,Rs. 5.25 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Corona,Toyota,Rs. 5.25 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Corona,Toyota,Rs. 5.25 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Corona,Toyota,Rs. 5.53 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Land Cruiser Prado,Toyota,Rs. 96.30 Lakh,Petrol,Automatic,2982 cc,11.13 kmpl,Not Rated
+Land Cruiser Prado,Toyota,Rs. 8.00 Lakh,Petrol,Automatic,2982 cc,11.13 kmpl,Not Rated
+Land Cruiser Prado,Toyota,Rs. 8.00 Lakh,Petrol,Automatic,Unknown,11.13 kmpl,Not Rated
+Land Cruiser Prado,Toyota,Rs. 96.30 Lakh,Petrol,Automatic,Unknown,11.13 kmpl,Not Rated
+Land Cruiser Prado,Toyota,Rs. 96.30 Lakh,Petrol,Unknown,Unknown,11.13 kmpl,Not Rated
+Land Cruiser Prado,Toyota,Rs. 1.13 Crore,Petrol,Unknown,Unknown,N/A,Not Rated
+Land Cruiser Prado,Toyota,Rs. 96.30 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Land Cruiser Prado,Toyota,Rs. 96.30 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Land Cruiser Prado,Toyota,Rs. 96.30 Lakh,Petrol,Unknown,2982cc,N/A,Not Rated
+Yaris,Toyota,Rs. 3.52 Lakh,Petrol,Manual,1496 cc,17.11 kmpl,Not Rated
+Yaris,Toyota,Rs. 3.52 Lakh,Petrol,Manual,1.5L,17.82 kmpl,Not Rated
+Yaris,Toyota,Rs. 8.76 Lakh,Petrol,Manual,1496 cc,17.82 kmpl,Not Rated
+Yaris,Toyota,Rs. 8.76 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Yaris,Toyota,Rs. 8.76 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Mark II,Toyota,Rs. 46.17 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Mark II,Toyota,Rs. 5.80 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Mark II,Toyota,Rs. 46.17 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+MasterAce,Toyota,Rs. 5.63 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+MasterAce,Toyota,Rs. 5.63 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+MasterAce,Toyota,On Request,Diesel,Unknown,Unknown,N/A,Not Rated
+VinFast VF 3,Vinfast,Rs. 7.50 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+VinFast VF 8,Vinfast,Rs. 48.20 Lakh,Electric,Unknown,13kWh,N/A,Not Rated
+VinFast VF 7,Vinfast,Rs. 21.89 Lakh,Electric,Automatic,6kWh,N/A,Not Rated
+VinFast VF 7,Vinfast,Rs. 21.89 Lakh,Electric,Automatic,6 kWh,N/A,Not Rated
+VinFast VF 7,Vinfast,Rs. 21.89 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+VinFast VF 6,Vinfast,Rs. 17.29 Lakh,Electric,Automatic,6kWh,N/A,Not Rated
+VinFast VF 6,Vinfast,Rs. 17.29 Lakh,Electric,Automatic,6 kWh,N/A,Not Rated
+VinFast VF 6,Vinfast,Rs. 17.29 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+VinFast VF MPV 7,Vinfast,Rs. 24.49 Lakh,Petrol,Manual,13kWh,530  km/charge,Not Rated
+VinFast VF MPV 7,Vinfast,Rs. 24.49 Lakh,Electric,Automatic,13kWh,N/A,Not Rated
+VinFast VF MPV 7,Vinfast,Rs. 24.49 Lakh,Electric,Automatic,1 kWh,N/A,Not Rated
+VinFast VF MPV 7,Vinfast,Rs. 24.49 Lakh,Electric,Automatic,13 kWh,N/A,Not Rated
+VinFast VF MPV 7,Vinfast,Rs. 24.49 Lakh,Petrol,Manual,13  kWh,530  km/charge,Not Rated
+VinFast VF MPV 7,Vinfast,Rs. 24.49 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+Tera SUV,Volkswagen,Rs. 8.49 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+ID.4,Volkswagen,Rs. 48.20 Lakh,Electric,Unknown,77kWh,N/A,Not Rated
+Taigun,Volkswagen,Rs. 11.00 Lakh,Petrol,Manual,1.0L,19.98kmpl,Not Rated
+Taigun,Volkswagen,Rs. 11.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Virtus,Volkswagen,Rs. 10.71 Lakh,Petrol,Manual,999cc,20.19kmpl,Not Rated
+Virtus,Volkswagen,Rs. 10.71 Lakh,Petrol,Manual,999cc,N/A,Not Rated
+Virtus,Volkswagen,Rs. 12.68 Lakh,Petrol,Manual,1.0L,20.19kmpl,Not Rated
+Virtus,Volkswagen,Rs. 12.68 Lakh,Petrol,Manual,1.0L,N/A,Not Rated
+Virtus,Volkswagen,Rs. 10.71 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Tayron,Volkswagen,Rs. 41.99 Lakh,Petrol,Automatic,1984 cc,N/A,Not Rated
+Tayron,Volkswagen,Rs. 41.99 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Golf GTI,Volkswagen,Rs. 50.91 Lakh,Petrol,Manual,2.0L,N/A,Not Rated
+Golf GTI,Volkswagen,Rs. 50.91 Lakh,Petrol,Automatic,2.0L,N/A,Not Rated
+Golf GTI,Volkswagen,Rs. 50.91 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Tiguan R-Line,Volkswagen,Rs. 47.11 Lakh,Petrol,Automatic,2.0L,12.58 kmpl,Not Rated
+Tiguan R-Line,Volkswagen,Rs. 47.11 Lakh,Petrol,Automatic,Unknown,12.58 kmpl,Not Rated
+Tiguan R-Line,Volkswagen,Rs. 47.11 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Tiguan,Volkswagen,Rs. 7.50 Lakh,Petrol,Automatic,1984 cc,12.61 kmpl,Not Rated
+Tiguan,Volkswagen,Rs. 7.50 Lakh,Petrol,Automatic,1984 cc,12.6 kmpl,Not Rated
+Tiguan,Volkswagen,Rs. 34.18 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Tiguan,Volkswagen,Rs. 34.18 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Vento,Volkswagen,Rs. 1.00 Lakh,Petrol,Manual,1598 cc,16.09 kmpl,Not Rated
+Vento,Volkswagen,Rs. 1.00 Lakh,Petrol,Manual,1.5L,22.27 kmpl,Not Rated
+Vento,Volkswagen,Rs. 1.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Vento,Volkswagen,Rs. 8.69 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Vento,Volkswagen,Rs. 8.69 Lakh,Petrol,Manual,1197 cc,22.27 kmpl,Not Rated
+Vento,Volkswagen,Rs. 8.69 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Vento,Volkswagen,On Request,Petrol,Automatic,Unknown,N/A,Not Rated
+Passat,Volkswagen,Rs. 1.80 Lakh,Diesel,Automatic,1968 cc,17.42 kmpl,Not Rated
+Passat,Volkswagen,Rs. 1.80 Lakh,Diesel,Automatic,1968 cc,9.75kmpl,Not Rated
+Passat,Volkswagen,Rs. 25.99 Lakh,Diesel,Automatic,Unknown,N/A,Not Rated
+Passat,Volkswagen,Rs. 25.99 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+Polo,Volkswagen,Rs. 5.87 Lakh,Petrol,Manual,1498 cc,16.73 kmpl,Not Rated
+Polo,Volkswagen,Rs. 4.36 Lakh,Petrol,Manual,1197 cc,20.48 kmpl,Not Rated
+Polo,Volkswagen,Rs. 4.36 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Polo,Volkswagen,Rs. 6.87 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Polo,Volkswagen,Rs. 5.87 Lakh,Petrol,Manual,1197 cc,20.48 kmpl,Not Rated
+Polo,Volkswagen,Rs. 5.87 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Polo,Volkswagen,Rs. 5.87 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Polo,Volkswagen,On Request,Diesel,Unknown,1398 cc,N/A,Not Rated
+T-Roc,Volkswagen,Rs. 21.35 Lakh,Petrol,Automatic,1498 cc,17.85 kmpl,Not Rated
+T-Roc,Volkswagen,Rs. 9.41 Lakh,Petrol,Automatic,1498 cc,17.85 kmpl,Not Rated
+T-Roc,Volkswagen,Rs. 21.35 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+T-Roc,Volkswagen,Rs. 21.35 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Tiguan AllSpace,Volkswagen,Rs. 34.19 Lakh,Petrol,Automatic,1984 cc,10.87 kmpl,Not Rated
+Tiguan AllSpace,Volkswagen,Rs. 16.00 Lakh,Petrol,Automatic,1984 cc,10.87 kmpl,Not Rated
+Tiguan AllSpace,Volkswagen,Rs. 34.19 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Tiguan AllSpace,Volkswagen,Rs. 34.19 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Transporter,Volkswagen,Rs. 19.99 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Transporter,Volkswagen,Rs. 5.00 Lakh,Diesel,Manual,Unknown,N/A,Not Rated
+Transporter,Volkswagen,Rs. 19.99 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+7HM H13,Volkswagen,Rs. 9.00 Lakh,Diesel,Automatic,Unknown,N/A,Not Rated
+7HM H13,Volkswagen,Rs. 9.00 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+7HM H13,Volkswagen,On Request,Diesel,Unknown,Unknown,N/A,Not Rated
+Touareg,Volkswagen,Rs. 25.00 Lakh,Diesel,Automatic,2967 cc,N/A,Not Rated
+Touareg,Volkswagen,Rs. 25.00 Lakh,Diesel,Automatic,1.0L,N/A,Not Rated
+Touareg,Volkswagen,Rs. 7.59 Lakh,CNG,Unknown,1.0L,N/A,Not Rated
+Touareg,Volkswagen,Rs. 7.43 Lakh,CNG,Unknown,Unknown,N/A,Not Rated
+1600,Volkswagen,Rs. 18.00 Lakh,Petrol,Automatic,1584 cc,N/A,Not Rated
+1600,Volkswagen,Rs. 1.00 Lakh,Petrol,Automatic,1.5L,N/A,Not Rated
+1600,Volkswagen,Rs. 18.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+1600,Volkswagen,Rs. 18.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Caravelle,Volkswagen,Rs. 40.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Caravelle,Volkswagen,Rs. 3.35 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Caravelle,Volkswagen,Rs. 40.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Beetle,Volkswagen,Rs. 26.95 Lakh,Petrol,Automatic,1395 cc,17.68 kmpl,Not Rated
+Beetle,Volkswagen,Rs. 16.75 Lakh,Petrol,Automatic,1395 cc,17.68 kmpl,Not Rated
+Beetle,Volkswagen,Rs. 26.95 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Beetle,Volkswagen,Rs. 26.95 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Phaeton,Volkswagen,Rs. 77.16 Lakh,Petrol,Automatic,3597 cc,11.9 kmpl,Not Rated
+Phaeton,Volkswagen,Rs. 9.00 Lakh,Petrol,Automatic,3597 cc,11.9 kmpl,Not Rated
+Phaeton,Volkswagen,Rs. 9.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Phaeton,Volkswagen,Rs. 77.16 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+Phaeton,Volkswagen,Rs. 77.16 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Jetta,Volkswagen,Rs. 1.50 Lakh,Petrol,Manual,1968 cc,14.69 kmpl,Not Rated
+Jetta,Volkswagen,Rs. 1.50 Lakh,Petrol,Manual,1.5L,19.33 kmpl,Not Rated
+Jetta,Volkswagen,Rs. 1.50 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Jetta,Volkswagen,On Request,Petrol,Manual,Unknown,N/A,Not Rated
+Jetta,Volkswagen,Rs. 14.78 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Jetta,Volkswagen,Rs. 14.78 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+Ameo,Volkswagen,Rs. 2.00 Lakh,Petrol,Manual,1498 cc,17.83 kmpl,Not Rated
+Ameo,Volkswagen,Rs. 2.00 Lakh,Petrol,Manual,1198 cc,21.73 kmpl,Not Rated
+Ameo,Volkswagen,Rs. 2.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Ameo,Volkswagen,Rs. 5.99 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Ameo,Volkswagen,Rs. 5.67 Lakh,Petrol,Manual,1198 cc,21.73 kmpl,Not Rated
+Ameo,Volkswagen,Rs. 5.67 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+Ameo,Volkswagen,Rs. 5.67 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+GTI,Volkswagen,Rs. 20.00 Lakh,Petrol,Automatic,1798 cc,16.34 kmpl,Not Rated
+GTI,Volkswagen,Rs. 4.85 Lakh,Petrol,Automatic,1.5L,16.34 kmpl,Not Rated
+GTI,Volkswagen,Rs. 20.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+GTI,Volkswagen,Rs. 20.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+XC90,Volvo,Rs. 98.80 Lakh,Petrol,Automatic,1969 cc,12.38 kmpl,Not Rated
+XC90,Volvo,Rs. 98.80 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+EX30,Volvo,Rs. 41.00 Lakh,Petrol,Automatic,69 kWh,480  km/charge,Not Rated
+EX30,Volvo,Rs. 41.00 Lakh,Electric,Automatic,69 kWh,N/A,Not Rated
+EX30,Volvo,Rs. 41.00 Lakh,Petrol,Automatic,69  kWh,480  km/charge,Not Rated
+EX30,Volvo,On Request,Electric,Unknown,Electric Motor,N/A,Not Rated
+XC60,Volvo,Rs. 69.60 Lakh,Petrol,Automatic,1969 cc,19  kmpl,Not Rated
+XC60,Volvo,Rs. 69.60 Lakh,Petrol,Automatic,1969 cc,N/A,Not Rated
+XC60,Volvo,Rs. 69.60 Lakh,Petrol,Automatic,1969  cc,19  kmpl,Not Rated
+EC40,Volvo,Rs. 59.00 Lakh,Petrol,Automatic,78 kWh,530  km/charge,Not Rated
+EC40,Volvo,Rs. 59.00 Lakh,Electric,Automatic,78 kWh,N/A,Not Rated
+EC40,Volvo,Rs. 59.00 Lakh,Petrol,Automatic,78  kWh,530  km/charge,Not Rated
+EC40,Volvo,On Request,Electric,Unknown,Electric Motor,N/A,Not Rated
+S90,Volvo,Rs. 68.25 Lakh,Petrol,Automatic,1969 cc,14.7 kmpl,Not Rated
+S90,Volvo,Rs. 16.90 Lakh,Petrol,Automatic,1969 cc,14.7 kmpl,Not Rated
+S90,Volvo,Rs. 68.25 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+S90,Volvo,Rs. 68.25 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+EX40,Volvo,Rs. 50.10 Lakh,Electric,Automatic,69 kWh,N/A,Not Rated
+EX40,Volvo,Rs. 34.00 Lakh,Electric,Automatic,69 kWh,N/A,Not Rated
+EX40,Volvo,Rs. 50.10 Lakh,Electric,Automatic,Electric Motor,N/A,Not Rated
+EX40,Volvo,Rs. 50.10 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+V90 Cross Country,Volvo,Rs. 65.31 Lakh,Diesel,Automatic,1969 cc,N/A,Not Rated
+V90 Cross Country,Volvo,Rs. 15.00 Lakh,Diesel,Automatic,1969 cc,N/A,Not Rated
+V90 Cross Country,Volvo,Rs. 66.15 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+V90 Cross Country,Volvo,Rs. 55.65 Lakh,Electric,Unknown,Electric Motor,N/A,Not Rated
+V90 Cross Country,Volvo,Rs. 65.32 Lakh,Diesel,Automatic,1969 cc,N/A,Not Rated
+V90 Cross Country,Volvo,Rs. 65.32 Lakh,Diesel,Automatic,Unknown,N/A,Not Rated
+V90 Cross Country,Volvo,Rs. 65.32 Lakh,Diesel,Unknown,Unknown,N/A,Not Rated
+XC40,Volvo,Rs. 46.40 Lakh,Petrol,Automatic,1969 cc,14.4 kmpl,Not Rated
+XC40,Volvo,Rs. 16.00 Lakh,Petrol,Automatic,1969 cc,14.4 kmpl,Not Rated
+XC40,Volvo,Rs. 46.40 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+XC40,Volvo,Rs. 46.40 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+S40,Volvo,Rs. 30.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+S40,Volvo,Rs. 17.00 Lakh,Petrol,Manual,Unknown,N/A,Not Rated
+S40,Volvo,Rs. 30.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+S60,Volvo,Rs. 45.90 Lakh,Petrol,Automatic,1969 cc,14 kmpl,Not Rated
+S60,Volvo,Rs. 4.99 Lakh,Petrol,Automatic,1969 cc,14 kmpl,Not Rated
+S60,Volvo,Rs. 45.90 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+S60,Volvo,Rs. 45.90 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+V70 [Import],Volvo,Rs. 36.00 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+V70 [Import],Volvo,Rs. 10.50 Lakh,Petrol,Automatic,Unknown,N/A,Not Rated
+V70 [Import],Volvo,Rs. 36.00 Lakh,Petrol,Unknown,Unknown,N/A,Not Rated
+वॉल्वो कार्स,Volvo,On Request,Electric,Unknown,Electric Motor,N/A,4.6/5
